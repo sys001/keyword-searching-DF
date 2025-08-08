@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-09-02 21:19:54" modified="2023-09-02 21:35:55" name="law-society">
+  <keyword literal="true" whole="true">Agent</keyword>
+  <keyword literal="true" whole="true">Agreement</keyword>
+  <keyword literal="true" whole="true">Allegation</keyword>
+  <keyword literal="true" whole="true">Appointeeship</keyword>
+  <keyword literal="true" whole="true">Alternative dispute resolution</keyword>
+  <keyword literal="true" whole="true">Alternative business structures</keyword>
+  <keyword literal="true" whole="true">Ancillary relief</keyword>
+  <keyword literal="true" whole="true">Arbitration</keyword>
+  <keyword literal="true" whole="true">Assets</keyword>
+  <keyword literal="true" whole="true">Associate</keyword>
+  <keyword literal="true" whole="true">Asylum</keyword>
+  <keyword literal="true" whole="true">Assured shorthold tenancy</keyword>
+  <keyword literal="true" whole="true">Assured tenancy</keyword>
+  <keyword literal="true" whole="true">Bankrupt</keyword>
+  <keyword literal="true" whole="true">Barrister</keyword>
+  <keyword literal="true" whole="true">Beneficiary</keyword>
+  <keyword literal="true" whole="true">Bequest</keyword>
+  <keyword literal="true" whole="true">Chambers</keyword>
+  <keyword literal="true" whole="true">Chattels</keyword>
+  <keyword literal="true" whole="true">Civil law</keyword>
+  <keyword literal="true" whole="true">Claimant</keyword>
+  <keyword literal="true" whole="true">Client</keyword>
+  <keyword literal="true" whole="true">Cohabitation contracts</keyword>
+  <keyword literal="true" whole="true">Compensation</keyword>
+  <keyword literal="true" whole="true">Compromise agreements</keyword>
+  <keyword literal="true" whole="true">Conciliation</keyword>
+  <keyword literal="true" whole="true">Conditional fee agreement</keyword>
+  <keyword literal="true" whole="true">Conditions</keyword>
+  <keyword literal="true" whole="true">Contract</keyword>
+  <keyword literal="true" whole="true">Continuing professional development</keyword>
+  <keyword literal="true" whole="true">Conveyancing</keyword>
+  <keyword literal="true" whole="true">Costs lawyers</keyword>
+  <keyword literal="true" whole="true">Counsel</keyword>
+  <keyword literal="true" whole="true">Creditor</keyword>
+  <keyword literal="true" whole="true">Crown Prosecution Service</keyword>
+  <keyword literal="true" whole="true">Crown prosecutor</keyword>
+  <keyword literal="true" whole="true">Crown courts</keyword>
+  <keyword literal="true" whole="true">Court of protection</keyword>
+  <keyword literal="true" whole="true">Culpable</keyword>
+  <keyword literal="true" whole="true">Damages</keyword>
+  <keyword literal="true" whole="true">Discrimination</keyword>
+  <keyword literal="true" whole="true">Disbursement</keyword>
+  <keyword literal="true" whole="true">Domicile</keyword>
+  <keyword literal="true" whole="true">Estate</keyword>
+  <keyword literal="true" whole="true">Evidence</keyword>
+  <keyword literal="true" whole="true">Executor</keyword>
+  <keyword literal="true" whole="true">Exempt European lawyer</keyword>
+  <keyword literal="true" whole="true">Fee earners</keyword>
+  <keyword literal="true" whole="true">Forfeited</keyword>
+  <keyword literal="true" whole="true">Fraud</keyword>
+  <keyword literal="true" whole="true">Fraudster</keyword>
+  <keyword literal="true" whole="true">Grants of representation</keyword>
+  <keyword literal="true" whole="true">Grounds</keyword>
+  <keyword literal="true" whole="true">Hearing</keyword>
+  <keyword literal="true" whole="true">Incorporated company</keyword>
+  <keyword literal="true" whole="true">Indemnity</keyword>
+  <keyword literal="true" whole="true">Independent person</keyword>
+  <keyword literal="true" whole="true">Inheritance</keyword>
+  <keyword literal="true" whole="true">In-house lawyer</keyword>
+  <keyword literal="true" whole="true">Insolvent</keyword>
+  <keyword literal="true" whole="true">Instructing</keyword>
+  <keyword literal="true" whole="true">Integrity</keyword>
+  <keyword literal="true" whole="true">Intellectual property</keyword>
+  <keyword literal="true" whole="true">Interest</keyword>
+  <keyword literal="true" whole="true">Interim proceedings</keyword>
+  <keyword literal="true" whole="true">Intervention</keyword>
+  <keyword literal="true" whole="true">Intestate</keyword>
+  <keyword literal="true" whole="true">Judge</keyword>
+  <keyword literal="true" whole="true">Jury</keyword>
+  <keyword literal="true" whole="true">Lasting power of attorney</keyword>
+  <keyword literal="true" whole="true">Law firm</keyword>
+  <keyword literal="true" whole="true">Law Society of England and Wales</keyword>
+  <keyword literal="true" whole="true">Lawyer</keyword>
+  <keyword literal="true" whole="true">Legal aid</keyword>
+  <keyword literal="true" whole="true">Legal disciplinary practice</keyword>
+  <keyword literal="true" whole="true">Legal executive</keyword>
+  <keyword literal="true" whole="true">Legal Ombudsman</keyword>
+  <keyword literal="true" whole="true">Legal professional privilege</keyword>
+  <keyword literal="true" whole="true">Legal services</keyword>
+  <keyword literal="true" whole="true">Liable</keyword>
+  <keyword literal="true" whole="true">Liability</keyword>
+  <keyword literal="true" whole="true">Licensed conveyancer</keyword>
+  <keyword literal="true" whole="true">Limited liability partnership</keyword>
+  <keyword literal="true" whole="true">Litigation</keyword>
+  <keyword literal="true" whole="true">Litigant</keyword>
+  <keyword literal="true" whole="true">Litigant in person</keyword>
+  <keyword literal="true" whole="true">Magistrate</keyword>
+  <keyword literal="true" whole="true">Manager (of a law firm) </keyword>
+  <keyword literal="true" whole="true">Matter</keyword>
+  <keyword literal="true" whole="true">Mediation</keyword>
+  <keyword literal="true" whole="true">Misconduct</keyword>
+  <keyword literal="true" whole="true">Money laundering</keyword>
+  <keyword literal="true" whole="true">Multinational</keyword>
+  <keyword literal="true" whole="true">Next-of-kin status</keyword>
+  <keyword literal="true" whole="true">No win no fee</keyword>
+  <keyword literal="true" whole="true">Notary</keyword>
+  <keyword literal="true" whole="true">Obligation</keyword>
+  <keyword literal="true" whole="true">Omission</keyword>
+  <keyword literal="true" whole="true">Ordinary power of attorney</keyword>
+  <keyword literal="true" whole="true">Outcome</keyword>
+  <keyword literal="true" whole="true">Outcomes-focused regulation</keyword>
+  <keyword literal="true" whole="true">Out-of-court settlement</keyword>
+  <keyword literal="true" whole="true">Paralegal</keyword>
+  <keyword literal="true" whole="true">Partner</keyword>
+  <keyword literal="true" whole="true">Partnership</keyword>
+  <keyword literal="true" whole="true">Patent attorney</keyword>
+  <keyword literal="true" whole="true">Patent agent</keyword>
+  <keyword literal="true" whole="true">Personal representatives</keyword>
+  <keyword literal="true" whole="true">Practising certificate</keyword>
+  <keyword literal="true" whole="true">Probate</keyword>
+  <keyword literal="true" whole="true">Prima facie</keyword>
+  <keyword literal="true" whole="true">Pro bono</keyword>
+  <keyword literal="true" whole="true">Public interest </keyword>
+  <keyword literal="true" whole="true">Pursuant</keyword>
+  <keyword literal="true" whole="true">Recognised body</keyword>
+  <keyword literal="true" whole="true">sole practitioner</keyword>
+  <keyword literal="true" whole="true">Registered European lawyer</keyword>
+  <keyword literal="true" whole="true">Registered Foreign lawyer</keyword>
+  <keyword literal="true" whole="true">Regulated individual </keyword>
+  <keyword literal="true" whole="true">Remunerate</keyword>
+  <keyword literal="true" whole="true">Revocation</keyword>
+  <keyword literal="true" whole="true">Rights of audience</keyword>
+  <keyword literal="true" whole="true">Risk</keyword>
+  <keyword literal="true" whole="true">Roll of solicitors</keyword>
+  <keyword literal="true" whole="true">Scam</keyword>
+  <keyword literal="true" whole="true">Sole practitioner</keyword>
+  <keyword literal="true" whole="true">Solicitor</keyword>
+  <keyword literal="true" whole="true">Solicitors Regulation Authority </keyword>
+  <keyword literal="true" whole="true">Striking-off</keyword>
+  <keyword literal="true" whole="true">struck-off </keyword>
+  <keyword literal="true" whole="true">Tenancy</keyword>
+  <keyword literal="true" whole="true">Third party</keyword>
+  <keyword literal="true" whole="true">Trademark attorney</keyword>
+  <keyword literal="true" whole="true">Trainee solicitor</keyword>
+  <keyword literal="true" whole="true">Transparent</keyword>
+  <keyword literal="true" whole="true">Tribunal</keyword>
+  <keyword literal="true" whole="true">Unadmitted</keyword>
+  <keyword literal="true" whole="true">Unfair dismissal </keyword>
+  <keyword literal="true" whole="true">Unlawful</keyword>
+ </keyword_list>
+</keyword_lists>

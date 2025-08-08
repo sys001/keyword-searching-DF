@@ -1,0 +1,29 @@
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/microsoft.system.package.metadata/Autogen/JSByteCodeCache_64
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/4D0AED9A66A9518411B7439E14573604EC28B43A
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/D0F48A0632B6C451791F4257697E861961F06A6F
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Roaming/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/formhistory.sqlite
+/vol_vol6/Users/catherine/AppData/Roaming/Microsoft/Windows/Recent/CustomDestinations/5334bb9ae717b8b8.customDestinations-ms
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Roaming/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/sessionstore-backups/previous.jsonlz4
+/vol_vol6/Users/catherine/AppData/Local/ConnectedDevicesPlatform/L.catherine/ActivitiesCache.db
+/vol_vol6/Users/catherine/Downloads/ANNALS-2018-3-26.pdf
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/LocalState/static-50520.js
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/LocalState/static-50525.js
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/js/data.js
+/vol_vol6/Program Files/Wireshark/libwireshark.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Roaming/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/sessionstore-backups/upgrade.jsonlz4-20230815173142
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/9E2C39C7759C92C218D1FED611F61A368CE033BD
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/618D772EAA4E81654D8AA043E4E0BC3AB1278BD8
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/AppxManifest.xml
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Windows/UsrClass.dat
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/js/appData.json
+/vol_vol6/pagefile.sys
+/vol_vol6/Users/catherine/NTUSER.DAT
+/vol_vol6/aircrack-ng-1.7-win/scripts/airdrop-ng/README
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/LocalState/static-50523.js
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/scripts/airdrop-ng/README
+/vol_vol6/Users/catherine/Downloads/wireless_hacking.pdf
+/vol_vol6/Program Files/Wireshark/enterprises.tsv
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Roaming/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/places.sqlite
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/41E3BA12683216F96220F2BD01949E5101CD6A96
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/js/cache/static-50520.js
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/LocalState/_sessionState.json

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-09-07 17:03:40" modified="2023-09-07 17:04:14" name="chat-gtp-enron-3">
+  <keyword literal="true" whole="true">attorney</keyword>
+  <keyword literal="true" whole="true">lawyer</keyword>
+  <keyword literal="true" whole="true">legal</keyword>
+  <keyword literal="true" whole="true">lawsuit</keyword>
+  <keyword literal="true" whole="true">court</keyword>
+  <keyword literal="true" whole="true">contract</keyword>
+  <keyword literal="true" whole="true">deposition</keyword>
+  <keyword literal="true" whole="true">arbitration</keyword>
+  <keyword literal="true" whole="true">litigation</keyword>
+  <keyword literal="true" whole="true">attorney-client</keyword>
+  <keyword literal="true" whole="true">privilege</keyword>
+  <keyword literal="true" whole="true">subpoena</keyword>
+  <keyword literal="true" whole="true">affidavit</keyword>
+  <keyword literal="true" whole="true">settlement</keyword>
+  <keyword literal="true" whole="true">compliance</keyword>
+  <keyword literal="true" whole="true">regulatory</keyword>
+  <keyword literal="true" whole="true">investigation</keyword>
+  <keyword literal="true" whole="true">employment</keyword>
+  <keyword literal="true" whole="true">discrimination</keyword>
+  <keyword literal="true" whole="true">harassment</keyword>
+  <keyword literal="true" whole="true">labor union</keyword>
+  <keyword literal="true" whole="true">patent</keyword>
+  <keyword literal="true" whole="true">trademark</keyword>
+  <keyword literal="true" whole="true">copyright</keyword>
+  <keyword literal="true" whole="true">infringement</keyword>
+  <keyword literal="true" whole="true">agreement</keyword>
+  <keyword literal="true" whole="true">terms and conditions</keyword>
+  <keyword literal="true" whole="true">breach</keyword>
+  <keyword literal="true" whole="true">termination</keyword>
+  <keyword literal="true" whole="true">tax</keyword>
+  <keyword literal="true" whole="true">IRS</keyword>
+  <keyword literal="true" whole="true">audit</keyword>
+  <keyword literal="true" whole="true">deduction</keyword>
+  <keyword literal="true" whole="true">tax code</keyword>
+  <keyword literal="true" whole="true">corporation</keyword>
+  <keyword literal="true" whole="true">LLC (Limited Liability Company)</keyword>
+  <keyword literal="true" whole="true">partnership</keyword>
+  <keyword literal="true" whole="true">plaintiff</keyword>
+  <keyword literal="true" whole="true">defendant</keyword>
+  <keyword literal="true" whole="true">claim</keyword>
+  <keyword literal="true" whole="true">dispute</keyword>
+  <keyword literal="true" whole="true">judgment</keyword>
+ </keyword_list>
+</keyword_lists>

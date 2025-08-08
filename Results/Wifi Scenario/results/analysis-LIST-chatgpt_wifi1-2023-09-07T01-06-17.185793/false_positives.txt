@@ -1,0 +1,23 @@
+/vol_vol6/aircrack-ng-1.7-win/src/Makefile.inc
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-l..lperclass.resources_31bf3856ad364e35_10.0.19041.1_en-us_f3b35eaa1de83a35/L2SecHC.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-a..ence-mitigations-c1_31bf3856ad364e35_10.0.19041.2846_none_80a52d79a7b03415/sysmain.sdb
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/doomed/19422
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/doomed/2722
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/Makefile.inc
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache133377841585412021.txt
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-w..lperclass.resources_31bf3856ad364e35_10.0.19041.1_en-gb_dd3f542311b29ecc/WLanHC.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.XboxGameOverlay_1.46.11001.0_x64__8wekyb3d8bbwe/KnownGameList.bin
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-l..lperclass.resources_31bf3856ad364e35_10.0.19041.1_en-us_fe0808fc5248fc30/L2SecHC.dll.mui
+/vol_vol6/Windows/System32/en-US/L2SecHC.dll.mui
+/vol_vol6/Windows/apppatch/sysmain.sdb
+/vol_vol6/Program Files/WindowsApps/Microsoft.XboxGameOverlay_1.46.11001.0_x64__8wekyb3d8bbwe/KnownGameListRS3.bin
+/vol_vol6/Windows/WinSxS/amd64_microsoft-media-cap..ternal-broadcastdvr_31bf3856ad364e35_10.0.19041.2965_none_2bef39d6cb6802bb/KnownGameList.bin
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/WLanHC.dll.mui
+/vol_vol6/Windows/System32/en-GB/WLanHC.dll.mui
+/vol_vol6/Windows/SysWOW64/en-US/L2SecHC.dll.mui
+/vol_vol6/$OrphanFiles/sv-SE/MpAsDesc.dll.mui
+/vol_vol6/$OrphanFiles/kok-IN/mpuxagent.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/GameDVR/KnownGameList.bin
+/vol_vol6/Windows/bcastdvr/KnownGameList.bin
+/vol_vol6/Program Files/WindowsApps/Microsoft.XboxGameOverlay_1.46.11001.0_x64__8wekyb3d8bbwe/KnownGameListRS4.bin
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache133377841695358253.txt

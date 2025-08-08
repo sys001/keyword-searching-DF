@@ -1,0 +1,8 @@
+/vol_vol6/aircrack-ng-1.7-win/src/Makefile.inc
+/vol_vol6/$OrphanFiles/sv-SE/MpAsDesc.dll.mui
+/vol_vol6/$OrphanFiles/kok-IN/mpuxagent.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/doomed/2722
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/Makefile.inc
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache133377841695358253.txt
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache133377841585412021.txt
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/doomed/19422

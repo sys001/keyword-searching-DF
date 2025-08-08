@@ -1,0 +1,37 @@
+Contents of the folder
+
+Keyword Lists (xml files)
+
+- All assembled lists, ChatGPT lists and internet lists referenced in the paper.
+
+Code (All in Python)
+- Autopsy Plugin
+- Stats Calculator
+- Annotation Generation
+  - Script for generating basic annotation from Kaggle Datasets
+  - Script for parsing the Enron Subset and creating annotation
+  - Script for generating Autopsy-compatible annotation for all datasets to be compared to the Autopsy Plugin Outputs
+- ReadMe file that explains how all the scripts work together and can be executed
+
+Results
+- Airports
+  - airports_basic
+  - airports_books
+  - airports_windows
+- Enron
+- Wifi Scenario
+
+For the above the results contain:
+- Output of the Autopsy Plugin for all keyword searches
+- Output of the stats calculator for all keyword searches
+- Summary tables
+- Files names of true positives, false positives, true negatives and false negatives hits for all keyword searches
+
+
+Annotations
+
+Contains the annotation files for each experiment.
+  
+
+
+

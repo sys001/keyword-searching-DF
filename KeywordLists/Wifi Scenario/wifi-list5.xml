@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-09-02 15:13:58" modified="2023-09-02 15:14:05" name="wifi-list5">
+  <keyword literal="true" whole="true">aircrack-ng</keyword>
+  <keyword literal="true" whole="true">wifite</keyword>
+  <keyword literal="true" whole="true">kismet</keyword>
+  <keyword literal="true" whole="true">wiphisher</keyword>
+  <keyword literal="true" whole="true">inSSider</keyword>
+  <keyword literal="true" whole="true">wireshark</keyword>
+  <keyword literal="true" whole="true">cowpatty</keyword>
+  <keyword literal="true" whole="true">airjack</keyword>
+  <keyword literal="true" whole="true">airgeddon</keyword>
+  <keyword literal="true" whole="true">omnipeek</keyword>
+  <keyword literal="true" whole="true">commview</keyword>
+  <keyword literal="true" whole="true">cloudcracker</keyword>
+  <keyword literal="true" whole="true">kali</keyword>
+  <keyword literal="true" whole="true">nethunter</keyword>
+  <keyword literal="true" whole="true">hashcat</keyword>
+  <keyword literal="true" whole="true">SSID</keyword>
+  <keyword literal="true" whole="true">cracking</keyword>
+  <keyword literal="true" whole="true">hacking</keyword>
+  <keyword literal="true" whole="true">packet</keyword>
+ </keyword_list>
+</keyword_lists>

@@ -1,0 +1,7 @@
+/vol_vol2/data/relevant/r3731.txt
+/vol_vol2/data/relevant/r1381.txt
+/vol_vol2/data/relevant/r1382.txt
+/vol_vol2/data/relevant/r757.txt
+/vol_vol2/data/relevant/r903.txt
+/vol_vol2/data/relevant/r4825.txt
+/vol_vol2/data/relevant/r2520.txt

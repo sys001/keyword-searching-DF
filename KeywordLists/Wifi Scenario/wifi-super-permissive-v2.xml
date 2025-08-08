@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-09-07 19:00:21" modified="2023-09-07 19:06:30" name="wifi-super-permissive-v2">
+  <keyword literal="true" whole="true">wifite</keyword>
+  <keyword literal="true" whole="true">wiphisher</keyword>
+  <keyword literal="true" whole="true">inSSider</keyword>
+  <keyword literal="true" whole="true">cowpatty</keyword>
+  <keyword literal="true" whole="true">omnipeek</keyword>
+  <keyword literal="true" whole="true">commview</keyword>
+  <keyword literal="true" whole="true">cloudcracker</keyword>
+  <keyword literal="true" whole="true">nethunter</keyword>
+  <keyword literal="true" whole="true">hashcat</keyword>
+  <keyword literal="true" whole="true">Packetforge</keyword>
+  <keyword literal="true" whole="true">decrypted WPA</keyword>
+  <keyword literal="true" whole="true">RADIOTAP</keyword>
+  <keyword literal="true" whole="true">IW_MODE_MONITOR</keyword>
+  <keyword literal="true" whole="true">Elcomsoft Wireless Security Auditor</keyword>
+  <keyword literal="true" whole="true">VERIFYSSID</keyword>
+  <keyword literal="true" whole="true">attackstate</keyword>
+  <keyword literal="true" whole="false">airgraph-ng</keyword>
+  <keyword literal="true" whole="false">npcap</keyword>
+  <keyword literal="true" whole="false">Airodump</keyword>
+  <keyword literal="true" whole="false">aircrack</keyword>
+  <keyword literal="true" whole="false">aircrack-ng</keyword>
+  <keyword literal="true" whole="false">wireshark</keyword>
+  <keyword literal="true" whole="false">Aircrack-ng</keyword>
+  <keyword literal="true" whole="false">airdecap-ng</keyword>
+  <keyword literal="true" whole="false">Airmon-ng</keyword>
+  <keyword literal="true" whole="false">Airdecloak-ng</keyword>
+  <keyword literal="true" whole="false">AIRCRACK</keyword>
+  <keyword literal="true" whole="false">Aireplay-ng</keyword>
+  <keyword literal="true" whole="false">airdrop-ng</keyword>
+  <keyword literal="true" whole="false">Airgraphviz</keyword>
+  <keyword literal="true" whole="false">airgraphviz</keyword>
+  <keyword literal="true" whole="false">Airgraph-ng</keyword>
+  <keyword literal="true" whole="false">airodump</keyword>
+  <keyword literal="true" whole="false">Airdecloak</keyword>
+  <keyword literal="true" whole="false">remote-exploit</keyword>
+  <keyword literal="true" whole="true">WPA-PSK Key Cracker</keyword>
+  <keyword literal="true" whole="true">traffic decrypted</keyword>
+  <keyword literal="true" whole="true">Beacon frames</keyword>
+  <keyword literal="true" whole="true">WEP_KEYLEN</keyword>
+  <keyword literal="true" whole="true">Cleartext-Password</keyword>
+  <keyword literal="true" whole="true">monitor interface</keyword>
+  <keyword literal="true" whole="true">Monitor frame</keyword>
+  <keyword literal="true" whole="true">WEP IV</keyword>
+  <keyword literal="true" whole="true">scapy</keyword>
+  <keyword literal="true" whole="true">pcapy</keyword>
+  <keyword literal="true" whole="true">set_mac_address</keyword>
+  <keyword literal="true" whole="true">BSS_MONITOR</keyword>
+  <keyword literal="true" whole="true">Probed ESSIDs</keyword>
+  <keyword literal="true" whole="false">Airtun-ng</keyword>
+  <keyword literal="true" whole="false">Airserv-ng</keyword>
+  <keyword literal="true" whole="false">Wlansniff</keyword>
+  <keyword literal="true" whole="false">Airpcap</keyword>
+  <keyword literal="true" whole="true">FILTER_BEACON</keyword>
+  <keyword literal="true" whole="false">airjack</keyword>
+  <keyword literal="true" whole="false">airgeddon</keyword>
+  <keyword literal="true" whole="false">Airmon</keyword>
+  <keyword literal="true" whole="false">airolib</keyword>
+  <keyword literal="true" whole="false">monitor_enable</keyword>
+  <keyword literal="true" whole="false">Airodump-join</keyword>
+  <keyword literal="true" whole="false">wpa_key</keyword>
+  <keyword literal="true" whole="false">Wep_key</keyword>
+  <keyword literal="true" whole="false">wep_frame</keyword>
+  <keyword literal="true" whole="false">airtun-ng</keyword>
+  <keyword literal="true" whole="false">tcpdump</keyword>
+  <keyword literal="true" whole="false">wpaclean</keyword>
+  <keyword literal="true" whole="false">versuck-ng</keyword>
+  <keyword literal="true" whole="true">kismet</keyword>
+  <keyword literal="true" whole="false">hacking</keyword>
+  <keyword literal="true" whole="true">Promiscuous</keyword>
+  <keyword literal="true" whole="true">Wifi</keyword>
+  <keyword literal="true" whole="true">Wi-fi</keyword>
+  <keyword literal="true" whole="true">Wireless</keyword>
+  <keyword literal="true" whole="true">Wpa</keyword>
+  <keyword literal="true" whole="true">Wep</keyword>
+  <keyword literal="true" whole="true">SSID</keyword>
+  <keyword literal="true" whole="true">BSSID</keyword>
+  <keyword literal="true" whole="true">Hack</keyword>
+  <keyword literal="true" whole="true">Credentials</keyword>
+  <keyword literal="true" whole="true">Remote-exploit</keyword>
+  <keyword literal="true" whole="true">Pcap</keyword>
+  <keyword literal="true" whole="true">Npcap</keyword>
+  <keyword literal="true" whole="true">Kali</keyword>
+  <keyword literal="true" whole="true">Packet</keyword>
+  <keyword literal="true" whole="true">Cracking</keyword>
+  <keyword literal="true" whole="true">beacon</keyword>
+  <keyword literal="true" whole="true">Monitor mode</keyword>
+  <keyword literal="true" whole="true">monitor_mode</keyword>
+ </keyword_list>
+</keyword_lists>

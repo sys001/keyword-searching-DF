@@ -1,0 +1,753 @@
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..-installers-onecore_31bf3856ad364e35_10.0.19041.2905_none_6030ab975ad5cf80/NetSetupEngine.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_athw8x.inf_31bf3856ad364e35_10.0.19041.1_none_31783fb7c0c5cc3b/athw8x.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ms.pak
+/vol_vol6/Windows/System32/en-GB/wlansvc.dll.mui
+/vol_vol6/Windows/SysWOW64/en-GB/wlansvc.dll.mui
+/vol_vol6/Windows/SysWOW64/wlgpclnt.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/rtmpltfm.dll
+/vol_vol6/Windows/INF/netbc64.inf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/doomed/2722
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/dwritemin.dll
+/vol_vol6/Windows/System32/LogFiles/WMI/NetCore.etl
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-c..cn-config-registrar_31bf3856ad364e35_10.0.19041.746_none_0516ef53f4f8527d/wcncsvc.dll
+/vol_vol6/Windows/System32/Windows.Devices.WiFi.dll
+/vol_vol6/Windows/INF/net819xp.inf
+/vol_vol6/Windows/System32/wlanui.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-onecoreuap-raschap_31bf3856ad364e35_10.0.19041.2604_none_2f85928ace4e5894/raschap.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/TempState/CortanaUnifiedTileModelCache.dat
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-onecoreuap-wlansvc_31bf3856ad364e35_10.0.19041.2546_none_b7831f19a79d743f/Report.System.Wireless.xml
+/vol_vol6/Windows/INF/oem9.inf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/ReactNativeBundle.bin
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlangpclient_31bf3856ad364e35_10.0.19041.488_none_96754d2c2f87291c/wlgpclnt.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-font-fms_31bf3856ad364e35_10.0.19041.1_none_08186d73880e7c3c/fms.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-skype-ortc_31bf3856ad364e35_10.0.19041.153_none_c7e282bdad806bdc/r/ortcengine.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/f4f0832c-5e91-43a1-8037-95a0bc87bbc0
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-netjoin_31bf3856ad364e35_10.0.19041.2913_none_cbcf882e2235613a/netjoin.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-onex_31bf3856ad364e35_10.0.19041.928_none_83dc0af17c18da31/onex.dll
+/vol_vol6/Windows/System32/config/DRIVERS
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Windows/Caches/{3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x000000000000000f.db
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.16138.16099.4/json/i18n-tokenized-card/id/strings.json
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-o...appxmain.resources_31bf3856ad364e35_10.0.19041.1_en-gb_2c64e0df71ddc544/resources.en-GB.pri
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/AsyncStorage/ecsDefaultConfig.data
+/vol_vol6/Windows/SystemResources/Taskmgr.exe.mun
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/dwritemin.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-analog-h2-hydrogenrt_31bf3856ad364e35_10.0.19041.2965_none_6a235e2f737c84ae/Hydrogen.dll
+/vol_vol6/Windows/SysWOW64/en-GB/wcnwiz.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-smartscreen_31bf3856ad364e35_10.0.19041.2913_none_31d73544d5909088/smartscreen.exe
+/vol_vol6/Windows/System32/WDI/LogFiles/BootPerfDiagLogger.etl
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-pktmon-setup_31bf3856ad364e35_10.0.19041.2913_none_c861c154532c93ea/PktMon.exe
+/vol_vol6/Windows/INF/netbc63a.inf
+/vol_vol6/Windows/WinSxS/amd64_dual_netrasa.inf_31bf3856ad364e35_10.0.19041.1_none_099c220a1124cba9/netrasa.inf
+/vol_vol6/Windows/WinSxS/wow64_presentationcore_31bf3856ad364e35_4.0.15805.0_none_d98c964acb93f681/PresentationCore.dll
+/vol_vol6/Windows/Fonts/YuGothR.ttc
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i..tocolimplementation_31bf3856ad364e35_11.0.19041.2193_none_ba74f1fe806de050/wininet.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_rtwlanu_oldic.inf_31bf3856ad364e35_10.0.19041.1_none_00317e0c4812d44c/rtwlanu_oldIC.inf
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwew01.inf_amd64_153e01d761813df2/NETwew01.sys
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/wlanpref.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/OneDrive/21.220.1024.0005/sl/FileSync.LocalizedResources.dll.mui
+/vol_vol6/Windows/L2Schemas/WLAN_profile_v1.xsd
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netathr10x.inf_amd64_2691c4f95b80eb3b/Data9377_2_0.msc
+/vol_vol6/Windows/System32/wlansvc.dll
+/vol_vol6/Windows/System32/en-US/dhcpcsvc6.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wcn-netsh-helper_31bf3856ad364e35_10.0.19041.746_none_c0134b70522fa0f5/WcnNetsh.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/id.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netr7364.inf_amd64_310ee0bc0af86ba3/netr7364.sys
+/vol_vol6/Windows/SysWOW64/onex.dll
+/vol_vol6/Windows/System32/DriverStore/en-US/netrtwlane01.inf_loc
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-gdi32full_31bf3856ad364e35_10.0.19041.2913_none_ca60dc4ddcb14295/gdi32full.dll
+/vol_vol6/Windows/System32/adtschema.dll
+/vol_vol6/Windows/InputMethod/CHS/ChsWubi.lex
+/vol_vol6/Windows/schemas/Provisioning/provisioning_wlan_v1.xsd
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ms.pak.DATA
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-l..lperclass.resources_31bf3856ad364e35_10.0.19041.1_en-us_fe0808fc5248fc30/L2SecHC.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netk57a.inf_31bf3856ad364e35_10.0.19041.1_none_3be1ac5f0db16460/k57nd60a.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/mwlu97w8x64.inf_amd64_23bc3dc6d91eebdc/mwlu97w8x64.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-u..n-desktop.resources_31bf3856ad364e35_10.0.19041.1865_en-gb_a6e5e82a90cf322b/Windows.UI.ShellCommon.en-GB.pri
+/vol_vol6/Windows/SysWOW64/en-GB/WLanConn.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netr28ux.inf_31bf3856ad364e35_10.0.19041.1_none_f8113961ee4ef685/netr28ux.sys
+/vol_vol6/Windows/System32/TetheringMgr.dll
+/vol_vol6/Windows/WinSxS/amd64_netrtwlanu.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_1c5dded6aa4dfc46/netrtwlanu.inf_loc
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-t..peech-en-gb-onecore_31bf3856ad364e35_10.0.19041.1_none_8f9da608c4cf5717/M2057Susan.SPEECHUX.NUS
+/vol_vol6/Windows/System32/wininet.dll
+/vol_vol6/Windows/SysWOW64/Windows.Devices.WiFi.dll
+/vol_vol6/Windows/SystemResources/Windows.UI.ShellCommon/pris/Windows.UI.ShellCommon.en-GB.pri
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-onecoreuap-wlansvc_31bf3856ad364e35_10.0.19041.2546_none_b7831f19a79d743f/wlansvc.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/WLanHC.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8187bv64.inf_amd64_bc859d32f3e2f0d5/net8187bv64.inf
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrasa.inf_amd64_1bdf7a435cb3580d/netrasa.inf
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.16138.16099.4/json/i18n-ec/id/strings.json
+/vol_vol6/Windows/System32/drivers/ndis.sys
+/vol_vol6/Windows/System32/winevt/Logs/Microsoft-Windows-Kernel-PnP%4Configuration.evtx
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlanu.inf_amd64_1815bafd14dc59f0/rtwlanu.sys
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wlansvc.resources_31bf3856ad364e35_10.0.19041.1202_en-gb_b551a61884894882/wlanapi.dll.mui
+/vol_vol6/$OrphanFiles/sv-SE/MpAsDesc.dll.mui
+/vol_vol6/Windows/SysWOW64/WlanHelper.exe
+/vol_vol6/Windows/System32/bootux.dll
+/vol_vol6/Windows/WinSxS/x86_microsoft-windows-n..ork-setup-servicing_31bf3856ad364e35_10.0.19041.546_none_08233853b4979338/NetSetupEngine.dll
+/vol_vol6/Windows/L2Schemas/WFD_profile_v1.xsd
+/vol_vol6/Windows/System32/WDI/LogFiles/WdiContextLog.etl.001
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-ie-htmlrendering_31bf3856ad364e35_11.0.19041.2728_none_cb86bda700fbbff0/edgehtml.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlanmediamanager_31bf3856ad364e35_10.0.19041.746_none_7b704dfc45023538/WlanMM.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.2913_none_772de1b0030e4140/cloudDomainJoin.js
+/vol_vol6/Windows/INF/rtwlanu_oldIC.inf
+/vol_vol6/Windows/WinSxS/amd64_bcmwdidhdpcie.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_6ef47fef73f69fa1/bcmwdidhdpcie.inf_loc
+/vol_vol6/Windows/INF/netwns64.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/resources.pak
+/vol_vol6/Windows/WinSxS/amd64_mdmsettingsprov.resources_31bf3856ad364e35_10.0.19041.1_en-gb_760b8d9fc893e3f8/MDMSettingsProv.mfl
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/icudtl.dat
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-m..tworkedcamerasource_31bf3856ad364e35_10.0.19041.2193_none_4278728cc19fa116/FsNVSDeviceSource.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{80ac28a2-dc8b-47f9-b97d-95be8c61635a}/Apps.index
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netathrx.inf_amd64_220db23f5419ea8d/athwnx.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-d..rks-usermode-others_31bf3856ad364e35_10.0.19041.746_none_8ba7bf81a92f3555/WUDFx.dll
+/vol_vol6/Windows/System32/en-GB/wlanapi.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_net8192su64.inf_31bf3856ad364e35_10.0.19041.1_none_f6ae9a69b6662cfe/net8192su64.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..-installers-onecore_31bf3856ad364e35_10.0.19041.1_none_a1ad7e1744c3f0bf/NetSetupEngine.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-nwifi.resources_31bf3856ad364e35_10.0.19041.1202_en-us_86d6239ab7fe61ed/nwifi.sys.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-w..sh-helper.resources_31bf3856ad364e35_10.0.19041.1_en-us_a38d7bfae8bfcdba/WcnNetsh.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/SystemAppData/Helium/UserClasses.dat
+/vol_vol6/Windows/L2Schemas/WLAN_profile_v2.xsd
+/vol_vol6/ProgramData/Microsoft/Windows Defender/Definition Updates/StableEngineEtwLocation/mpengine_etw.dll
+/vol_vol6/Windows/System32/Packet.dll
+/vol_vol6/Users/catherine/AppData/Local/Temp/vmware-catherine/00002a9b/setup64.exe
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-directx-dxilconv_31bf3856ad364e35_10.0.19041.1_none_e6766cc6afd8bc54/dxilconv.dll
+/vol_vol6/Windows/System32/NpcapHelper.exe
+/vol_vol6/Windows/WinSxS/amd64_dual_net8185.inf_31bf3856ad364e35_10.0.19041.1_none_96b6a763fa59d2f2/RTL85n64.sys
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wlanmediamanager_31bf3856ad364e35_10.0.19041.746_none_85c4f84e7962f733/WlanMM.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlanu.inf_31bf3856ad364e35_10.0.19041.1_none_aa6ceaf1b031d857/rtwlanu.sys
+/vol_vol6/ProgramData/Microsoft/Windows/AppRepository/StateRepository-Machine.srd
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-power-sysprep_31bf3856ad364e35_10.0.19041.1_none_1f41d6d2e78c4779/posetup.dll
+/vol_vol6/Windows/SoftwareDistribution/Download/46d4a7b59c86b08d842be936b0aa6aecf9f10692
+/vol_vol6/Windows/System32/en-US/L2SecHC.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-devices-wifi_31bf3856ad364e35_10.0.19041.746_none_d41529c12e3c1cf5/Windows.Devices.WiFi.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/npcap.inf_amd64_3d364996cc8db294/NPCAP.inf
+/vol_vol6/Windows/WinSxS/amd64_dual_netathr10x.inf_31bf3856ad364e35_10.0.19041.1_none_045e44cd3c4b69ac/Data61x4_2_2.msc
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netathr10x.inf_amd64_2691c4f95b80eb3b/Data61x4_2_2.msc
+/vol_vol6/Windows/System32/DriverStore/FileRepository/b57nd60a.inf_amd64_77a731ab08be20a5/b57nd60a.sys
+/vol_vol6/Windows/SysWOW64/NetSetupEngine.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netwlv64.inf_31bf3856ad364e35_10.0.19041.1_none_8d197dfb77b548c3/netwlv64.sys
+/vol_vol6/Windows/System32/TransformPPSToWlan.xslt
+/vol_vol6/Windows/WinSxS/amd64_dual_netwbw02.inf_31bf3856ad364e35_10.0.19041.1_none_05fb91149378a864/Netwbw02.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwsw00.inf_amd64_24d55504ae3587aa/Netwsw00.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlanui_31bf3856ad364e35_10.0.19041.1202_none_e14c4d30a209b16b/wlanui.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/WLanConn.dll.mui
+/vol_vol6/Windows/SysWOW64/Utilman.exe
+/vol_vol6/Windows/System32/DriverStore/FileRepository/npcap.inf_amd64_3d364996cc8db294/npcap.cat
+/vol_vol6/Windows/WinSxS/amd64_dual_netwlv64.inf_31bf3856ad364e35_10.0.19041.1_none_8d197dfb77b548c3/netwlv64.inf
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-cdp-api_31bf3856ad364e35_10.0.19041.2913_none_5ae2391e5de958c4/cdp.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/36f77bae-0950-49bc-ae4e-9993cf324d40
+/vol_vol6/Windows/WinSxS/x86_microsoft-windows-s..-installers-onecore_31bf3856ad364e35_10.0.19041.1704_none_0427c4cda2680fa0/NetSetupEngine.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-onex_31bf3856ad364e35_10.0.19041.928_none_8e30b543b0799c2c/onex.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8192su64.inf_amd64_66c8bfc7a4b1feed/RTL8192su.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8187se64.inf_amd64_99a4ca261f585f17/net8187se64.inf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/29be49d5-a5f1-47e8-a675-d26d0379d74c
+/vol_vol6/Windows/WinSxS/amd64_dual_netathr10x.inf_31bf3856ad364e35_10.0.19041.1_none_045e44cd3c4b69ac/Qcamain10x64.sys
+/vol_vol6/$OrphanFiles/MSFT_MpPerformanceReport.Format.ps1xml
+/vol_vol6/Windows/System32/w32time.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-font-fms_31bf3856ad364e35_10.0.19041.1_none_fdc3c32153adba41/fms.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-a..skmanager.resources_31bf3856ad364e35_10.0.19041.1202_en-gb_790b760c60adc605/Taskmgr.exe.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwns64.inf_amd64_162bb49f925c6463/NETwNs64.sys
+/vol_vol6/Windows/System32/rastls.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane_13.inf_amd64_992f4f46e65f30d4/rtwlane_13.sys
+/vol_vol6/Windows/System32/config/SYSTEM
+/vol_vol6/Windows/System32/Hydrogen.dll
+/vol_vol6/Windows/SysWOW64/WiFiDisplay.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_bcmdhd64.inf_31bf3856ad364e35_10.0.19041.1_none_bc4ccf38b07f09e7/bcmdhd63.sys
+/vol_vol6/Windows/System32/WcnNetsh.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-gdi32full_31bf3856ad364e35_10.0.19041.2965_none_d4ba5a82110db685/gdi32full.dll
+/vol_vol6/Windows/Logs/NetSetup/service.0.etl
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_id.json
+/vol_vol6/Program Files/WindowsApps/microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe/wlibim.dll
+/vol_vol6/Windows/System32/NaturalAuth.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netwsw00.inf_31bf3856ad364e35_10.0.19041.1_none_88da6969bd4fa72f/Netwsw00.INF
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/msedge.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netwew00.inf_31bf3856ad364e35_10.0.19041.1_none_9d32b0ec79600e11/NETwew00.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8187bv64.inf_amd64_bc859d32f3e2f0d5/RTL8187B.sys
+/vol_vol6/Windows/appcompat/Programs/Amcache.hve
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i..escriptdetectiondll_31bf3856ad364e35_10.0.19041.1_none_d8dcbc6b36eca435/elslad.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8187se64.inf_amd64_99a4ca261f585f17/RTL8187Se.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/resources.pak
+/vol_vol6/Windows/WinSxS/amd64_dual_netr7364.inf_31bf3856ad364e35_10.0.19041.1_none_3a1a08d4c9ee2584/netr7364.sys
+/vol_vol6/Windows/INF/athw8x.inf
+/vol_vol6/Program Files/WindowsApps/Microsoft.Microsoft3DViewer_6.1908.2042.0_x64__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeUpdate/Download/{F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}/115.0.1901.203/MicrosoftEdge_X64_115.0.1901.203.exe
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/Makefile.inc
+/vol_vol6/Windows/WinSxS/amd64_dual_netbc63a.inf_31bf3856ad364e35_10.0.19041.1_none_15613fa3304c6fc5/BCMWL63AL.SYS
+/vol_vol6/Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/js/cloudDomainJoin.js
+/vol_vol6/Windows/WinSxS/amd64_microsoft-analog-h2-hydrogenrt_31bf3856ad364e35_10.0.19041.2965_none_6a235e2f737c84ae/HologramWorld.dll
+/vol_vol6/Windows/L2Schemas/WLANAP_profile_v1.xsd
+/vol_vol6/Windows/System32/en-US/dhcpcore6.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/id.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/wlansvc.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{d408481b-6d85-4a11-9caa-1c62edc10260}/Apps.index
+/vol_vol6/Windows/apppatch/sysmain.sdb
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlansvc.resources_31bf3856ad364e35_10.0.19041.1202_en-gb_aafcfbc650288687/Rules.System.Wireless.xml
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlangpui_31bf3856ad364e35_10.0.19041.746_none_1e761b0769619cb6/wlangpui.dll
+/vol_vol6/Windows/System32/FsNVSDeviceSource.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_athw8x.inf_31bf3856ad364e35_10.0.19041.1_none_31783fb7c0c5cc3b/athw8x.INF
+/vol_vol6/Windows/System32/en-GB/WLanHC.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wlanpref.resources_31bf3856ad364e35_10.0.19041.1_en-gb_ad88ea9cc005d7ff/wlanpref.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netwew01.inf_31bf3856ad364e35_10.0.19041.1_none_c644870df2460710/NETwew01.sys
+/vol_vol6/Windows/System32/wbem/Repository/OBJECTS.DATA
+/vol_vol6/Windows/SysWOW64/DWrite.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/wlanui.dll.mui
+/vol_vol6/Windows/System32/WUDFx02000.dll
+/vol_vol6/Windows/System32/en-US/wlangpui.dll.mui
+/vol_vol6/Windows/SysWOW64/rastls.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/F6BC7CA344102C4754E17B817664BCB00E486E49
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-speechrecognizer-en-gb_31bf3856ad364e35_10.0.19041.1_none_6cf356948bd51cc5/AM032057.am
+/vol_vol6/Windows/System32/DAFWiProv.dll
+/vol_vol6/Windows/System32/WDI/LogFiles/WdiContextLog.etl.002
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wlansvc.resources_31bf3856ad364e35_10.0.19041.1202_en-gb_b551a61884894882/wlansvc.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_presentationcore_31bf3856ad364e35_4.0.15805.598_none_a792236cc548a4e4/PresentationCore.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwns64.inf_amd64_162bb49f925c6463/netwns64.inf
+/vol_vol6/ProgramData/Microsoft/Windows/AppRepository/Packages/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/S-1-5-21-2753016263-4198145883-3155644156-1000.pckgdep
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlanschemas_31bf3856ad364e35_10.0.19041.1_none_63f329ff5bc0e40f/WLAN_profile_v1.xsd
+/vol_vol6/Windows/SysWOW64/WindowsCodecsRaw.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-energyefficiencywizard_31bf3856ad364e35_10.0.19041.1023_none_8da7e725ec18e5a6/energy.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_mwlu97w8x64.inf_31bf3856ad364e35_10.0.19041.1_none_dc31f8510c57f8b7/mwlu97w8x64.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-devices-wifi_31bf3856ad364e35_10.0.19041.746_none_c9c07f6ef9db5afa/Windows.Devices.WiFi.dll
+/vol_vol6/Recovery/WindowsRE/Winre.wim
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.1265_none_777e632002d13277/cloudDomainJoin.js
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/fec881fe-9d6e-4e3e-a103-2f572a51eff5
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwew00.inf_amd64_325c0bd6349ed81c/NETwew00.sys
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/SkypeApp.dll
+/vol_vol6/Windows/SysWOW64/en-GB/wlanui.dll.mui
+/vol_vol6/Windows/SysWOW64/wlanui.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_bcmwdidhdpcie.inf_31bf3856ad364e35_10.0.19041.1_none_6be28be212bdb5e8/43596a0rtecdc.bin
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ms.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_cs.json
+/vol_vol6/Windows/System32/WUDFx.dll
+/vol_vol6/Windows/System32/HologramWorld.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/resources.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-dafiot_31bf3856ad364e35_10.0.19041.1_none_158d366e9333107a/DAFIoT.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/rtwlanu_oldic.inf_amd64_1a82423cc076e882/rtwlanu_oldIC.inf
+/vol_vol6/Windows/SysWOW64/NpcapHelper.exe
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-i..itiator_service_mof_31bf3856ad364e35_10.0.19041.1_none_69b31686898b623a/iscsihba.mof
+/vol_vol6/Windows/WinSxS/amd64_dual_netbc64.inf_31bf3856ad364e35_10.0.19041.1_none_d42e5683db6e64e3/netbc64.INF
+/vol_vol6/Windows/WinSxS/x86_microsoft-windows-s..-installers-onecore_31bf3856ad364e35_10.0.19041.2905_none_04121013a2785e4a/NetSetupEngine.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-advancedtaskmanager_31bf3856ad364e35_10.0.19041.1202_none_23a707c9a0b5a8e1/Taskmgr.exe.mun
+/vol_vol6/Windows/WinSxS/amd64_dual_wpdfs.inf_31bf3856ad364e35_10.0.19041.746_none_0ac2dc1ba03c02c7/WpdFs.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ms.pak.DATA
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-directwrite_31bf3856ad364e35_10.0.19041.1566_none_51977d35e9197bab/DWrite.dll
+/vol_vol6/Windows/System32/netprofmsvc.dll
+/vol_vol6/Windows/System32/wbem/MDMSettingsProv.mof
+/vol_vol6/Windows/System32/winevt/Logs/Windows PowerShell.evtx
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/WiFiNetworkManager.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-a..atibility-assistant_31bf3856ad364e35_10.0.19041.2788_none_a8581ee7d87f471f/pcasvc.dll
+/vol_vol6/$OrphanFiles/kok-IN/mpuxagent.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/icudtl.dat.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/icudtl.dat
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/skypert.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlanschemas_31bf3856ad364e35_10.0.19041.1_none_63f329ff5bc0e40f/WFD_profile_v1.xsd
+/vol_vol6/Windows/PLA/Reports/en-GB/Report.System.Wireless.xml
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.16138.16099.4/json/wallet/wallet-pre-stable.json
+/vol_vol6/Program Files/Common Files/VMware/Drivers/video_wddm/Vista/vm3dgl.dll
+/vol_vol6/Windows/Fonts/YuGothM.ttc
+/vol_vol6/Windows/WinSxS/amd64_netrtwlane_13.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_d55a09140f9d761d/netrtwlane_13.inf_loc
+/vol_vol6/Users/catherine/AppData/Local/Temp/dd_vcredist_amd64_20230827212039.log
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-globalization_31bf3856ad364e35_10.0.19041.1865_none_8798b56894535d1b/Windows.Globalization.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwtw06.inf_amd64_2edd50e7a54d503b/Netwtw06.sys
+/vol_vol6/Windows/PLA/Rules/en-GB/Rules.System.Wireless.xml
+/vol_vol6/Users/catherine/AppData/Local/Temp/vmware-catherine/00002a9b/setup.exe
+/vol_vol6/Windows/System32/en-GB/WiFiNetworkManager.dll.mui
+/vol_vol6/Windows/Globalization/ICU/icudtl.dat
+/vol_vol6/ProgramData/Microsoft/Windows/AppRepository/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6.xml
+/vol_vol6/Program Files/WindowsApps/Microsoft.Office.OneNote_16001.12026.20112.0_x64__8wekyb3d8bbwe/office.odf
+/vol_vol6/Windows/WinSxS/amd64_dual_net8192se64.inf_31bf3856ad364e35_10.0.19041.1_none_c4ca59da8d54596e/net8192se64.inf
+/vol_vol6/Windows/System32/wbem/en-GB/MDMSettingsProv.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-w..sh-helper.resources_31bf3856ad364e35_10.0.19041.1202_en-us_35b195ccefaa4bb6/wlancfg.dll.mui
+/vol_vol6/$OrphanFiles/eu-ES/mpuxagent.dll.mui
+/vol_vol6/Windows/System32/DriverStore/en-US/netrtwlane.inf_loc
+/vol_vol6/Windows/WinSxS/amd64_dual_netathrx.inf_31bf3856ad364e35_10.0.19041.1_none_aca2c01a764c25fb/netathrx.INF
+/vol_vol6/Windows/SystemApps/Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe/23/common/monaco-editor/min/vs/language/css/cssWorker.js
+/vol_vol6/Windows/SysWOW64/en-US/wlangpui.dll.mui
+/vol_vol6/Windows/System32/raschap.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..ork-setup-servicing_31bf3856ad364e35_10.0.19041.546_none_6441d3d76cf5046e/NetSetupEngine.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.2251_none_09bab8ba6cee3dbf/WindowsCodecsRaw.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{10ace86e-5eb8-42e0-89e3-d36f018f43d3}/appsglobals.txt
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy/TempState/StartUnifiedTileModelCache.dat
+/vol_vol6/Windows/SystemApps/Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy/pris/resources.en-GB.pri
+/vol_vol6/Windows/System32/DriverStore/FileRepository/bcmwdidhdpcie.inf_amd64_977dcc915465b0e9/bcmwdidhdpcie.inf
+/vol_vol6/Windows/SysWOW64/en-US/L2SecHC.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwlv64.inf_amd64_0b9818131664d91e/netwlv64.inf
+/vol_vol6/Windows/SysWOW64/fms.dll
+/vol_vol6/Program Files/WindowsApps/microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe/office.odf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache133377841695358253.txt
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlanschemas_31bf3856ad364e35_10.0.19041.1_none_63f329ff5bc0e40f/WLANAP_profile_v1.xsd
+/vol_vol6/Windows/SysWOW64/elslad.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-directx-warp10_31bf3856ad364e35_10.0.19041.2788_none_5ef53cb80c04a376/d3d10warp.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-networkprofile_31bf3856ad364e35_10.0.19041.2913_none_ed10ba382b941326/netprofmsvc.dll
+/vol_vol6/Windows/System32/en-US/adtschema.dll.mui
+/vol_vol6/Windows/WinSxS/Backup/amd64_microsoft-windows-f..etype-lucidaconsole_31bf3856ad364e35_10.0.19041.1_none_b537ffbd18185517_lucon.ttf_76ed00f1
+/vol_vol6/Windows/System32/DriverStore/FileRepository/bcmdhd64.inf_amd64_e0bae6831f60ea5f/bcmdhd63.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-onecoreuap-wlansvc_31bf3856ad364e35_10.0.19041.2546_none_b7831f19a79d743f/Rules.System.Wireless.xml
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-netshell-mui.resources_31bf3856ad364e35_10.0.19041.1_en-gb_07b675561310b7b3/netshell.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netwew01.inf_31bf3856ad364e35_10.0.19041.1_none_c644870df2460710/Netwew01.INF
+/vol_vol6/ProgramData/Microsoft/Windows Defender/Platform/4.18.23070.1004-0/id-ID/mpuxagent.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-g..policy-admin-gpedit_31bf3856ad364e35_10.0.19041.2251_none_4d4c1df14e79e454/r/gpedit.dll
+/vol_vol6/Windows/System32/cdp.dll
+/vol_vol6/Windows/System32/en-GB/wlanui.dll.mui
+/vol_vol6/Windows/System32/WindowsCodecsRaw.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlanu.inf_31bf3856ad364e35_10.0.19041.1_none_aa6ceaf1b031d857/netrtwlanu.inf
+/vol_vol6/Windows/System32/Winlangdb.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlanpref.resources_31bf3856ad364e35_10.0.19041.1_en-gb_a334404a8ba51604/wlanpref.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ms.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-directwrite-fontcache_31bf3856ad364e35_10.0.19041.2788_none_793ba71fc6a77a11/FntCache.dll
+/vol_vol6/Windows/System32/WlanHelper.exe
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/netshell.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-miracast-receiver-api_31bf3856ad364e35_10.0.19041.2673_none_7d3e2ce8ce0de4d5/MiracastReceiver.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/dwritemin.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/rtwlanu_oldic.inf_amd64_1a82423cc076e882/rtwlanu_oldIC.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/e2xw10x64.inf_amd64_04c2ae40613a06ff/e2xw10x64.inf
+/vol_vol6/Windows/System32/DriverStore/en-US/net819xp.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/icudtl.dat.DATA
+/vol_vol6/$OrphanFiles/hu-HU/MpEvMsg.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane_13.inf_31bf3856ad364e35_10.0.19041.1_none_53b830f3b99b8540/rtwlane_13.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wifidisplay_31bf3856ad364e35_10.0.19041.1_none_a7cc6a3e80623078/WiFiDisplay.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_rtwlanu_oldic.inf_31bf3856ad364e35_10.0.19041.1_none_00317e0c4812d44c/rtwlanu_oldIC.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-devices-wifidirect_31bf3856ad364e35_10.0.19041.746_none_751f9c0a1fa33e33/Windows.Devices.WiFiDirect.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-directui_31bf3856ad364e35_10.0.19041.2965_none_2b70306ca3fffcb9/Windows.UI.Xaml.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/SystemResources/Windows.UI.SettingsHandlers-nt/pris/Windows.UI.SettingsHandlers-nt.en-GB.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/dwritemin.dll
+/vol_vol6/Windows/SysWOW64/wlangpui.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/wpdmtp.inf_amd64_42b97498c7087292/WpdMtpDr.dll
+/vol_vol6/Windows/SoftwareDistribution/DataStore/DataStore.edb
+/vol_vol6/Windows/SysWOW64/Packet.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-d..ll-minwin.resources_31bf3856ad364e35_10.0.19041.1_en-us_eadb7e9616d487fb/dhcpcsvc6.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_system.printing_31bf3856ad364e35_4.0.15805.0_none_255352c97eef99d1/System.Printing.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netr28x.inf_amd64_5d63c7bcbf29107f/netr28x.sys
+/vol_vol6/Windows/INF/net8187bv64.inf
+/vol_vol6/Windows/System32/sppsvc.exe
+/vol_vol6/Windows/System32/elslad.dll
+/vol_vol6/Windows/System32/en-US/WcnNetsh.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-devices-wifidirect_31bf3856ad364e35_10.0.19041.746_none_7f74465c5404002e/Windows.Devices.WiFiDirect.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwsw00.inf_amd64_24d55504ae3587aa/netwsw00.inf
+/vol_vol6/Windows/WinSxS/amd64_dual_net819xp.inf_31bf3856ad364e35_10.0.19041.1_none_1aa025fd91929f24/rtl819xp.sys
+/vol_vol6/Windows/WinSxS/amd64_dual_netwtw04.inf_31bf3856ad364e35_10.0.19041.1_none_d04005f89378a864/Netwtw04.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netk57a.inf_amd64_d823e3edc27ae17c/k57nd60a.sys
+/vol_vol6/Windows/WinSxS/amd64_mdmsettingsprov.resources_31bf3856ad364e35_10.0.19041.1_en-gb_760b8d9fc893e3f8/MDMSettingsProv.dll.mui
+/vol_vol6/Windows/System32/config/SYSTEM.LOG2
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-netshell-mui.resources_31bf3856ad364e35_10.0.19041.1_en-gb_fd61cb03deaff5b8/netshell.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.MixedReality.Portal_2000.19081.1301.0_x64__8wekyb3d8bbwe/Microsoft.Graphics.Canvas.winmd
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-font-truetype-yugothic_31bf3856ad364e35_10.0.19041.1_none_8ede76e7b8c046ba/YuGothR.ttc
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/resources.pak
+/vol_vol6/Windows/INF/netrtwlanu.inf
+/vol_vol6/Windows/System32/d3d10warp.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_bcmdhd64.inf_31bf3856ad364e35_10.0.19041.1_none_bc4ccf38b07f09e7/bcmdhd64.INF
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{fe53ebb3-1df1-4e22-beb6-bc623b0a17ba}/0.0.filtertrie.intermediate.txt
+/vol_vol6/Windows/Speech/Engines/SR/en-GB/AM032057.am
+/vol_vol6/Program Files (x86)/Microsoft/EdgeUpdate/Download/{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062}/116.0.1938.62/MicrosoftEdge_X64_116.0.1938.62.exe
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlangpui.resources_31bf3856ad364e35_10.0.19041.1_en-us_cfb4c1a0580aa9d5/wlangpui.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-w..rkmanager.resources_31bf3856ad364e35_10.0.19041.1_en-gb_2551d7d00bdb9abb/WiFiNetworkManager.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlans.inf_amd64_97cd1a72c2a7829c/netrtwlans.inf
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane.inf_31bf3856ad364e35_10.0.19041.1_none_d3bf9bafd133d367/rtwlane.sys
+/vol_vol6/Windows/System32/dxilconv.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netwtw08.inf_31bf3856ad364e35_10.0.19041.1_none_74875e7e77108c60/Netwtw08.sys
+/vol_vol6/Windows/WinSxS/amd64_dual_netwns64.inf_31bf3856ad364e35_10.0.19041.1_none_4b1587310307e248/NETwNs64.sys
+/vol_vol6/Windows/System32/wifinetworkmanager.dll
+/vol_vol6/Windows/SysWOW64/adtschema.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-skype-ortc_31bf3856ad364e35_10.0.19041.153_none_d2372d0fe1e12dd7/rtmpltfm.dll
+/vol_vol6/Windows/System32/DriverStore/en-US/rtwlanu_oldIC.inf_loc
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-speechrecognizer-en-gb_31bf3856ad364e35_10.0.19041.1_none_6cf356948bd51cc5/l2057.ngr
+/vol_vol6/Windows/WinSxS/amd64_dual_netwsw00.inf_31bf3856ad364e35_10.0.19041.1_none_88da6969bd4fa72f/Netwsw00.sys
+/vol_vol6/Windows/INF/netathrx.inf
+/vol_vol6/Windows/INF/netrasa.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-tetheringmgr_31bf3856ad364e35_10.0.19041.746_none_36aaeebf6b4abab9/TetheringMgr.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-font-fms.resources_31bf3856ad364e35_10.0.19041.1_cs-cz_751f6042bf0e8082/fms.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/SystemResources/Windows.UI.ShellCommon/pris/Windows.UI.ShellCommon.en-GB.pri
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Subresource Filter/Unindexed Rules/10.34.0.49/Filtering Rules
+/vol_vol6/Windows/WinSxS/x86_microsoft-windows-s..-installers-onecore_31bf3856ad364e35_10.0.19041.1_none_458ee2938c667f89/NetSetupEngine.dll
+/vol_vol6/Windows/System32/DriverStore/en-US/net8187se64.inf_loc
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-tetheringstation_31bf3856ad364e35_10.0.19041.1_none_ab796000a895d829/TetheringStation.dll
+/vol_vol6/Windows/WinSxS/amd64_presentationcore_31bf3856ad364e35_4.0.15805.0_none_afbe4f310a496164/PresentationCore.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_b57nd60a.inf_31bf3856ad364e35_10.0.19041.1_none_33d1287db1205b10/b57nd60a.sys
+/vol_vol6/Windows/System32/cs-CZ/fms.dll.mui
+/vol_vol6/Windows/INF/e2xw10x64.inf
+/vol_vol6/Windows/WinSxS/amd64_netrtwlane.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_92837139cc0cf0b6/netrtwlane.inf_loc
+/vol_vol6/Users/catherine/AppData/Local/Temp/dd_vcredist_amd64_20230827212039_001_vcRuntimeAdditional_x64.log
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwlv64.inf_amd64_0b9818131664d91e/netwlv64.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane01.inf_amd64_b02695ef070d7a42/rtwlane01.sys
+/vol_vol6/Windows/Prefetch/NPCAP-1.76.EXE-F222946F.pf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{80ac28a2-dc8b-47f9-b97d-95be8c61635a}/0.0.filtertrie.intermediate.txt
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wifidisplay_31bf3856ad364e35_10.0.19041.1_none_b2211490b4c2f273/WiFiDisplay.dll
+/vol_vol6/Windows/System32/tetheringservice.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8192su64.inf_amd64_66c8bfc7a4b1feed/net8192su64.inf
+/vol_vol6/Windows/System32/en-US/dhcpcore.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/icudtl.dat
+/vol_vol6/Windows/WinSxS/amd64_net8187se64.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_80d928e8ef761bf3/net8187se64.inf_loc
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/Taskmgr.exe.mui
+/vol_vol6/Windows/System32/Windows.Globalization.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..tion_service_iassam_31bf3856ad364e35_10.0.19041.746_none_59a8ae5eb289884b/iassam.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-security-spp_31bf3856ad364e35_10.0.19041.2965_none_8edb9437d65cf02c/sppsvc.exe
+/vol_vol6/Windows/System32/DriverStore/FileRepository/athw8x.inf_amd64_55014eff4ceefbdf/athw8x.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlansvc.resources_31bf3856ad364e35_10.0.19041.1202_en-gb_aafcfbc650288687/wlansvc.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_net8187se64.inf_31bf3856ad364e35_10.0.19041.1_none_c64b5602653e7b30/net8187se64.inf
+/vol_vol6/Windows/System32/DriverStore/en-US/netrtwlans.inf_loc
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane.inf_amd64_20caba88bd7f0bb3/netrtwlane.inf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/b23f845a-04ab-435b-9918-ed3bf02479e0
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Roaming/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/sessionstore.jsonlz4
+/vol_vol6/Windows/System32/DriverStore/en-US/net8187bv64.inf_loc
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Windows/Caches/{3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x0000000000000010.db
+/vol_vol6/Windows/Speech/Engines/SR/en-GB/l2057.ngr
+/vol_vol6/Windows/System32/DriverStore/FileRepository/npcap.inf_amd64_3d364996cc8db294/npcap.sys
+/vol_vol6/Windows/System32/wcncsvc.dll
+/vol_vol6/Windows/System32/en-GB/Taskmgr.exe.mui
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-utilman_31bf3856ad364e35_10.0.19041.746_none_eaf7a50dc46d5592/Utilman.exe
+/vol_vol6/Windows/SystemResources/Windows.UI.SettingsAppThreshold/pris/Windows.UI.SettingsAppThreshold.en-GB.pri
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy/TempState/ShareUnifiedTileModelCache.dat
+/vol_vol6/Windows/WinSxS/wow64_system.printing_31bf3856ad364e35_4.0.15805.101_none_46ee65c4fb3fc998/System.Printing.dll
+/vol_vol6/$Extend/$Deleted/000300000001D3C3659CC644/1CT-rJutSkEgnGdSzmh94K7u7r4[1].css
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wlanui.resources_31bf3856ad364e35_10.0.19041.1_en-gb_dfb80ad5bb1bfc70/wlanui.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/icudtl.dat
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache133377841585412021.txt
+/vol_vol6/Windows/WinSxS/amd64_netrtwlane01.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_5e0445b6bb72e1d9/netrtwlane01.inf_loc
+/vol_vol6/Windows/System32/DriverStore/FileRepository/bcmwdidhdpcie.inf_amd64_977dcc915465b0e9/43596a0rtecdc.bin
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wirelesslanhelperclass_31bf3856ad364e35_10.0.19041.746_none_78aa134f0ea95176/WLanHC.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/35a871d4-4338-4352-a33c-a1b7f1fd8fcd
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..ux-wlanmediamanager_31bf3856ad364e35_10.0.19041.1202_none_e60886959a887b52/WlanMediaManager.dll
+/vol_vol6/Windows/System32/en-US/wlancfg.dll.mui
+/vol_vol6/Windows/System32/winevt/Logs/Microsoft-Windows-Store%4Operational.evtx
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-d..ll-minwin.resources_31bf3856ad364e35_10.0.19041.1_en-us_eadb7e9616d487fb/dhcpcore.dll.mui
+/vol_vol6/Windows/System32/wlancfg.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_net8187bv64.inf_31bf3856ad364e35_10.0.19041.1_none_e11ea261799be30a/net8187bv64.inf
+/vol_vol6/Windows/System32/wlangpui.dll
+/vol_vol6/Windows/INF/netrtwlans.inf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/0c2bb7da-9afc-4ff7-bbb5-fa12d7684faa
+/vol_vol6/Windows/System32/wlanmsm.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wlangpclient_31bf3856ad364e35_10.0.19041.488_none_a0c9f77e63e7eb17/wlgpclnt.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netl1c63x64.inf_amd64_4d6630ce07a4fb42/netl1c63x64.inf
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwtw04.inf_amd64_c8f5ae6576289a2d/Netwtw04.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwbw02.inf_amd64_1c4077fa004e73b4/Netwbw02.sys
+/vol_vol6/Program Files/WindowsApps/microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe/HxCalendarAppImm.exe
+/vol_vol6/$OrphanFiles/lb-LU/mpuxagent.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i..itiator_service_mof_31bf3856ad364e35_10.0.19041.1_none_5f5e6c34552aa03f/iscsihba.mof
+/vol_vol6/Windows/WinSxS/amd64_dual_netwtw06.inf_31bf3856ad364e35_10.0.19041.1_none_2263b23b85449a62/Netwtw06.sys
+/vol_vol6/Windows/System32/config/systemprofile/AppData/Local/Microsoft/InstallService/{71628675-B8D3-4E8F-9DC9-D473041A14D6}.catalogItem
+/vol_vol6/Windows/appcompat/appraiser/APPRAISER_TelemetryBaseline_CO21H2.bin
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwtw02.inf_amd64_42e02bae858d0fbd/Netwtw02.sys
+/vol_vol6/Windows/WinSxS/amd64_mdmsettingsprov_31bf3856ad364e35_10.0.19041.2546_none_2981c1c828dad98c/MDMSettingsProv.dll
+/vol_vol6/Windows/SysWOW64/wininet.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane_13.inf_amd64_992f4f46e65f30d4/netrtwlane_13.inf
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Windows/Safety/edge/remote/script_300161259571223429446516194326035503227.rel.v2
+/vol_vol6/Program Files/WindowsApps/Microsoft.MSPaint_6.1907.29027.0_x64__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Windows/System32/wbem/iscsihba.mof
+/vol_vol6/Windows/WinSxS/amd64_dual_netwew00.inf_31bf3856ad364e35_10.0.19041.1_none_9d32b0ec79600e11/Netwew00.INF
+/vol_vol6/Windows/WinSxS/amd64_dual_netr28x.inf_31bf3856ad364e35_10.0.19041.1_none_abbf32e7e3ef296c/netr28x.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net819xp.inf_amd64_ff7a5dd4f9b1ceba/rtl819xp.sys
+/vol_vol6/Windows/WinSxS/amd64_rtwlanu_oldic.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_28bda9ac5c12b801/rtwlanu_oldIC.inf_loc
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/SystemResources/Windows.UI.SettingsAppThreshold/pris/Windows.UI.SettingsAppThreshold.en-GB.pri
+/vol_vol6/Windows/System32/en-GB/wlanpref.dll.mui
+/vol_vol6/Windows/L2Schemas/WLAN_policy_v1.xsd
+/vol_vol6/Program Files/WindowsApps/Mozilla.Firefox_116.0.3.0_x64__n80bbvh6b1yt2/VFS/ProgramFiles/Firefox Package Root/browser/omni.ja
+/vol_vol6/Windows/PLA/Reports/Report.System.Wireless.xml
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/OneDrive/21.220.1024.0005/id/FileSync.LocalizedResources.dll.mui
+/vol_vol6/Windows/System32/energy.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/resources.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane01.inf_31bf3856ad364e35_10.0.19041.1_none_ab35e8e757e4c442/rtwlane01.sys
+/vol_vol6/Program Files/WindowsApps/Mozilla.Firefox_116.0.3.0_x64__n80bbvh6b1yt2/VFS/ProgramFiles/Firefox Package Root/xul.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlan-netsh-helper_31bf3856ad364e35_10.0.19041.1237_none_8960a4121978b743/wlancfg.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-settingsync-azure_31bf3856ad364e35_10.0.19041.1806_none_5857cedf792a1210/r/AzureSettingSyncProvider.dll
+/vol_vol6/Windows/WinSxS/wow64_presentationcore_31bf3856ad364e35_4.0.15805.598_none_d1606a8686933a01/PresentationCore.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwew01.inf_amd64_153e01d761813df2/netwew01.inf
+/vol_vol6/Windows/System32/DriverStore/FileRepository/bcmwdidhdpcie.inf_amd64_977dcc915465b0e9/bcmpciedhd63.sys
+/vol_vol6/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx
+/vol_vol6/Windows/SysWOW64/gdi32full.dll
+/vol_vol6/Windows/SysWOW64/raschap.dll
+/vol_vol6/$OrphanFiles/wallet/wallet-pre-stable.json
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/OneDrive/21.220.1024.0005/ms/FileSync.LocalizedResources.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.ZuneVideo_10.19071.19011.0_x64__8wekyb3d8bbwe/EntPlat.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_bcmwdidhdpcie.inf_31bf3856ad364e35_10.0.19041.1_none_6be28be212bdb5e8/bcmpciedhd63.sys
+/vol_vol6/Windows/System32/fms.dll
+/vol_vol6/Windows/WinSxS/amd64_windows-senseclient-service_31bf3856ad364e35_10.0.19041.2965_none_1c9ef9cd449ec8bc/mce.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-languagesdb-onecore_31bf3856ad364e35_10.0.19041.1806_none_ea1ba65542a1ed49/Winlangdb.dll
+/vol_vol6/Windows/SysWOW64/en-GB/wlanpref.dll.mui
+/vol_vol6/Windows/PLA/Rules/Rules.System.Wireless.xml
+/vol_vol6/Windows/System32/config/SOFTWARE.LOG2
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netbc63a.inf_amd64_7ba6c9cea77dd549/BCMWL63AL.SYS
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-bootux.deployment_31bf3856ad364e35_10.0.19041.746_none_1c0a97992f105d4b/bootux.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_sk.json
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlanui.resources_31bf3856ad364e35_10.0.19041.1_en-gb_d563608386bb3a75/wlanui.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_net819xp.inf_31bf3856ad364e35_10.0.19041.1_none_1aa025fd91929f24/net819xp.inf
+/vol_vol6/Windows/System32/config/SYSTEM.LOG1
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-hello-face_31bf3856ad364e35_10.0.19041.1889_none_75d376d2e80d0426/r/FaceRecognitionEngineAdapterResourcesSecure.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..-installers-onecore_31bf3856ad364e35_10.0.19041.1704_none_604660515ac580d6/NetSetupEngine.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-geolocation-framework_31bf3856ad364e35_10.0.19041.2311_none_85bf4b0f0163c9d4/LocationFramework.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/resources.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-onecoreuap-rastls_31bf3856ad364e35_10.0.19041.2913_none_acf96e0dc4b68013/rastls.dll
+/vol_vol6/$OrphanFiles/i18n-notification-shared/id/strings.json
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/id.pak
+/vol_vol6/Windows/WinSxS/wow64_system.printing_31bf3856ad364e35_4.0.15805.0_none_4f2199e3403a2eee/System.Printing.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_e2xw10x64.inf_31bf3856ad364e35_10.0.19041.1_none_1168ad3e03afd864/e2xw10x64.inf
+/vol_vol6/Windows/System32/Windows.UI.Xaml.dll
+/vol_vol6/Windows/SysWOW64/netjoin.dll
+/vol_vol6/aircrack-ng-1.7-win/src/Makefile.inc
+/vol_vol6/Windows/Microsoft.NET/assembly/GAC_32/PresentationCore/v4.0_4.0.0.0__31bf3856ad364e35/PresentationCore.dll
+/vol_vol6/Windows/System32/WDI/BootPerformanceDiagnostics_SystemData.bin
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netbc64.inf_amd64_b96cdf411c43c00c/netbc64.inf
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8192se64.inf_amd64_167684f9283b4eca/rtl8192se.sys
+/vol_vol6/Windows/System32/WlanMediaManager.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-e..ncywizard.resources_31bf3856ad364e35_10.0.19041.1_en-gb_1343b49de7b14773/energy.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Subresource Filter/Indexed Rules/36/10.34.0.49/Ruleset Data
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.16138.16099.4/json/wallet/wallet-stable.json
+/vol_vol6/Windows/WinSxS/amd64_dual_net8192su64.inf_31bf3856ad364e35_10.0.19041.1_none_f6ae9a69b6662cfe/RTL8192su.sys
+/vol_vol6/Windows/System32/smartscreen.exe
+/vol_vol6/Windows/System32/wbem/en-GB/MDMSettingsProv.mfl
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwew00.inf_amd64_325c0bd6349ed81c/netwew00.inf
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/Microsoft.Graphics.Canvas.winmd
+/vol_vol6/Windows/appcompat/appraiser/APPRAISER_TelemetryBaseline_NI22H2.bin
+/vol_vol6/Windows/System32/gdi32full.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8185.inf_amd64_7a30f5a9441cd55b/RTL85n64.sys
+/vol_vol6/Windows/WinSxS/amd64_dual_netbc63a.inf_31bf3856ad364e35_10.0.19041.1_none_15613fa3304c6fc5/netbc63a.INF
+/vol_vol6/Windows/INF/net8192su64.inf
+/vol_vol6/Windows/Microsoft.NET/Framework/v4.0.30319/WPF/PresentationCore.dll
+/vol_vol6/Windows/System32/config/DRIVERS.LOG1
+/vol_vol6/Windows/System32/SettingsHandlers_nt.dll
+/vol_vol6/Windows/System32/netjoin.dll
+/vol_vol6/Windows/System32/wbem/MDMSettingsProv.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/vm3d.inf_amd64_0a6c97809ad04d15/vm3dgl.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/bd916297-dd66-44ce-ba9b-8fd5806279fa
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/ReactAssets/index.windows.bundle
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Subresource Filter/Unindexed Rules/10.34.0.49/Part-ZH
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/AC/AppCache/0MZ3HPWY/7/D1wTwM_w8e-hOZDyuRlJrK1E204.br[1].js
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlanschemas_31bf3856ad364e35_10.0.19041.1_none_63f329ff5bc0e40f/WLAN_policy_v1.xsd
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wlanui_31bf3856ad364e35_10.0.19041.1202_none_eba0f782d66a7366/wlanui.dll
+/vol_vol6/Windows/System32/dafWfdProvider.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/energy.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_system.printing_31bf3856ad364e35_4.0.15805.101_none_1d201eab39f5347b/System.Printing.dll
+/vol_vol6/Windows/SysWOW64/vm3dgl.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlanconnectionflow_31bf3856ad364e35_10.0.19041.746_none_682e205fc6a0eac3/WLanConn.dll
+/vol_vol6/Windows/System32/mshtml.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.549981C3F5F10_1.1911.21713.0_x64__8wekyb3d8bbwe/Microsoft.IoT.Cortana.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-w..ar-wizard.resources_31bf3856ad364e35_10.0.19041.1_en-gb_9cc3574e89ec1717/wcnwiz.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-w..ctionflow.resources_31bf3856ad364e35_10.0.19041.1_en-gb_c1968b6f5a38de09/WLanConn.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane01.inf_31bf3856ad364e35_10.0.19041.1_none_ab35e8e757e4c442/netrtwlane01.inf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/38c98131-9137-4d7e-ab0c-aca4931fd343
+/vol_vol6/Windows/WinSxS/amd64_dual_bcmwdidhdpcie.inf_31bf3856ad364e35_10.0.19041.1_none_6be28be212bdb5e8/bcmwdidhdpcie.inf
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-windowscodecraw_31bf3856ad364e35_10.0.19041.2251_none_140f630ca14effba/WindowsCodecsRaw.dll
+/vol_vol6/Windows/SysWOW64/MiracastReceiver.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-native-80211_31bf3856ad364e35_10.0.19041.2788_none_c39a41e4444acb35/nwifi.sys
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.16138.16099.4/json/i18n-notification-shared/id/strings.json
+/vol_vol6/Windows/System32/wlanapi.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/wpdfs.inf_amd64_1183fd0f13045f2e/WpdFs.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wlangpui.resources_31bf3856ad364e35_10.0.19041.1_en-us_da096bf28c6b6bd0/wlangpui.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-directwrite_31bf3856ad364e35_10.0.19041.1566_none_4742d2e3b4b8b9b0/DWrite.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/doomed/19422
+/vol_vol6/Windows/SysWOW64/wbem/iscsihba.mof
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-i..tmlrendering-legacy_31bf3856ad364e35_11.0.19041.2965_none_d4b90f11c5959cdc/mshtml.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/id.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane.inf_amd64_20caba88bd7f0bb3/rtwlane.sys
+/vol_vol6/Windows/SysWOW64/iassam.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wifinetworkmanager_31bf3856ad364e35_10.0.19041.1202_none_e17f082b30dd9027/wifinetworkmanager.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-dafwfdprovider_31bf3856ad364e35_10.0.19041.423_none_d8739ae81fbf6c6e/dafWfdProvider.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-w..lperclass.resources_31bf3856ad364e35_10.0.19041.1_en-gb_dd3f542311b29ecc/WLanHC.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wlan-netsh-helper_31bf3856ad364e35_10.0.19041.1237_none_93b54e644dd9793e/wlancfg.dll
+/vol_vol6/Windows/System32/DriverStore/en-US/netrtwlane_13.inf_loc
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-w..ar-wizard.resources_31bf3856ad364e35_10.0.19041.1_en-gb_926eacfc558b551c/wcnwiz.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-onecoreuap-wlansvc_31bf3856ad364e35_10.0.19041.2546_none_b7831f19a79d743f/wlansec.dll
+/vol_vol6/$OrphanFiles/wallet/wallet-stable.json
+/vol_vol6/Windows/INF/netrtwlane_13.inf
+/vol_vol6/Windows/WinSxS/amd64_mdmsettingsprov_31bf3856ad364e35_10.0.19041.2546_none_2981c1c828dad98c/MDMSettingsProv.mof
+/vol_vol6/Windows/System32/DriverStore/FileRepository/athw8x.inf_amd64_55014eff4ceefbdf/athw8x.sys
+/vol_vol6/Windows/WinSxS/amd64_dual_net8187se64.inf_31bf3856ad364e35_10.0.19041.1_none_c64b5602653e7b30/RTL8187Se.sys
+/vol_vol6/Windows/SysWOW64/en-GB/netshell.dll.mui
+/vol_vol6/Windows/System32/config/systemprofile/AppData/Local/Microsoft/InstallService/{14BE79C6-6474-4A97-8DC2-B0F61A7C9C8F}.catalogItem
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-globalization_31bf3856ad364e35_10.0.19041.1865_none_91ed5fbac8b41f16/Windows.Globalization.dll
+/vol_vol6/Windows/INF/netwew00.inf
+/vol_vol6/Windows/SystemResources/Windows.UI.SettingsHandlers-nt/pris/Windows.UI.SettingsHandlers-nt.en-GB.pri
+/vol_vol6/Windows/System32/LocationFramework.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netwns64.inf_31bf3856ad364e35_10.0.19041.1_none_4b1587310307e248/netwns64.inf
+/vol_vol6/Program Files/WindowsApps/Microsoft.ZuneMusic_10.19071.19011.0_x64__8wekyb3d8bbwe/EntPlat.dll
+/vol_vol6/Windows/INF/net8192se64.inf
+/vol_vol6/Program Files/WindowsApps/Microsoft.WinJS.1.0_1.0.9200.20789_neutral__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Windows/System32/en-GB/netshell.dll.mui
+/vol_vol6/Windows/SysWOW64/cdp.dll
+/vol_vol6/Windows/System32/WlanMM.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-desktop-p..ioning-platform-uap_31bf3856ad364e35_10.0.19041.2311_none_ed8404e2791a9308/Microsoft-Desktop-Provisioning.dat
+/vol_vol6/Windows/INF/setupapi.dev.log
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i..-unicode-components_31bf3856ad364e35_10.0.19041.1023_none_8d723d8c46de7ebb/icudtl.dat
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netr28ux.inf_amd64_d5996f2a9d9aa9e3/netr28ux.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i...appxmain.resources_31bf3856ad364e35_10.0.19041.2965_en-gb_4b57c543b7a9e040/Windows.UI.SettingsAppThreshold.en-GB.pri
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..ndlers-nt.resources_31bf3856ad364e35_10.0.19041.2788_en-gb_6ef009ce17690015/Windows.UI.SettingsHandlers-nt.en-GB.pri
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Windows/INetCache/IE/2JZ3V2MW/2[1]
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-m..oolsclient.appxmain_31bf3856ad364e35_10.0.19041.423_none_9de80b9d881a1ebd/cssWorker.js
+/vol_vol6/Windows/SysWOW64/Winlangdb.dll
+/vol_vol6/Windows/WinSxS/amd64_netrtwlans.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_eb3def706e85dad4/netrtwlans.inf_loc
+/vol_vol6/Windows/INF/netwew01.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-userexperience-desktop_31bf3856ad364e35_10.0.19041.2913_none_fb268c537eb5989b/CBS/resources.pri
+/vol_vol6/Windows/WinSxS/amd64_dual_wpdmtp.inf_31bf3856ad364e35_10.0.19041.746_none_8478465c1c781ea5/WpdMtpDr.dll
+/vol_vol6/Windows/System32/config/SOFTWARE.LOG1
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i..ngversion-windows64_31bf3856ad364e35_10.0.19041.1741_none_6cd062432398eec0/n/SortWindows64.nls
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ms.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-cdp-api_31bf3856ad364e35_10.0.19041.2913_none_508d8ecc298896c9/cdp.dll
+/vol_vol6/Windows/Microsoft.NET/Framework/v4.0.30319/WPF/System.Printing.dll
+/vol_vol6/Windows/System32/WLanHC.dll
+/vol_vol6/Windows/System32/winevt/Logs/System.evtx
+/vol_vol6/Windows/SysWOW64/en-GB/wlanapi.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{d408481b-6d85-4a11-9caa-1c62edc10260}/0.0.filtertrie.intermediate.txt
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/AC/INetCache/3F8O2JRC/1446_8.53.0[1].json
+/vol_vol6/Windows/L2Schemas/WFD_LEGACY_profile_v1.xsd
+/vol_vol6/Windows/System32/WiFiDisplay.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-time-service_31bf3856ad364e35_10.0.19041.2311_none_fd5dd9a522881598/w32time.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-msauditevtlog_31bf3856ad364e35_10.0.19041.2788_none_4628bd7462267bac/adtschema.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-onecoreuap-wlansvc_31bf3856ad364e35_10.0.19041.2546_none_b7831f19a79d743f/wlanapi.dll
+/vol_vol6/Windows/System32/drivers/nwifi.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-onecoreuap-wlansvc_31bf3856ad364e35_10.0.19041.2546_none_b7831f19a79d743f/wlanmsm.dll
+/vol_vol6/Windows/INF/oem9.PNF
+/vol_vol6/Windows/System32/winevt/Logs/Microsoft-Windows-Shell-Core%4Operational.evtx
+/vol_vol6/Windows/System32/WLanConn.dll
+/vol_vol6/Windows/SysWOW64/WLanConn.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-f..type-yugothicmedium_31bf3856ad364e35_10.0.19041.1_none_1a55062504172381/YuGothM.ttc
+/vol_vol6/Program Files (x86)/Microsoft/EdgeUpdate/Install/{7248115B-C1F1-44D5-B7BD-64A4B71394DA}/MicrosoftEdge_X64_116.0.1938.62.exe
+/vol_vol6/Windows/System32/CatRoot/{F750E6C3-38EE-11D1-85E5-00C04FC295EE}/oem9.cat
+/vol_vol6/Windows/assembly/NativeImages_v4.0.30319_64/PresentationCore/31f5b84979fed1deaa969a6ecfa86448/PresentationCore.ni.dll
+/vol_vol6/Windows/WinSxS/amd64_net819xp.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_d053636023dd8315/net819xp.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/id.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_net8192se64.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_929fce61257282c5/net8192se64.inf_loc
+/vol_vol6/Windows/System32/PktMon.exe
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-d..ll-minwin.resources_31bf3856ad364e35_10.0.19041.1_en-us_eadb7e9616d487fb/dhcpcore6.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwtw08.inf_amd64_7c0c516fb22456cd/Netwtw08.sys
+/vol_vol6/Windows/INF/netwsw00.inf
+/vol_vol6/Windows/System32/DriverStore/en-US/net8192su64.inf_loc
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-a..ence-mitigations-c1_31bf3856ad364e35_10.0.19041.2846_none_80a52d79a7b03415/sysmain.sdb
+/vol_vol6/Windows/INF/netl1c63x64.inf
+/vol_vol6/Windows/System32/winevt/Logs/Security.evtx
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8192se64.inf_amd64_167684f9283b4eca/net8192se64.inf
+/vol_vol6/ProgramData/Microsoft/Windows/AppRepository/StateRepository-Deployment.srd
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netathr10x.inf_amd64_2691c4f95b80eb3b/Qcamain10x64.sys
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/wlanapi.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{fe53ebb3-1df1-4e22-beb6-bc623b0a17ba}/Apps.index
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-onecoreuap-rastls_31bf3856ad364e35_10.0.19041.2913_none_a2a4c3bb9055be18/rastls.dll
+/vol_vol6/Windows/System32/en-GB/wcnwiz.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/af00603e-9d59-45b5-afa3-3d5ba991c469
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..voicecommon-onecore_31bf3856ad364e35_10.0.19041.746_none_133ac2bb3e537369/MSTTSLocEnUS.dat
+/vol_vol6/Windows/System32/onex.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/msedge.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane01.inf_amd64_b02695ef070d7a42/netrtwlane01.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-vwifi_31bf3856ad364e35_10.0.19041.1202_none_d454db0c78bb56d4/vwififlt.sys
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlans.inf_31bf3856ad364e35_10.0.19041.1_none_4f974109745217b9/netrtwlans.inf
+/vol_vol6/Windows/System32/DriverStore/en-US/netrtwlanu.inf_loc
+/vol_vol6/Windows/Microsoft.NET/Framework64/v4.0.30319/WPF/PresentationCore.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-languagesdb-onecore_31bf3856ad364e35_10.0.19041.1806_none_dfc6fc030e412b4e/Winlangdb.dll
+/vol_vol6/Windows/Microsoft.NET/assembly/GAC_64/System.Printing/v4.0_4.0.0.0__31bf3856ad364e35/System.Printing.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.Office.OneNote_16001.12026.20112.0_x64__8wekyb3d8bbwe/onmainim.dll
+/vol_vol6/Windows/INF/bcmdhd64.inf
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlans.inf_31bf3856ad364e35_10.0.19041.1_none_4f974109745217b9/rtwlans.sys
+/vol_vol6/Windows/INF/netwlv64.inf
+/vol_vol6/Windows/System32/FntCache.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-miracast-receiver-api_31bf3856ad364e35_10.0.19041.2673_none_8792d73b026ea6d0/MiracastReceiver.dll
+/vol_vol6/Windows/System32/winevt/Logs/Microsoft-Windows-Ntfs%4Operational.evtx
+/vol_vol6/Windows/System32/wlansec.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_net8192se64.inf_31bf3856ad364e35_10.0.19041.1_none_c4ca59da8d54596e/rtl8192se.sys
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/00771ac4-e8fd-4b21-9656-bbc20ed78f07
+/vol_vol6/Windows/SysWOW64/WlanMM.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/msedge.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane.inf_31bf3856ad364e35_10.0.19041.1_none_d3bf9bafd133d367/netrtwlane.inf
+/vol_vol6/Windows/INF/netrtwlane01.inf
+/vol_vol6/Windows/System32/pcasvc.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netbc64.inf_31bf3856ad364e35_10.0.19041.1_none_d42e5683db6e64e3/BCMWL63a.SYS
+/vol_vol6/Windows/System32/posetup.dll
+/vol_vol6/Windows/System32/Tasks/npcapwatchdog
+/vol_vol6/Windows/assembly/NativeImages_v4.0.30319_32/PresentationCore/718d2dc7afa96fe952517187ae3aea63/PresentationCore.ni.dll
+/vol_vol6/Windows/INF/netrtwlane.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlanschemas_31bf3856ad364e35_10.0.19041.1_none_63f329ff5bc0e40f/WLAN_profile_v2.xsd
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-dafwiprov_31bf3856ad364e35_10.0.19041.1806_none_b60b8ebbd1955375/DAFWiProv.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlansvc.resources_31bf3856ad364e35_10.0.19041.1202_en-gb_aafcfbc650288687/Report.System.Wireless.xml
+/vol_vol6/Windows/System32/WDI/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/{53fdc0bc-d687-4885-a170-a3b90531275c}/snapshot.etl
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-netjoin_31bf3856ad364e35_10.0.19041.2913_none_d624328056962335/netjoin.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wifinetworkmanager_31bf3856ad364e35_10.0.19041.1202_none_e17f082b30dd9027/TransformPPSToWlan.xslt
+/vol_vol6/Windows/WinSxS/amd64_dual_net8187bv64.inf_31bf3856ad364e35_10.0.19041.1_none_e11ea261799be30a/RTL8187B.sys
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/SystemAppData/Helium/UserClasses.dat.LOG1
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.16138.16099.4/json/i18n-hub/id/strings.json
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-m..ditevtlog.resources_31bf3856ad364e35_10.0.19041.1466_en-us_ceb5d7a10f1df4d8/adtschema.dll.mui
+/vol_vol6/Windows/System32/DriverStore/en-US/net8192se64.inf_loc
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wdf-usermodelibrary_31bf3856ad364e35_10.0.19041.1151_none_cdb97472a02fc3c1/WUDFx02000.dll
+/vol_vol6/Windows/System32/NetSetupEngine.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..tworkmobilehandlers_31bf3856ad364e35_10.0.19041.1202_none_7071ca9643718427/NetworkMobileSettings.dll
+/vol_vol6/Windows/SysWOW64/wlancfg.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netbc64.inf_amd64_b96cdf411c43c00c/BCMWL63a.SYS
+/vol_vol6/Windows/WinSxS/amd64_net8187bv64.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_023c7a00f572ee7d/net8187bv64.inf_loc
+/vol_vol6/Windows/System32/en-GB/WLanConn.dll.mui
+/vol_vol6/Program Files/WindowsApps/Mozilla.Firefox_116.0.3.0_x64__n80bbvh6b1yt2/VFS/ProgramFiles/Firefox Package Root/omni.ja
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/AC/AppCache/0MZ3HPWY/2/D1wTwM_w8e-hOZDyuRlJrK1E204.br[1].js
+/vol_vol6/Windows/Microsoft.NET/assembly/GAC_32/System.Printing/v4.0_4.0.0.0__31bf3856ad364e35/System.Printing.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlans.inf_amd64_97cd1a72c2a7829c/rtwlans.sys
+/vol_vol6/Windows/SysWOW64/wlanapi.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-ndis-minwin_31bf3856ad364e35_10.0.19041.1387_none_ce126b9add43ca26/ndis.sys
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-n..tion_service_iassam_31bf3856ad364e35_10.0.19041.1466_none_fab441923d5c938c/iassam.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-w..ctionflow.resources_31bf3856ad364e35_10.0.19041.1_en-gb_cbeb35c18e99a004/WLanConn.dll.mui
+/vol_vol6/Windows/System32/DriverStore/en-US/bcmwdidhdpcie.inf_loc
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_ms.json
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wlangpui_31bf3856ad364e35_10.0.19041.746_none_28cac5599dc25eb1/wlangpui.dll
+/vol_vol6/Windows/WinSxS/amd64_net8192su64.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_6c5e65607b51e6d5/net8192su64.inf_loc
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/SystemApps/Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy/pris/resources.en-GB.pri
+/vol_vol6/Users/catherine/AppData/Local/Temp/dd_vcredist_amd64_20230827212039_000_vcRuntimeMinimum_x64.log
+/vol_vol6/Windows/WinSxS/amd64_dual_netl1c63x64.inf_31bf3856ad364e35_10.0.19041.1_none_4f57631eed0b8c03/netl1c63x64.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..turalauthentication_31bf3856ad364e35_10.0.19041.746_none_d1b446a5fe3076f1/NaturalAuth.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-userexperience-desktop_31bf3856ad364e35_10.0.19041.2913_none_fb268c537eb5989b/n/CBS/TextInput.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane_13.inf_31bf3856ad364e35_10.0.19041.1_none_53b830f3b99b8540/netrtwlane_13.inf
+/vol_vol6/Windows/WinSxS/amd64_dual_netathrx.inf_31bf3856ad364e35_10.0.19041.1_none_aca2c01a764c25fb/athwnx.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netathrx.inf_amd64_220db23f5419ea8d/netathrx.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlansvc.resources_31bf3856ad364e35_10.0.19041.1202_en-gb_aafcfbc650288687/wlanapi.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-onecore-tetheringservice_31bf3856ad364e35_10.0.19041.746_none_6ba9668b45cb4938/tetheringservice.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{10ace86e-5eb8-42e0-89e3-d36f018f43d3}/appsconversions.txt
+/vol_vol6/Windows/System32/TetheringStation.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-onecoreuap-wlansvc_31bf3856ad364e35_10.0.19041.1237_none_c1f72037dbe6e58a/wlanapi.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-l..lperclass.resources_31bf3856ad364e35_10.0.19041.1_en-us_f3b35eaa1de83a35/L2SecHC.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlanu.inf_amd64_1815bafd14dc59f0/netrtwlanu.inf
+/vol_vol6/ProgramData/Microsoft/Windows Defender/Definition Updates/{2F353C7B-EB2B-4231-B573-7216FAC5D8F6}/mpengine.dll
+/vol_vol6/Windows/System32/rtmpltfm.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-i..escriptdetectiondll_31bf3856ad364e35_10.0.19041.1_none_e33166bd6b4d6630/elslad.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_sl.json
+/vol_vol6/Windows/System32/edgehtml.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlanschemas_31bf3856ad364e35_10.0.19041.1_none_63f329ff5bc0e40f/WFD_LEGACY_profile_v1.xsd
+/vol_vol6/Windows/WinSxS/amd64_dual_netathr10x.inf_31bf3856ad364e35_10.0.19041.1_none_045e44cd3c4b69ac/Data9377_2_0.msc
+/vol_vol6/Windows/System32/en-GB/energy.dll.mui
+/vol_vol6/Windows/Speech_OneCore/Engines/TTS/en-US/MSTTSLocEnUS.dat
+/vol_vol6/Windows/Speech_OneCore/Engines/TTS/en-GB/M2057Susan.SPEECHUX.NUS
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..settingshandlers-nt_31bf3856ad364e35_10.0.19041.2913_none_f25bf6af0885b0dd/SettingsHandlers_nt.dll
+/vol_vol6/ProgramData/Microsoft/Search/Data/Applications/Windows/edb0000C.jtx
+/vol_vol6/ProgramData/Microsoft/Windows Defender/Definition Updates/Backup/mpengine.dll
+/vol_vol6/Windows/SysWOW64/mshtml.dll
+/vol_vol6/Windows/SysWOW64/rtmpltfm.dll
+/vol_vol6/Windows/appcompat/appraiser/APPRAISER_TelemetryBaseline_UNV.bin
+/vol_vol6/Windows/System32/LogFiles/Scm/SCM.EVM.3
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-i..tocolimplementation_31bf3856ad364e35_11.0.19041.2193_none_c4c99c50b4cea24b/wininet.dll
+/vol_vol6/Windows/System32/drivers/en-US/nwifi.sys.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netwtw02.inf_31bf3856ad364e35_10.0.19041.1_none_7e1c59b5a1acb666/Netwtw02.sys
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/LibWrapper.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/wcnwiz.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..sktop.appxmain.root_31bf3856ad364e35_10.0.19041.2913_none_3db0677b33658ce0/n/wv2winrt.dll
+/vol_vol6/Windows/SystemApps/MicrosoftWindows.Client.CBS_cw5n1h2txyewy/resources.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/id.pak
+/vol_vol6/Windows/System32/MiracastReceiver.dll
+/vol_vol6/Windows/System32/DAFIoT.dll
+/vol_vol6/Windows/System32/DWrite.dll
+/vol_vol6/$OrphanFiles/i18n-tokenized-card/id/strings.json
+/vol_vol6/Windows/System32/wpcap.dll
+/vol_vol6/Windows/Microsoft.NET/assembly/GAC_64/PresentationCore/v4.0_4.0.0.0__31bf3856ad364e35/PresentationCore.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-d..se-wubids-datafiles_31bf3856ad364e35_10.0.19041.1_none_455fefd5ccb9fd84/ChsWubi.lex
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/c9e3ecad-8388-4f97-99e5-311d67bed32b
+/vol_vol6/Windows/System32/NetworkMobileSettings.dll
+/vol_vol6/Windows/INF/bcmwdidhdpcie.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i..tmlrendering-legacy_31bf3856ad364e35_11.0.19041.2965_none_ca6464bf9134dae1/mshtml.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{10ace86e-5eb8-42e0-89e3-d36f018f43d3}/appssynonyms.txt
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netbc63a.inf_amd64_7ba6c9cea77dd549/netbc63a.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-msauditevtlog_31bf3856ad364e35_10.0.19041.2788_none_3bd413222dc5b9b1/adtschema.dll
+/vol_vol6/Windows/SysWOW64/wpcap.dll
+/vol_vol6/Windows/System32/iassam.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-skype-ortc_31bf3856ad364e35_10.0.19041.153_none_c7e282bdad806bdc/rtmpltfm.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net819xp.inf_amd64_ff7a5dd4f9b1ceba/net819xp.inf
+/vol_vol6/Windows/Microsoft.NET/Framework64/v4.0.30319/WPF/System.Printing.dll
+/vol_vol6/Windows/SysWOW64/Windows.Devices.WiFiDirect.dll
+/vol_vol6/Windows/System32/drivers/vwififlt.sys
+/vol_vol6/Windows/System32/Windows.Devices.WiFiDirect.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/bcmdhd64.inf_amd64_e0bae6831f60ea5f/bcmdhd64.inf
+/vol_vol6/ProgramData/Microsoft/Windows Defender/Platform/4.18.23070.1004-0/id-ID/MpAsDesc.dll.mui
+/vol_vol6/Windows/Provisioning/Microsoft-Desktop-Provisioning.dat
+/vol_vol6/Windows/INF/net8187se64.inf
+/vol_vol6/Windows/SysWOW64/Windows.Globalization.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wlanconnectionflow_31bf3856ad364e35_10.0.19041.746_none_7282cab1fb01acbe/WLanConn.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-onecoreuap-raschap_31bf3856ad364e35_10.0.19041.2604_none_39da3cdd02af1a8f/raschap.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/msedge.dll
+/vol_vol6/Windows/System32/wlgpclnt.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-provisioningcore_31bf3856ad364e35_10.0.19041.746_none_99522f488b926b4d/provisioning_wlan_v1.xsd

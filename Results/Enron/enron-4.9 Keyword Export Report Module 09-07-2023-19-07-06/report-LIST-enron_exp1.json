@@ -1,0 +1,3912 @@
+{
+    "creation": "2023-09-07T19:07:33.151000", 
+    "keyword_hits": [
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/220211.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125469.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/201615.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/122735.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/201625.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/201639.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124472.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/136233.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/132171.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/178973.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/132746.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125164.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/219061.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/219123.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177808.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/151943.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175139.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/235559.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122030.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/234551.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122029.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/234552.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177822.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/128800.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/78548.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176724.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/239316.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/239392.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/115439.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/128802.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/128825.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/219062.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/219122.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124075.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/128854.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/239315.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/239242.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/128797.txt", 
+            "match_term": "Attorney-Client", 
+            "search_term": "Attorney-Client", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175761.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/175669.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177829.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/175597.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/54619.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177298.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177215.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124367.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/130149.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176805.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176840.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175356.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176772.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/8627.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176841.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253185.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/63057.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253795.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/63097.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125766.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176564.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125762.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174641.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124677.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175607.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175380.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136449.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176771.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/220211.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175322.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177214.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/174304.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253810.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176803.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125832.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122503.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125817.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122695.txt", 
+            "match_term": "Lawyer", 
+            "search_term": "Lawyer", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/145746.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/63097.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/109359.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/233311.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253127.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125745.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/54601.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/234238.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/140836.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/44727.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/152701.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176580.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/187593.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/230724.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253797.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/65794.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175802.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253809.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/177840.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/54586.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/130149.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/82386.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/152088.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/123470.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/123495.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/110549.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/82353.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/49738.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/82355.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232923.txt", 
+            "match_term": "Liability", 
+            "search_term": "Liability", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/219187.txt", 
+            "match_term": "affidavit", 
+            "search_term": "affidavit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232923.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/$MFT", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/233283.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174002.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124367.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/130149.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/233077.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125832.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122503.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/233279.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/233280.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125766.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/234238.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/227795.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/128814.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173900.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/226952.txt", 
+            "match_term": "arbitration", 
+            "search_term": "arbitration", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125766.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/114495.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125762.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/21257.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174212.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/174244.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/174304.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125817.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174216.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176816.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176802.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176805.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173885.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175446.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136082.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175141.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/135767.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176840.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176828.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175409.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176761.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175835.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176751.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175819.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/177182.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175840.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176773.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175839.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176771.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232421.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177225.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177215.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232887.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177298.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177235.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/230625.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173928.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177181.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/229847.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177003.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/120734.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177213.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/230797.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/230724.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/3111.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/41380.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/44727.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/255636.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/187593.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/116688.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/$MFT", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124966.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/255511.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/152701.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/123276.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175744.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/152088.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/221197.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/110549.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/135592.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/49738.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175689.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124030.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/243398.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/85676.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253798.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253808.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253810.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175091.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253108.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253185.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124677.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253795.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174433.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253094.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175359.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/136545.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175772.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125725.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125520.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125706.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175774.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/145746.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125736.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/109359.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136388.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136389.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232923.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/234313.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/65794.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122029.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122030.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174394.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/60590.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136543.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/233628.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/233777.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/61386.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173259.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175585.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/234238.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175607.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/63097.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/233311.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/62815.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176543.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/63057.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/7992.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177821.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/137284.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173411.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/123740.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/137641.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/137624.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/123470.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122671.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175622.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/234655.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122503.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122695.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/78548.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/19961.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/234670.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122737.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/137283.txt", 
+            "match_term": "counsel", 
+            "search_term": "counsel", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/234238.txt", 
+            "match_term": "counterclaim", 
+            "search_term": "counterclaim", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/63057.txt", 
+            "match_term": "counterclaim", 
+            "search_term": "counterclaim", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/233679.txt", 
+            "match_term": "counterclaim", 
+            "search_term": "counterclaim", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/233684.txt", 
+            "match_term": "counterclaim", 
+            "search_term": "counterclaim", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176656.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253795.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253809.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253810.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175091.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124966.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124727.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253797.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253798.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253808.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125021.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/255636.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/$MFT", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/130149.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/135516.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125520.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175761.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175849.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/122735.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173789.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124677.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124367.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253094.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253127.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253185.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124030.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173419.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/8627.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175689.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/220211.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176771.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176772.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175439.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176773.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/177182.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176800.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176775.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176802.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125706.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125725.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125736.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125745.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125769.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125771.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125757.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125762.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174641.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125766.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125832.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/174304.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/126473.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/115323.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125817.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176761.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/128814.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175409.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175819.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176751.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177181.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177003.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/118871.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176816.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176828.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175447.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176805.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176840.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176841.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176925.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175452.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177211.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136205.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175159.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177183.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232923.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/232926.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174358.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/233077.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173259.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/234238.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175607.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/233107.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/62637.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/230660.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/120734.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177213.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177215.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177235.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177298.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177225.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/121990.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/234551.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/234552.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122212.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/63097.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122695.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176803.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122503.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177214.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122671.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/137284.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/7992.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/137620.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/123470.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/7972.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122924.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/123495.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/123740.txt", 
+            "match_term": "court", 
+            "search_term": "court", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253795.txt", 
+            "match_term": "damages", 
+            "search_term": "damages", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/78548.txt", 
+            "match_term": "damages", 
+            "search_term": "damages", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136091.txt", 
+            "match_term": "damages", 
+            "search_term": "damages", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253185.txt", 
+            "match_term": "damages", 
+            "search_term": "damages", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/230660.txt", 
+            "match_term": "damages", 
+            "search_term": "damages", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/123470.txt", 
+            "match_term": "damages", 
+            "search_term": "damages", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/234238.txt", 
+            "match_term": "damages", 
+            "search_term": "damages", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253810.txt", 
+            "match_term": "damages", 
+            "search_term": "damages", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/178973.txt", 
+            "match_term": "damages", 
+            "search_term": "damages", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/234313.txt", 
+            "match_term": "damages", 
+            "search_term": "damages", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125745.txt", 
+            "match_term": "discovery", 
+            "search_term": "discovery", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253795.txt", 
+            "match_term": "discovery", 
+            "search_term": "discovery", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253185.txt", 
+            "match_term": "discovery", 
+            "search_term": "discovery", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/123495.txt", 
+            "match_term": "discovery", 
+            "search_term": "discovery", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/116997.txt", 
+            "match_term": "discovery", 
+            "search_term": "discovery", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/78548.txt", 
+            "match_term": "discovery", 
+            "search_term": "discovery", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232647.txt", 
+            "match_term": "discovery", 
+            "search_term": "discovery", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/175597.txt", 
+            "match_term": "discovery", 
+            "search_term": "discovery", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/234238.txt", 
+            "match_term": "discovery", 
+            "search_term": "discovery", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/115317.txt", 
+            "match_term": "discovery", 
+            "search_term": "discovery", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253810.txt", 
+            "match_term": "discovery", 
+            "search_term": "discovery", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/12176.txt", 
+            "match_term": "discovery", 
+            "search_term": "discovery", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/116997.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232647.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/123740.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125736.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173543.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/116993.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232643.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/220202.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122671.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/219053.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/242378.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/244235.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/219187.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/219123.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/116988.txt", 
+            "match_term": "exhibit", 
+            "search_term": "exhibit", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/219061.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/174244.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/63097.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/135789.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124966.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175498.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/218993.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/126473.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/78548.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125021.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/128814.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/123470.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/106588.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/219062.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/230797.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/115323.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232752.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/106590.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/233280.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232923.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/123561.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/233077.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/106296.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136392.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125520.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175139.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/106298.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/234245.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174641.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/233283.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/235559.txt", 
+            "match_term": "litigation", 
+            "search_term": "litigation", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136082.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175091.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174156.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125021.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177215.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232421.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177003.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177183.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177211.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/120734.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232643.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177298.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232647.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/116987.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177235.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/201625.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/116988.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173776.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175849.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/199911.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176771.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124030.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175689.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176775.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176800.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/221669.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176805.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253795.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/116997.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253810.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176828.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176840.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/253185.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/116993.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/63057.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125762.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174641.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175607.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125725.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136401.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/63097.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125766.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/121990.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125771.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173777.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/123470.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176751.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/129475.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122503.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/122695.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/126473.txt", 
+            "match_term": "motion", 
+            "search_term": "motion", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173896.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175749.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/233309.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/115774.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/115817.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176840.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/234796.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176805.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173897.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/116256.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/115773.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/233222.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176771.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/115140.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173722.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/115139.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/230797.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232406.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232643.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177215.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175607.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175142.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/116993.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175141.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174312.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/151943.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/116997.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/177298.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/232296.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/116987.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/232647.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/116988.txt", 
+            "match_term": "pursuant", 
+            "search_term": "pursuant", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/255511.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/234670.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175689.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/233309.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/233777.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/7972.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/173960.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174454.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124966.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/123276.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/233222.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/116256.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/120734.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/63057.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/115495.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/121990.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/114495.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/121943.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/63097.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125771.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125772.txt", 
+            "match_term": "subpoena", 
+            "search_term": "subpoena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175356.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124367.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/242378.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175580.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175305.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/234238.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136408.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/233077.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124677.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/7926.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/219053.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/114987.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/218962.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136091.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175332.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136372.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/136384.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/175380.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/124727.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/219048.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/174393.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125817.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/125832.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/219061.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/nonrelevant/176926.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "enron exp1", 
+            "match_path": "/vol_vol2/data/relevant/220202.txt", 
+            "match_term": "witness", 
+            "search_term": "witness", 
+            "search_type": "keyword"
+        }
+    ], 
+    "source_program": "autopsy 4.20.0"
+}

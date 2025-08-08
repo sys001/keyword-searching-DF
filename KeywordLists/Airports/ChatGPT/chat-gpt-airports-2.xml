@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-08-29 16:43:21" modified="2023-08-29 16:43:28" name="chat-gpt-airports-2">
+  <keyword literal="true" whole="true">International Airport</keyword>
+  <keyword literal="true" whole="true">City Airport</keyword>
+  <keyword literal="true" whole="true">Regional Airfield</keyword>
+  <keyword literal="true" whole="true">Metropolitan Terminal</keyword>
+  <keyword literal="true" whole="true">Municipal Aviation</keyword>
+  <keyword literal="true" whole="true">Gateway Hub</keyword>
+  <keyword literal="true" whole="true">National Skyport</keyword>
+  <keyword literal="true" whole="true">Aeroport Terminal</keyword>
+  <keyword literal="true" whole="true">Aerodrome Field</keyword>
+  <keyword literal="true" whole="true">Jetport Terminal</keyword>
+ </keyword_list>
+</keyword_lists>

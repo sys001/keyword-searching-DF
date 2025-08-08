@@ -1,0 +1,1289 @@
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/ath5k_regdomain_override.patch
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/MessageFilter.cs
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-expert-column.png
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/85ED3B4830ED2B9025536EF72FADD746FA83F114
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/hacking.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/apparmor/usr.sbin.tkiptun-ng
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DS0BUNDLE-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FORCES-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANA-RTPROTO-MIB
+/vol_vol6/aircrack-ng-1.7-win/AC_VERSION.in
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-main-toolbar.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/wpa2-psk-linksys.cap
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-about-codecs.png
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/DC74A4AA2A71489D3650190409E2F8E8959FB43F
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PPP-IP-NCP-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MPLS-LDP-GENERIC-STD-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/UMTS-PIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/coccinelle/convert_u_int_form.cocci
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-statusbar-loaded.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPSEC-POLICY-PIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ietf-inet-types.yang
+/vol_vol6/Program Files/Wireshark/snmp/mibs/AGENTX-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/10.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.karlnet
+/vol_vol6/Program Files/Wireshark/radius/dictionary.freeswitch
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TUNNEL-MIB
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_ac_append_to_file.m4
+/vol_vol6/Users/catherine/AppData/Roaming/Wireshark/io_graphs
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/malformed-vendor.bin
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/Message.cs
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/0v0-2.bin
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DISMAN-TRACEROUTE-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PW-STD-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/build_compat_wireless_2.6.33.patch
+/vol_vol6/Program Files/Wireshark/gpl-2.0-standalone.html
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/wpa-psk-linksys.cap
+/vol_vol6/Program Files/Wireshark/snmp/mibs/VDSL2-LINE-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/MessageFilter.cs
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/Settings/settings.dat.LOG1
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/mac80211_2.6.27_frag+ack.patch
+/vol_vol6/Program Files/Wireshark/radius/dictionary.meraki
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/9410C089F24D0DE4EE1EB068683245B6DB25F423
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/DBus.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.audiocodes
+/vol_vol6/Program Files/Wireshark/snmp/mibs/VDSL-LINE-EXT-MCM-MIB
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_check_compile_flag.m4
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-list-pane.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MPLS-SETUP-PIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TUBS-IBR-TNM-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ALARM-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-packet-format.png
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/6.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/acx-20070101.patch
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_gcc_x86_cpu_supports.m4
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/ndesk.snk
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TUBS-IBR-LINUX-NETFILTER-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.h3c
+/vol_vol6/Program Files/Wireshark/radius/dictionary.aerohive
+/vol_vol6/Program Files/Wireshark/radius/dictionary.garderos
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/Settings/roaming.lock
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/include/aircrack-ng/third-party/if_llc.h
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-print.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.wimax
+/vol_vol6/Program Files/Wireshark/radius/dictionary.altiga
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TUBS-IBR-AGENT-CAPABILITIES
+/vol_vol6/Program Files/Wireshark/radius/dictionary.wispr
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_ac_print_to_file.m4
+/vol_vol6/Program Files/Wireshark/radius/dictionary.issanni
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/js/navigator.js
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-bt-hci-summary.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/Example1/Example1/Properties/Resources.resx
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FRAMEWORK-TC-PIB
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/0fcs.bin
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SIP-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/Signature.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/META-POLICY-PIB-orig
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/pass.txt
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_pthread.m4
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_cflags_warn_all.m4
+/vol_vol6/Program Files/Wireshark/radius/dictionary.colubris
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/itemDetail/itemDetail.js
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/wep.shared.key.authentication.cap
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-wireless-menu.png
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/0v0-2.out
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/apparmor/usr.sbin.airbase-ng
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RS-232-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.alteon
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_am_macros_static.m4
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/related-request.png
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/0fcs.out
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-playlist.dia
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc5176
+/vol_vol6/Program Files/Wireshark/radius/dictionary.wimax.wichorus
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-sctp-1-association.png
+/vol_vol6/aircrack-ng-1.7-win/test/wpa2.eapol.cap
+/vol_vol6/Program Files/Wireshark/snmp/mibs/BLDG-HVAC-MIB
+/vol_vol6/aircrack-ng-1.7-win/build/m4/stubs/.gitkeep
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MPLS-TC-STD-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/go-jump.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DS0-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/ExportObject.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IP-TE-PIB-orig
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-rtp-player_1.xcf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/4FD5D7E81DD5ABB39E1C392C2C1241DAC3D598DF
+/vol_vol6/Program Files/Wireshark/diameter/mobileipv6.xml
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RFC1065-SMI
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/zd1211rw-inject+dbi-fix-2.6.39.2.2.patch
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-packet-pane-popup-menu.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.livingston
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-export-pdus-to-file.png
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/a.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc5090
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FEEDBACK-FRAMEWORK-PIB-orig
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/00.out
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DOT3-OAM-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IF-INVERTED-STACK-MIB
+/vol_vol6/aircrack-ng-1.7-win/.vscode/c_cpp_properties.json
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/x-colorize-packets.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SONET-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-dns.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-file-set-dialog.png
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/js/cache/static-50520.js
+/vol_vol6/Program Files/Wireshark/diameter/Vodafone.xml
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/password.lst
+/vol_vol6/Program Files/Wireshark/translations/qt_cs.qm
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DISMAN-SCRIPT-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/hacking_wide1.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.navini
+/vol_vol6/Program Files/Wireshark/radius/dictionary.citrix
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/Settings/settings.dat.LOG2
+/vol_vol6/Program Files/Wireshark/radius/dictionary.quintum
+/vol_vol6/Program Files/Wireshark/snmp/mibs/NOTIFICATION-LOG-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/include/aircrack-ng/third-party/if_arp.h
+/vol_vol6/Program Files/Wireshark/radius/dictionary.clavister
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/related-response.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.broadsoft
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/caution.svg
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/0v0-4.out
+/vol_vol6/Program Files/Wireshark/radius/custom.includes
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/document-open.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.t_systems_nova
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/127.0.0.1 Wallpaper.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-merge-win32.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/wep.open.system.authentication.cap
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-packet-selected.png
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/9C49125C9D27A73A4EC88A0E5B5D52F60E905725
+/vol_vol6/Program Files/Wireshark/diameter/Starent.xml
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPV6-FLOW-LABEL-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_ac_print_to_file.m4
+/vol_vol6/Program Files/Wireshark/snmp/mibs/COPS-PR-SPPI
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/f.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/ath5k-pass-failed-crc.patch
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-file-menu.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PPP-BRIDGE-NCP-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/apparmor/usr.bin.kstats
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/MatchRule.cs
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/mac80211_2.6.26-rc8-wl_frag.patch
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-rtp-streams.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RFC1155-SMI
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPFIX-SELECTOR-MIB
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_check_openssl.m4
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Roaming/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cwireshark.org%29/cache/caches.sqlite
+/vol_vol6/Program Files/Wireshark/translations/qt_ja.qm
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMP-COMMUNITY-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/DBus.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.netscreen
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FLOW-METER-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/sqlite-3.5.1-lib_cygwin.diff
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-merge-qt5.png
+/vol_vol6/aircrack-ng-1.7-win/build/coccinelle/convert_u_int_form.cocci
+/vol_vol6/Program Files/Wireshark/diameter/chargecontrol.xml
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/0.bin
+/vol_vol6/Program Files/Wireshark/snmp/mibs/CHARACTER-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PIM-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/tile_50x50.png
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/Settings/settings.dat
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RMON-MIB
+/vol_vol6/aircrack-ng-1.7-win/.editorconfig
+/vol_vol6/Program Files/Wireshark/snmp/mibs/APPN-MIB
+/vol_vol6/Program Files/Wireshark/diameter/dictionary.dtd
+/vol_vol6/aircrack-ng-1.7-win/Makefile.integration.mk
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/AC/INetCache/MSIMGSIZ.DAT
+/vol_vol6/Program Files/Wireshark/snmp/mibs/GMPLS-LSR-STD-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/T11-FC-NAME-SERVER-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IP-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/osdep/cygwin_tap.c
+/vol_vol6/Program Files/Wireshark/snmp/mibs/P-BRIDGE-MIB
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/LocalState/static-50526.js
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-help-menu.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/osdep/cygwin.h
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/src/aircrack-ng/linecount.h
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ATM-ACCOUNTING-INFORMATION-MIB
+/vol_vol6/Program Files/Wireshark/translations/qt_es.qm
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/AC/INetCache/container.dat
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-capture-options-compile-selected-bpfs.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/ar9170_regdomain_override.patch
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/MessageWriter.cs
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-expert-colored-tree.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.wichorus
+/vol_vol6/Program Files/Wireshark/snmp/mibs/META-POLICY-PIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/UPS-MIB
+/vol_vol6/aircrack-ng-1.7-win/include/aircrack-ng/third-party/if_llc.h
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/g.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.unisphere
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMP-TSM-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.compat
+/vol_vol6/Program Files/Wireshark/snmp/mibs/LOAD-BALANCING-PIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DISMAN-NSLOOKUP-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ATM2-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SCTP-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/readme.txt
+/vol_vol6/Program Files/Wireshark/snmp/mibs/APS-MIB
+/vol_vol6/Program Files/Wireshark/translations/qt_uk.qm
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IF-CAP-STACK-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.propel
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/itemDetail/itemDetail.html
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/x-resize-columns.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_ac_append_to_file.m4
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/noimage.png
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/js/cache/static-50526.js
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DISMAN-PING-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/ndesk.snk
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/videoDetail/videoDetail.html
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/ws.css
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/PendingCall.cs
+/vol_vol6/aircrack-ng-1.7-win/build/cocci.sh
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-user-guide-cover.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/.github/ISSUE_TEMPLATE/feature_request.md
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/TypeImplementer.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.roaringpenguin
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RFC1213-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.avaya
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RFC1316-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/tile_620x300.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.ntua
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/5DE27BB95841A8F1C0021C438126421B890F198C
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/important.svg
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/zippapp_bg.png
+/vol_vol6/Program Files/Wireshark/diameter/eap.xml
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/Example1/Example1/Properties/Settings.Designer.cs
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-capture-menu.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_check_openssl.m4
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/include/aircrack-ng/crypto/gcrypt-openssl-wrapper.h
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMP-SSH-TM-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPOA-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/Example1/Example1/Form1.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TUBS-SMI
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/rt73-k2wrkz-3.0.3_add_EW-7318USg.patch
+/vol_vol6/Program Files/Wireshark/radius/dictionary.alvarion
+/vol_vol6/aircrack-ng-1.7-win/test/wpa-psk-linksys.cap
+/vol_vol6/Program Files/Wireshark/radius/dictionary.nomadix
+/vol_vol6/Program Files/Wireshark/radius/dictionary.airespace
+/vol_vol6/aircrack-ng-1.7-win/lib/osdep/crctable_osdep.h
+/vol_vol6/Program Files/Wireshark/radius/dictionary.vqp
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RFC1269-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/x-capture-restart.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/OSPF-TRAP-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-rtpstream-analysis_3.png
+/vol_vol6/Program Files/Wireshark/diameter/CiscoSystems.xml
+/vol_vol6/Program Files/Wireshark/radius/dictionary.bt
+/vol_vol6/aircrack-ng-1.7-win/lib/osdep/netbsd_tap.c
+/vol_vol6/Program Files/Wireshark/translations/qt_ar.qm
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/Ethical-Hacking_Resources.png
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_compare_version.m4
+/vol_vol6/Program Files/Wireshark/tpncp/tpncp.dat
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/apparmor/usr.sbin.easside-ng
+/vol_vol6/Program Files/Wireshark/snmp/mibs/HPR-IP-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PPVPN-PIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/NAT-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/scripts/airgraph-ng/airgraphviz/__init__.py
+/vol_vol6/Program Files/Wireshark/radius/dictionary.sg
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_ext_have_static_lib.m4
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/.vscode/c_cpp_properties.json
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/Transport.cs
+/vol_vol6/Program Files/Wireshark/diameter/Microsoft.xml
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/0fcs.args
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ARC-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/groupDetail/groupDetail.js
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/Untitled.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/count-infer-bugs.py
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/LocalState/_sessionState.json
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-filter-toolbar.png
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/default.html
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/osdep/crctable_osdep.h
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/tile_150x150.png
+/vol_vol6/Program Files/Wireshark/translations/qt_hu.qm
+/vol_vol6/aircrack-ng-1.7-win/scripts/airdrop-ng/airdrop/__init__.py
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/13B1A308B2FF5A0D225EB6DC8B36A9BCC39F212F
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/1.bin
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-capture-options-options.png
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/unparsed-vendor.bin
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-mate-dns_pane.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_code_coverage.m4
+/vol_vol6/Program Files/Wireshark/radius/dictionary.waverider
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/rt73_2.6.24.patch
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/09B0644C9DF7D0C71E7B2EBCFFDF5F6235659086
+/vol_vol6/aircrack-ng-1.7-win/lib/libac/support/strlcat.c
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/count-pvs-bugs.py
+/vol_vol6/Program Files/Wireshark/snmp/mibs/HPR-MIB
+/vol_vol6/aircrack-ng-1.7-win/test/password-2.lst
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/stubs/.gitkeep
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/0v0-4.out
+/vol_vol6/Program Files/Wireshark/radius/dictionary.huawei
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/AssemblyInfo.cs
+/vol_vol6/aircrack-ng-1.7-win/test/wep_64_ptw_01.cap
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/wpa2.eapol.cap
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/zd1211rw-inject+dbi-fix-3.3.2.patch
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DNS-RESOLVER-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PW-ATM-MIB
+/vol_vol6/Program Files/Wireshark/wimaxasncp/dictionary.xml
+/vol_vol6/Program Files/Wireshark/radius/dictionary.surfnet
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/DProxy.cs
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_compiler_vendor.m4
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/go-previous.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.bskyb
+/vol_vol6/Program Files/Wireshark/radius/dictionary.verizon
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-file-import-regex.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ACCESSBIND-PIB-orig
+/vol_vol6/Program Files/Wireshark/snmp/mibs/T11-FC-VIRTUAL-FABRIC-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/ath9k_regdomain_override.patch
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-rtp-player_button.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANA-ITU-ALARM-TC-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.utstarcom
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/rtl8187_hw_signal_backport_2.6.28.patch
+/vol_vol6/Program Files/Wireshark/radius/dictionary.gemtek
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-coloring-fields.png
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/Authentication.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PPP-LCP-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/0.bin
+/vol_vol6/Program Files/Wireshark/radius/dictionary.actelis
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/libac/support/strlcpy.c
+/vol_vol6/Program Files/Wireshark/radius/dictionary.ukerna
+/vol_vol6/Program Files/Wireshark/snmp/mibs/Job-Monitoring-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MPLS-LDP-ATM-STD-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMP-TARGET-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-stats-lte-mac-traffic.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.walabi
+/vol_vol6/Program Files/Wireshark/radius/dictionary.eltex
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/note.svg
+/vol_vol6/Program Files/Wireshark/radius/dictionary.bintec
+/vol_vol6/Program Files/Wireshark/dfilters
+/vol_vol6/Program Files/Wireshark/radius/dictionary.purewave
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ENTITY-SENSOR-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-open-qt5.png
+/vol_vol6/Program Files/Wireshark/translations/qt_da.qm
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc7055
+/vol_vol6/Program Files/Wireshark/radius/dictionary.dhcp
+/vol_vol6/Program Files/Wireshark/snmp/mibs/EFM-CU-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/APPLETALK-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-ssp-statistics.png
+/vol_vol6/aircrack-ng-1.7-win/lib/osdep/cygwin.h
+/vol_vol6/Program Files/Wireshark/diameter/sip.xml
+/vol_vol6/Program Files/Wireshark/radius/dictionary.bristol
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IRTF-NMRG-SMING
+/vol_vol6/Program Files/Wireshark/radius/dictionary.motorola
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RFC1285-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNA-SDLC-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/b43-injection-2.6.24.4.patch
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ADSL-TC-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DOT3-EPON-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMPv2-USEC-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/COPS-CLIENT-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/zoom-in.png
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_add_am_macro_static.m4
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/cocci.sh
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NewStationNotify/Main.cs
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/Example1/Example1.sln
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NewStationNotify.sln
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FRAMEWORK-FEEDBACK-PIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/centos_autotools.sh
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/Example1/Example1/Form1.Designer.cs
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/zd1211rw-inject+dbi-fix-2.6.39.4.diff
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_cxx_compile_stdcxx.m4
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/Introspection.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DIAL-CONTROL-MIB
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_code_coverage.m4
+/vol_vol6/Program Files/Wireshark/snmp/mibs/EBN-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/Ethical-Hacking_620.png
+/vol_vol6/aircrack-ng-1.7-win/bin/cygsqlite3-0.dll
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/Wrapper.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/INTEGRATED-SERVICES-GUARANTEED-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.dellemc
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SLS-NEGOTIATION-PIB-orig
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/osdep/darwin_tap.c
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TIME-AGGREGATE-MIB
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/33C5A5FA252D9B47E6D594DEB3D3FE931034CE9A
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ITU-ALARM-TC-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-capture-file-properties.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMP-VIEW-BASED-ACM-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.fdxtended
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/0fcs.args
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/0v0.bin
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/Example1/Example1/app.config
+/vol_vol6/Program Files/Wireshark/snmp/mibs/Finisher-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NewStationNotify.sln
+/vol_vol6/Program Files/Wireshark/radius/dictionary.azaire
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/noImageGroup.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DISMAN-SCHEDULE-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-mate-mmse_over_http.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/URI-TC-MIB
+/vol_vol6/Program Files/Wireshark/diameter/AlcatelLucent.xml
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANA-ADDRESS-FAMILY-NUMBERS-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/5.png
+/vol_vol6/Program Files/Wireshark/diameter/Metaswitch.xml
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-follow-http2-stream.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMP-FRAMEWORK-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/password-3.lst
+/vol_vol6/Program Files/Wireshark/radius/dictionary.zte
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/Bus.cs
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/B0448EE70B66F9A3FFD978BAD2050836583850CE
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_lib_gcrypt.m4
+/vol_vol6/Program Files/Wireshark/radius/dictionary.ericsson.ab
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ENTITY-STATE-TC-MIB
+/vol_vol6/aircrack-ng-1.7-win/test/test-hex_string_to_array.sh
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-bytes-pane-tabs.png
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/b.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/filter-toolbar-recent.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/APM-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/CAPWAP-BASE-MIB
+/vol_vol6/aircrack-ng-1.7-win/test/capture_wds-01.cap
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/Example1/Example1/Form1.resx
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ISCSI-MIB
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/8F851EE4885A0CC988E650FA89271D876AE03C4C
+/vol_vol6/aircrack-ng-1.7-win/LICENSE.OpenSSL
+/vol_vol6/Program Files/Wireshark/snmp/mibs/INET-ADDRESS-MIB
+/vol_vol6/Program Files/Wireshark/translations/qt_it.qm
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/Ethical-Hacking_Resouces_splash.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/zd1211rw-inject+dbi-fix-3.7.4.patch
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-open-win32.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MPLS-L3VPN-STD-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.compatible
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TE-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-gui-preferences-advanced.png
+/vol_vol6/aircrack-ng-1.7-win/lib/osdep/dummy.c
+/vol_vol6/Program Files/Wireshark/snmp/mibs/BRIDGE-MIB
+/vol_vol6/aircrack-ng-1.7-win/bin/cygstdc++-6.dll
+/vol_vol6/Program Files/Wireshark/radius/dictionary.cosine
+/vol_vol6/Program Files/Wireshark/radius/dictionary.kineto
+/vol_vol6/Program Files/Wireshark/wimaxasncp/dictionary.dtd
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_compare_version.m4
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/Address.cs
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_file_escapes.m4
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc7155
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/SocketTransport.cs
+/vol_vol6/aircrack-ng-1.7-win/include/aircrack-ng/crypto/sha1-git.h
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNA-NAU-MIB
+/vol_vol6/aircrack-ng-1.7-win/test/wep.open.system.authentication.cap
+/vol_vol6/Program Files/Wireshark/radius/dictionary.lancom
+/vol_vol6/Program Files/Wireshark/radius/dictionary.hp
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/Mapper.cs
+/vol_vol6/Program Files/Npcap/DiagReport.bat
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMPv2-TC
+/vol_vol6/Program Files/Wireshark/radius/dictionary.identity_engines
+/vol_vol6/Program Files/Wireshark/radius/dictionary.localweb
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/osdep/linux_tap.c
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-save-as-qt5.png
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/dc.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.epygi
+/vol_vol6/aircrack-ng-1.7-win/test/wep.shared.key.authentication.cap
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PKTC-IETF-MTA-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/POLICY-FRAMEWORK-PIB
+/vol_vol6/Program Files/Wireshark/diameter/sunping.xml
+/vol_vol6/Program Files/Wireshark/radius/dictionary.alcatel.esam
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/Example1/Example1/Form1.resx
+/vol_vol6/Program Files/Wireshark/radius/dictionary.itk
+/vol_vol6/Program Files/Wireshark/snmp/mibs/T11-FC-FABRIC-LOCK-MIB
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/2E719C5B3DEBBFB371615297379BA925574BD515
+/vol_vol6/Program Files/Wireshark/radius/dictionary.prosoft
+/vol_vol6/Program Files/Wireshark/radius/dictionary.nortel
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/zoom-original.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-packet-sep-win.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/Printer-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_add_fortify_source.m4
+/vol_vol6/Program Files/Wireshark/radius/dictionary.redcreek
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc4679
+/vol_vol6/Program Files/Wireshark/translations/qt_he.qm
+/vol_vol6/Program Files/Wireshark/translations/qt_pl.qm
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/go-first.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/00.bin
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-manage-interfaces.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-export-objects.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-display-filter-tcp.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/LICENSE.OpenSSL
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANA-FINISHER-MIB
+/vol_vol6/Users/catherine/AppData/Roaming/Microsoft/Windows/Recent/wireless_hacking.lnk
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/hub/hub.css
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/mac80211_2.6.26_frag.patch
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-playlist.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/0v0-3.bin
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/platform.h
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RFC1158-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANA-PWE3-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANA-GMPLS-TC-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ETHER-WIS
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/0v0-2.bin
+/vol_vol6/Program Files/Wireshark/diameter/HP.xml
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-analyze-menu.png
+/vol_vol6/aircrack-ng-1.7-win/src/easside-ng/easside.h
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PTOPO-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/MatchRule.cs
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/wep_64_ptw.cap
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/LocalState/static-50520.js
+/vol_vol6/Program Files/Wireshark/radius/dictionary.cisco.vpn5000
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANA-MALLOC-MIB
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_check_cflags.m4
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-stats-srt-smb2.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RSVP-PCC-PIB
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/WirelessPanda/WirelessPanda.csproj
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/hacking_wide.png
+/vol_vol6/Program Files/Wireshark/translations/qt_gd.qm
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/related-ack.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PKTC-IETF-SIG-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.cisco.asa
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPSEC-SPD-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MPLS-SETUP-PIB-orig
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/edit-find.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FCIP-MGMT-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_check_compile_flag.m4
+/vol_vol6/Program Files/Wireshark/radius/dictionary.ipunplugged
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/7.png
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/93A7314E1709976D1CDDCA68B8BE2B63C675A464
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/COPYING
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/hacking310.png
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/NDesk-dbus.csproj
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DS1-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/4.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MALLOC-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TN3270E-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.ericsson
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ISNS-MIB
+/vol_vol6/aircrack-ng-1.7-win/test/n-02.cap
+/vol_vol6/aircrack-ng-1.7-win/test/pass.txt
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TE-LINK-STD-MIB
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/1D1D880761A7B1A179F5B668AD0EE2DD9AAF5032
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ROHC-UNCOMPRESSED-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/twitterDetail/twitterDetail.js
+/vol_vol6/Program Files/Wireshark/radius/dictionary.juniper
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Roaming/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cwireshark.org%29/ls/usage
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_lib_gcrypt.m4
+/vol_vol6/Program Files/Wireshark/snmp/mibs/QOS-POLICY-802-PIB-orig
+/vol_vol6/Program Files/Wireshark/radius/dictionary.tropos
+/vol_vol6/Program Files/Wireshark/radius/dictionary.brocade
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TUBS-IBR-XEN-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.fortinet
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/i.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.riverstone
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/1.out
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/mac80211_2.6.26-rc6-wl_frag_v2.patch
+/vol_vol6/aircrack-ng-1.7-win/bin/cygpcre-1.dll
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SYSAPPL-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tcp-analysis.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/GMPLS-LABEL-STD-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/VPN-TC-STD-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-mate-transform.png
+/vol_vol6/aircrack-ng-1.7-win/bin/cygz.dll
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ENTITY-STATE-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PARTITION-PIB-orig
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RADIUS-DYNAUTH-CLIENT-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PARTITION-PIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/hub/hub.html
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-menu.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NewStationNotify/NewStationNotify.csproj
+/vol_vol6/Program Files/Wireshark/snmp/mibs/HCNUM-TC
+/vol_vol6/Program Files/Wireshark/radius/dictionary.camiant
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/AppxManifest.xml
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/scripts/airdrop-ng/doc/Apple.sample.txt
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_check_cflags.m4
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/platform.h
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/Example1/Example1/Properties/Settings.settings
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-capture-interfaces-main-win32.png
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/BusObject.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.riverbed
+/vol_vol6/Program Files/Wireshark/diameter/mobileipv4.xml
+/vol_vol6/Program Files/Wireshark/snmp/mibs/QOS-POLICY-802-PIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMP-USER-BASED-SM-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-export-packet-dissections.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/Authentication.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.ruggedcom
+/vol_vol6/Program Files/Wireshark/snmp/mibs/OSPF-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.starent.vsa1
+/vol_vol6/Program Files/Wireshark/radius/dictionary.symbol
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/Example1/Example1/Properties/Resources.resx
+/vol_vol6/Program Files/Wireshark/radius/dictionary.telebit
+/vol_vol6/Program Files/Wireshark/radius/dictionary.nokia
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/.gitignore
+/vol_vol6/Program Files/Wireshark/snmp/mibs/POLICY-DEVICE-AUX-MIB-orig
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANAifType-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IP-FORWARD-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.alcatel
+/vol_vol6/Program Files/Wireshark/translations/qt_lv.qm
+/vol_vol6/Program Files/Wireshark/diameter/Siemens.xml
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/AD22A2BB6BF83220B2C853666541239EB86676DF
+/vol_vol6/Program Files/Wireshark/snmp/mibs/T11-FC-FSPF-MIB
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_compiler_version.m4
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMP-TLS-TM-MIB
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_ext_have_static_lib.m4
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPV6-ICMP-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ITU-ALARM-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPV6-UDP-MIB
+/vol_vol6/aircrack-ng-1.7-win/test/wep_64_ptw_04.cap
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/Example1/Example1/Form1.Designer.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PPP-SEC-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPV6-TCP-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/filter-toolbar-bookmark.png
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/C05A034261F272760014CE994B3812155D07590D
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc2867
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/bcm43xx-injection-linux-2.6.20.patch
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc2869
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-udp-multicast-stream.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PW-TDM-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/.clang-format
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/Notifications.cs
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/hacking_badge.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FR-MFR-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/unparsed-vendor.bin
+/vol_vol6/Program Files/Wireshark/radius/dictionary.efficientip
+/vol_vol6/Program Files/Wireshark/snmp/mibs/QOS-POLICY-IP-PIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SOURCE-ROUTING-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.alcatel.sr
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/osdep/darwin.c
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/UnixTransport.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/POLICY-DEVICE-AUX-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-stats-packet-lengths.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-follow-sip-stream.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RIPv2-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/related-segment.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.versanet
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/src/aircrack-ng/linecount.cpp
+/vol_vol6/aircrack-ng-1.7-win/include/aircrack-ng/third-party/if_arp.h
+/vol_vol6/Program Files/Wireshark/snmp/mibs/POLICY-FRAMEWORK-PIB-orig
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-diagram-pane.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_pthread.m4
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FRAMEWORK-PIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/Example1/Example1/Properties/AssemblyInfo.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ACCOUNTING-FRAMEWORK-PIB-orig
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/js/provider.js
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/osdep/tap-win32/common.h
+/vol_vol6/Program Files/Wireshark/radius/dictionary.freedhcp
+/vol_vol6/aircrack-ng-1.7-win/include/aircrack-ng/crypto/gcrypt-openssl-wrapper.h
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/Introspection.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.apc
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MPLS-FTN-STD-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/Modem-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPMROUTE-STD-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NewStationNotify/Main.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/UDP-MIB
+/vol_vol6/aircrack-ng-1.7-win/src/aircrack-ng/linecount.cpp
+/vol_vol6/Program Files/Wireshark/radius/dictionary.iana
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/AssemblyInfo.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RSTP-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TRIP-TC-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MPLS-LDP-STD-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/unparsed-vendor.out
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/rtl8187-mac80211-injection-speed-2.6.30-rc3.patch
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ATM-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/unparsed-vendor.out
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/NDesk-dbus.csproj
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-mate-dns_pdu.png
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/Thumbs.db
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/Example1/Example1/Program.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PW-TC-STD-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.equallogic
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/Connection.cs
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/go-next.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ietf-netconf-monitoring.yang
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/mac80211-2.6.29-fix-tx-ctl-no-ack-retry-count.patch
+/vol_vol6/Program Files/Wireshark/diameter/TGPP.xml
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_require_defined.m4
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/css/font.css
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-rtp-player_3.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FEEDBACK-FRAMEWORK-PIB
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NewStationNotify/NewStationNotify.csproj
+/vol_vol6/Program Files/Wireshark/radius/dictionary.foundry
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc6911
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-netperfmeter-statistics.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.dragonwave
+/vol_vol6/aircrack-ng-1.7-win/test/StayAlfred.hccapx
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/App.config
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SIP-TC-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/BusObject.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc7930
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ADSL2-LINE-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ietf-yang-types.yang
+/vol_vol6/Program Files/Wireshark/translations/qt_bg.qm
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PPVPN-PIB-orig
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_lib_sqlite3.m4
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-mate-gop_analysis.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.sangoma
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-follow-stream.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/osdep/dummy_tap.c
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-go-menu.png
+/vol_vol6/aircrack-ng-1.7-win/centos_autotools.sh
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DOCS-IETF-CABLE-DEVICE-NOTIFICATION-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc3162
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/zd1211rw_malformed.patch
+/vol_vol6/Program Files/Wireshark/radius/dictionary.cabletron
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/WirelessPanda/Coordinates.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ADSL-LINE-EXT-MIB
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/AC/INetCookies/ESE/container.dat
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MSDP-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/0.out
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/Example1/Example1/Properties/Settings.Designer.cs
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/Message.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.digium
+/vol_vol6/Program Files/Wireshark/snmp/mibs/OSPFV3-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RAQMON-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SLAPM-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/1.out
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ACCOUNTING-CONTROL-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/WirelessPanda/WirelessPanda.csproj
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/x-capture-file-reload.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MPLS-LDP-FRAME-RELAY-STD-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/Q-BRIDGE-MIB
+/vol_vol6/aircrack-ng-1.7-win/.clang-format
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_am_macros_static.m4
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/hacking_small.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/Example1/Example1/Example1.csproj
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPMCAST-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/MessageWriter.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.3com
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/zoom-out.png
+/vol_vol6/aircrack-ng-1.7-win/lib/osdep/dummy_tap.c
+/vol_vol6/Program Files/Wireshark/snmp/mibs/GSMP-MIB
+/vol_vol6/Users/catherine/Downloads/wireless_hacking.pdf:Zone.Identifier
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/filter-toolbar-input.png
+/vol_vol6/aircrack-ng-1.7-win/bin/cygwin1.dll
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IP-TE-PIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/GMPLS-TE-STD-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/cryptounittest/tests.h
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-asap-statistics.png
+/vol_vol6/aircrack-ng-1.7-win/build/count-infer-bugs.py
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/prism54-svn-20050724.patch
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/videoDetail/videoDetail.css
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/Example1/Example1/Properties/AssemblyInfo.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc3580
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/A79FC1C6B515A2BA3E84ED5E02034A976A8136F6
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TUBS-IBR-LINUX-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DOCS-IF-MIB
+/vol_vol6/aircrack-ng-1.7-win/include/aircrack-ng/third-party/eapol.h
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/0.out
+/vol_vol6/Program Files/Wireshark/snmp/mibs/COPS-PR-SPPI-TC
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/x-capture-file-close.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-statistics-menu.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IRTF-NMRG-SMING-TYPES
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_add_am_macro_static.m4
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/33F70DAE05CD01E887006C1B0F381BD9DABB3D01
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/Signature.cs
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/hub/hub.js
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/scripts/airdrop-ng/airdrop/__init__.py
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/Example1/Example1/Properties/Settings.settings
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPSEC-POLICY-PIB-orig
+/vol_vol6/Program Files/Wireshark/radius/dictionary.meru
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-goto-packet.png
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/0v0-3.bin
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PerfHist-TC-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-voip-calls.png
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/AppxSignature.p7x
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/wep_64_ptw_01.cap
+/vol_vol6/Program Files/Wireshark/translations/qt_ru.qm
+/vol_vol6/Program Files/Wireshark/snmp/mibs/NTPv4-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.xedia
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-stats-lte-rlc-traffic.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc4072
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Roaming/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/storage/default/https+++www.wireshark.org/ls/usage
+/vol_vol6/aircrack-ng-1.7-win/lib/osdep/openbsd_tap.c
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/0v0-2.out
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/apparmor/usr.bin.buddy-ng
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-diagram-pane-popup-menu.png
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Roaming/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cwireshark.org%29/cache/.padding
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc4603
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/5D0E7706702DD6ED0C65E098A94B54A4A4419816
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NewStationNotify/AssemblyInfo.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc4372
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/92EA041868750828B2136B525D8A271D86B71412
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/tile_24x24.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/osdep/dummy.c
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/videoDetail/videoDetail.js
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/apparmor/usr.sbin.wesside-ng
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/rtl8187-mac80211-injection-speed-2.6.28-wl.patch
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/sqlite-3.5.4-lib_cygwin.diff
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PW-CEP-STD-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RADIUS-ACC-SERVER-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/00.out
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-stats-hierarchy.png
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/hacking_logo.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/0fcs.bin
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-rtpstream-analysis_2.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/Example1/Example1/Program.cs
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/check.sh
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/StayAlfred.hccapx
+/vol_vol6/aircrack-ng-1.7-win/build/pvs-studio.sh
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/filter-toolbar-add.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/mac80211_2.6.26-wl_frag.patch
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-main.png
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/LocalState/static-50525.js
+/vol_vol6/Program Files/Wireshark/radius/dictionary.cisco
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/Wrapper.cs
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/TypeImplementer.cs
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/packages.config
+/vol_vol6/aircrack-ng-1.7-win/scripts/airdrop-ng/doc/Apple.sample.txt
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-gui-preferences.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.infonet
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/Protocol.cs
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/h.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ATM-TC-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANA-PRINTER-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.acc
+/vol_vol6/Program Files/Wireshark/radius/dictionary.aptilo
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_lib_socket_nsl.m4
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RSVP-MIB
+/vol_vol6/aircrack-ng-1.7-win/LICENSE
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc6929
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ACCOUNTING-FRAMEWORK-PIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.merit
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-details-pane-popup-menu.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/POLICY-BASED-MANAGEMENT-MIB
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/0CA643C4634378538619DA17DE92F4761BC61217
+/vol_vol6/Program Files/Wireshark/snmp/mibs/WWW-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/related-current.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-file-import.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/PendingCall.cs
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_file_escapes.m4
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/rt2570-k2wrlz-1.6.1_2.6.24.patch
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DISMAN-EVENT-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-capture-info.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPV6-TC
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/Example1/Example1/Properties/Resources.Designer.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc2868
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/passphrases.db
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-rlc-graph.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-gui-config-profiles.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc7499
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/c.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RMON2-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/tip.svg
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/UnixNativeTransport.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DSMON-MIB
+/vol_vol6/Program Files/Wireshark/diameter/Inovar.xml
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/fix_ath5k_no_data_in_monitor_mode.patch
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RTP-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/filter-toolbar-apply.png
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/tweet_background1.png
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/DProxy.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ADSL-LINE-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/x-capture-start.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/APPN-TRAP-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/Example1/Example1/Example1.csproj
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/test.ivs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc3576
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DOCS-IETF-BPI2-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_cxx_compile_stdcxx.m4
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RADIUS-AUTH-SERVER-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MPLS-LC-ATM-STD-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.valemount
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RFC1381-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/WirelessPanda/Coordinates.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.microsemi
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RADIUS-ACC-CLIENT-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.springtide
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FDDI-SMT73-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/include/aircrack-ng/crypto/crctable.h
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TUBS-IBR-TEST-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-stats-iographs.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/T11-FC-FABRIC-ADDR-MGR-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DNS-SERVER-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/related-dup-ack.png
+/vol_vol6/Program Files/Wireshark/diameter/Custom.xml
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPFIX-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/groupDetail/groupDetail.css
+/vol_vol6/aircrack-ng-1.7-win/src/aircrack-ng/linecount.h
+/vol_vol6/Program Files/Wireshark/diameter/Nokia.xml
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/0v0.out
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/include/aircrack-ng/adt/avl_tree.h
+/vol_vol6/Program Files/Wireshark/snmp/mibs/NHRP-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/Example1/Example1/Properties/Resources.Designer.cs
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_lib_socket_nsl.m4
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-fgp-statistics.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMP-NOTIFICATION-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.sonicwall
+/vol_vol6/Program Files/Wireshark/snmp/mibs/APPN-DLUR-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-pingpongprotocol-statistics.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RFC1271-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-bluetooth-devices.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.manzara
+/vol_vol6/Program Files/Wireshark/radius/dictionary.meinberg
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/0v0.bin
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_cflags_warn_all.m4
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/wep_64_ptw_04.cap
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_lib_sqlite3.m4
+/vol_vol6/Program Files/Wireshark/radius/dictionary.gandalf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/D264B53143716DEA4A12B398F21A91C5FA2AEEDC
+/vol_vol6/Users/catherine/Downloads/ANNALS-2018-3-26.pdf:Zone.Identifier
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TN3270E-RT-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RADIUS-DYNAUTH-SERVER-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PINT-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TCP-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-filter-macros.png
+/vol_vol6/Program Files/Wireshark/translations/qt_tr.qm
+/vol_vol6/Program Files/Wireshark/diameter/Juniper.xml
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ADSL2-LINE-TC-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RADIUS-AUTH-CLIENT-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-statusbar-empty.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-decode-as.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/T11-FC-ZONE-SERVER-MIB
+/vol_vol6/aircrack-ng-1.7-win/bin/cyggcc_s-seh-1.dll
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MIP-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMPv2-CONF
+/vol_vol6/Program Files/Wireshark/diameter/NokiaSolutionsAndNetworks.xml
+/vol_vol6/Program Files/Wireshark/radius/dictionary.unix
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IGMP-STD-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/wpa.cap
+/vol_vol6/Program Files/Wireshark/radius/dictionary.siemens
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMPv2-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TRIP-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ROHC-RTP-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/Address.cs
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/.gitignore
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DECNET-PHIV-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FRAME-RELAY-DTE-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-flow-graph.png
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/5123BAD4E6C88CFCE631AD703D339140C8BB58F5
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TRANSPORT-ADDRESS-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ACCESSBIND-PIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.telkom
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/twitterDetail/twitterDetail.html
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DOCS-BPI-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.cnergee
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-bytes-pane.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/T11-FC-RSCN-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/groupDetail/groupDetail.html
+/vol_vol6/Program Files/Wireshark/snmp/mibs/L2TP-MIB
+/vol_vol6/Program Files/Wireshark/translations/qt_de.qm
+/vol_vol6/Program Files/Wireshark/radius/dictionary.sofaware
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-save-as-win32.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/VDSL2-LINE-TC-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ENTITY-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMP-USM-DH-OBJECTS-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANATn3270eTC-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPS-AUTH-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TUBS-IBR-PING-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/0v0-4.bin
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-stats-wlan-traffic.png
+/vol_vol6/aircrack-ng-1.7-win/include/aircrack-ng/crypto/crctable.h
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-rtpstream-analysis_1.png
+/vol_vol6/Program Files/Wireshark/translations/qt_en.qm
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/itemDetail/itemDetail.css
+/vol_vol6/Program Files/Wireshark/radius/dictionary.columbia_university
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPV6-MLD-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RDBMS-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/0fcs.out
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MTA-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-stats-endpoints.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/MessageReader.cs
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/osdep/netbsd_tap.c
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-time-reference.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/aicrack-ng-rc2_Intel_macOSX.patch
+/vol_vol6/Program Files/Wireshark/radius/dictionary.paloalto
+/vol_vol6/Program Files/Wireshark/translations/qt_fi.qm
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc6519
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/pvs-studio.sh
+/vol_vol6/aircrack-ng-1.7-win/test/passphrases.db
+/vol_vol6/Program Files/Wireshark/diameter/Ericsson.xml
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/wep_64_ptw_02.cap
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc6572
+/vol_vol6/Program Files/Wireshark/radius/dictionary.f5
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_check_gnu_make.m4
+/vol_vol6/Program Files/Wireshark/profiles/Bluetooth/preferences
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPATM-IPMC-MIB
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Roaming/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/favicons.sqlite-shm
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-statusbar-filter.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/COFFEE-POT-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/AGGREGATE-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ISDN-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc5580
+/vol_vol6/Program Files/Wireshark/radius/dictionary.nokia.conflict
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DIRECTORY-SERVER-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/malformed-vendor.bin
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/capture_wds-01.cap
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/test-hex_string_to_array.sh
+/vol_vol6/aircrack-ng-1.7-win/test/wep_64_ptw.cap
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tools-menu.png
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/69FFE0FE16AA45356A1CE5B1CD2735C152694954
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/0v0.out
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-stats-http-requestsequences.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/osdep/osdep.c
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-sctp.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-rtp-player_2.xcf
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc5904
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-find-packet.png
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/css/zipapp.woff
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/apparmor/usr.bin.ivstools
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-enrp-statistics.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DSA-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/LICENSE
+/vol_vol6/Program Files/Wireshark/radius/dictionary.acme
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/.editorconfig
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/e.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/sqlite-3.4.2-lib-cygwin.diff
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/tile_310x150.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/NETWORK-SERVICES-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DVB-RCS-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.asn
+/vol_vol6/Program Files/Wireshark/diameter/Telefonica.xml
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/js/cache/static-50525.js
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMPv2-SMI
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/181E20A97B6426D9AF2A4A029D80FF32F89ECCD6
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-statusbar-profile.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/.github/workflows/style.yml
+/vol_vol6/aircrack-ng-1.7-win/test/test.ivs
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tls-session-keys.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/INTEGRATED-SERVICES-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-rtp-player_1.png
+/vol_vol6/aircrack-ng-1.7-win/lib/osdep/tap-win32/common.h
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/wep_64_ptw_03.cap
+/vol_vol6/Program Files/Wireshark/radius/dictionary.extreme
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc2866
+/vol_vol6/aircrack-ng-1.7-win/bin/kstats.exe
+/vol_vol6/aircrack-ng-1.7-win/lib/libac/support/strlcpy.c
+/vol_vol6/Program Files/Wireshark/radius/dictionary.slipstream
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/0v0-3.out
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMP-PROXY-MIB
+/vol_vol6/Program Files/Wireshark/translations/qt_ko.qm
+/vol_vol6/Program Files/Wireshark/snmp/mibs/APPC-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/osdep/darwin.c
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FC-MGMT-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/x-stay-last.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANA-CHARSET-MIB
+/vol_vol6/aircrack-ng-1.7-win/test/wpa2-psk-linksys.cap
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/mac80211_2.6.27_frag+ack_v2.patch
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-statusbar-selected.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SFLOW-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TCPIPX-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/Example1/Example1/Form1.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc5607
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_compiler_vendor.m4
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-csp-statistics.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IFCP-MGMT-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-edit-menu.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/ipw2200-1.1.3-inject.patch
+/vol_vol6/Program Files/Wireshark/radius/dictionary.dlink
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MIOX25-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/css/default.css
+/vol_vol6/Program Files/Wireshark/radius/dictionary.starent
+/vol_vol6/Program Files/Wireshark/radius/dictionary.ericsson.packet.core.networks
+/vol_vol6/Program Files/Wireshark/radius/dictionary.shiva
+/vol_vol6/Program Files/Wireshark/radius/dictionary.lucent
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/include/aircrack-ng/third-party/eapol.h
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SIP-SERVER-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-mate-ftp_over_gre.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FR-ATM-PVC-SERVICE-IWF-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DIFFSERV-DSCP-TC
+/vol_vol6/Program Files/Wireshark/snmp/mibs/INTERFACETOPN-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.zeus
+/vol_vol6/aircrack-ng-1.7-win/test/wep_64_ptw_02.cap
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANA-IPPM-METRICS-REGISTRY-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RFC1414-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-bytes-pane-popup-menu.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.packeteer
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DOCS-CABLE-DEVICE-MIB
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/MessageReader.cs
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/0v0-3.out
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MPLS-LSR-STD-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/x-capture-stop.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.motorola.wimax
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_append_flag.m4
+/vol_vol6/Program Files/Wireshark/radius/dictionary.infoblox
+/vol_vol6/Program Files/Wireshark/snmp/mibs/BGP4-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/tile_30x30.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RSERPOOL-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/CLNS-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/AC_VERSION.in
+/vol_vol6/Program Files/Wireshark/radius/dictionary.xylan
+/vol_vol6/Program Files/Wireshark/snmp/mibs/APPLICATION-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/evalrev
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SCSI-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/VDSL-LINE-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/VDSL-LINE-EXT-SCM-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/mac80211_2.6.26-rc6-wl_frag.patch
+/vol_vol6/Program Files/Wireshark/radius/dictionary.travelping
+/vol_vol6/Users/catherine/AppData/Local/Packages/14382rajuacharya.EthicalHackingResources_pc7qkqst7ppf6/AC/Temp/dat9037.tmp
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/0A3DD0F60D6C5002CC9A3E37603E7767A2855A8B
+/vol_vol6/Program Files/Wireshark/radius/dictionary.yubico
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-calcappprotocol-statistics.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/LANGTAG-TC-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.freeradius
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-column-header-popup-menu.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/HOST-RESOURCES-TYPES
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_add_fortify_source.m4
+/vol_vol6/Program Files/Wireshark/radius/dictionary.terena
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-choose-color-rule.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/include/aircrack-ng/crypto/sha1-git.h
+/vol_vol6/aircrack-ng-1.7-win/test/password.lst
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/Notifications.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/HC-PerfHist-TC-MIB
+/vol_vol6/Program Files/Wireshark/diameter/Oracle.xml
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MAU-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/libac/support/strlcat.c
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-expert-information.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/HOST-RESOURCES-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DOCS-IETF-SUBMGT-MIB
+/vol_vol6/aircrack-ng-1.7-win/include/aircrack-ng/adt/avl_tree.h
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DLSW-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-coloring-rules-dialog.png
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/Example1/Example1/app.config
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-export-specified-packets.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SIP-UA-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MPLS-LC-FR-STD-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.cisco.bbsm
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IPV6-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/warning.svg
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc6677
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-capture-options.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SSPM-MIB
+/vol_vol6/aircrack-ng-1.7-win/build/count-pvs-bugs.py
+/vol_vol6/Program Files/Wireshark/smi_modules
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc5447
+/vol_vol6/Program Files/Wireshark/radius/dictionary.chillispot
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FRNETSERV-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-view-menu.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TOKENRING-STATION-SR-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/sqlite-3.6.13-lib_cygwin.diff
+/vol_vol6/Program Files/Wireshark/snmp/mibs/CIRCUIT-IF-MIB
+/vol_vol6/Program Files/Wireshark/COPYING.txt
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-stats-conversations.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/.vscode/tasks.json
+/vol_vol6/aircrack-ng-1.7-win/lib/osdep/linux_tap.c
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/zippapp_bg.jpg
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/src/easside-ng/easside.h
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc4818
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc4675
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DISMAN-EXPRESSION-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/js/grid.js
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANA-LANGUAGE-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/VRRP-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.perle
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/9E2C39C7759C92C218D1FED611F61A368CE033BD
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/rtl8187-mac80211-injection-speed-2.6.28-rc6.patch
+/vol_vol6/Program Files/Wireshark/diameter/TGPP2.xml
+/vol_vol6/Program Files/Wireshark/radius/dictionary.bluecoat
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ROHC-MIB
+/vol_vol6/aircrack-ng-1.7-win/test/cryptounittest/tests.h
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/0v0-4.bin
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_compiler_version.m4
+/vol_vol6/Program Files/Wireshark/translations/qt_fr.qm
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/zd1211rw-inject+dbi-fix-2.6.26.patch
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/related-last.png
+/vol_vol6/Program Files/Wireshark/diameter/Cisco.xml
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_append_flag.m4
+/vol_vol6/Program Files/Wireshark/snmp/mibs/T11-FC-ROUTE-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-seq-dialog.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-details-pane.png
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/js/default.js
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/Mapper.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MIDCOM-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/UMTS-PIB-orig
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PARALLEL-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-enabled-protocols.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-packet-range.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MPLS-TE-STD-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-mate-pdu_analysis.png
+/vol_vol6/Program Files/Wireshark/diameter/nasreq.xml
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/related-first.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/UnixTransport.cs
+/vol_vol6/Program Files/Wireshark/diameter/Huawei.xml
+/vol_vol6/Program Files/Wireshark/radius/dictionary.proxim
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/00.bin
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RSVP-PCC-PIB-orig
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/b43-injection-2.6.25-wl.patch
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/SocketTransport.cs
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/CDFF4EA16D072696BBB493CC16476A27D28EADEC
+/vol_vol6/aircrack-ng-1.7-win/test/wep_64_ptw_03.cap
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/osdep/openbsd_tap.c
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/Protocol.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMP-MPD-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/filter-toolbar-clear.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc7268
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMPv2-TM
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_require_defined.m4
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-mate-tcp-output.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/ath5k-injection-2.6.27-rc2.patch
+/vol_vol6/Program Files/Wireshark/radius/dictionary.networkphysics
+/vol_vol6/Program Files/Wireshark/radius/dictionary.quiconnect
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/osdep/cygwin_tap.c
+/vol_vol6/Program Files/Wireshark/radius/dictionary.usr
+/vol_vol6/Program Files/Wireshark/radius/dictionary.nexans
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IANA-MAU-MIB
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/pages/twitterDetail/twitterDetail.css
+/vol_vol6/Program Files/Wireshark/protobuf/sparkplug_b.proto
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/COPYING
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/x-capture-file-save.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.shasta
+/vol_vol6/aircrack-ng-1.7-win/lib/osdep/osdep.c
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NewStationNotify/AssemblyInfo.cs
+/vol_vol6/Program Files/Wireshark/snmp/mibs/LOAD-BALANCING-PIB-orig
+/vol_vol6/Program Files/Wireshark/radius/dictionary.mikrotik
+/vol_vol6/Program Files/Wireshark/radius/dictionary.patton
+/vol_vol6/aircrack-ng-1.7-win/bin/cygcrypto-1.1.dll
+/vol_vol6/Program Files/Wireshark/diameter/VerizonWireless.xml
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/sqlite-3.6.11-lib_cygwin.diff
+/vol_vol6/Program Files/Wireshark/snmp/mibs/HC-ALARM-MIB
+/vol_vol6/Program Files/Wireshark/translations/qt_zh_TW.qm
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-resolved-addr.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SNMP-USM-AES-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-mate-analysis.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/mac80211_2.6.24.4_frag.patch
+/vol_vol6/Program Files/Wireshark/radius/dictionary.openser
+/vol_vol6/Program Files/Wireshark/radius/dictionary.wimax.alvarion
+/vol_vol6/aircrack-ng-1.7-win/evalrev
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-telephony-menu.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc4849
+/vol_vol6/aircrack-ng-1.7-win/lib/radiotap/check/check.sh
+/vol_vol6/Program Files/Wireshark/radius/dictionary.dante
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/Bus.cs
+/vol_vol6/Program Files/WindowsApps/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/images/11.png
+/vol_vol6/Program Files/Wireshark/radius/dictionary.zyxel
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/related-other.png
+/vol_vol6/aircrack-ng-1.7-win/.vscode/tasks.json
+/vol_vol6/aircrack-ng-1.7-win/test/wpa.cap
+/vol_vol6/aircrack-ng-1.7-win/test/MOM1.cap
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/E578EFE77E7D4E2FE186D8AB3627B4405C2D1DA4
+/vol_vol6/Program Files/Wireshark/snmp/mibs/IRTF-NMRG-SMING-EXTENSIONS
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/Makefile.integration.mk
+/vol_vol6/Program Files/Wireshark/snmp/mibs/FIBRE-CHANNEL-FE-MIB
+/vol_vol6/Program Files/Wireshark/ws.css
+/vol_vol6/Program Files/Wireshark/radius/dictionary.bay
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/n-02.cap
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/Transport.cs
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-export-selected.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-filter-add-expression.png
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/ExportObject.cs
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/password-2.lst
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-filters.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/sqlite-3.5.7-lib_cygwin.diff
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-mate-isup_over_mtp3_over_ip.png
+/vol_vol6/Program Files/Wireshark/snmp/mibs/SLS-NEGOTIATION-PIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/UDPLITE-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/go-last.png
+/vol_vol6/aircrack-ng-1.7-win/build/m4/ax_check_gnu_make.m4
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RFC1382-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/MOBILEIPV6-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TCP-ESTATS-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/GMPLS-TC-STD-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.alvarion.wimax.v2_2
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ISIS-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc2865
+/vol_vol6/Program Files/Wireshark/radius/dictionary.aptis
+/vol_vol6/Program Files/Wireshark/snmp/mibs/POWER-ETHERNET-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DIFFSERV-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/OPT-IF-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/toolbar/x-capture-options.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-capture-options-output.png
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/test/MOM1.cap
+/vol_vol6/Program Files/Wireshark/radius/dictionary.alcatel-lucent.aaa
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TUBS-IBR-NFS-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/EtherLike-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/QOS-POLICY-IP-PIB-orig
+/vol_vol6/Program Files/Wireshark/translations/qt_ca.qm
+/vol_vol6/Program Files/Wireshark/radius/dictionary.rfc6930
+/vol_vol6/Program Files/Wireshark/snmp/mibs/PIM-STD-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/T11-TC-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.trapeze
+/vol_vol6/aircrack-ng-1.7-win/lib/csharp/MonoExample/NDesk-dbus/UnixNativeTransport.cs
+/vol_vol6/Program Files/Wireshark/radius/dictionary.aruba
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RFC-1215
+/vol_vol6/aircrack-ng-1.7-win/build/m4/libgcrypt.m4
+/vol_vol6/Program Files/Wireshark/snmp/mibs/HDSL2-SHDSL-LINE-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/radiotap/check/1.bin
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/ax_gcc_x86_cpu_supports.m4
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DOCS-IETF-QOS-MIB
+/vol_vol6/Program Files/Wireshark/radius/dictionary.jradius
+/vol_vol6/Program Files/Wireshark/radius/dictionary.arbor
+/vol_vol6/Program Files/Wireshark/snmp/mibs/RFC-1212
+/vol_vol6/Program Files/Wireshark/snmp/mibs/ETHER-CHIPSET-MIB
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-tel-rtp-player_2.png
+/vol_vol6/Program Files/Wireshark/Wireshark User's Guide/images/ws-capture-interfaces-main-macos.png
+/vol_vol6/aircrack-ng-1.7-win/lib/osdep/darwin_tap.c
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/bcm43xx-injection-linux-2.6.22.patch
+/vol_vol6/aircrack-ng-1.7-win/test/password-3.lst
+/vol_vol6/Program Files/Wireshark/translations/qt_sk.qm
+/vol_vol6/Program Files/Wireshark/snmp/mibs/TUBS-IBR-PROC-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DS3-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/csharp/MonoExample/NDesk-dbus/Connection.cs
+/vol_vol6/aircrack-ng-1.7-win/scripts/airgraph-ng/airgraphviz/__init__.py
+/vol_vol6/Program Files/Wireshark/snmp/mibs/LMP-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/contrib/commview/Makefile
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/old/zd1211rw_inject_2.6.26.patch
+/vol_vol6/Program Files/Wireshark/snmp/mibs/T11-FC-FABRIC-CONFIG-SERVER-MIB
+/vol_vol6/Program Files/Wireshark/snmp/mibs/DIFFSERV-CONFIG-MIB
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/build/m4/libgcrypt.m4

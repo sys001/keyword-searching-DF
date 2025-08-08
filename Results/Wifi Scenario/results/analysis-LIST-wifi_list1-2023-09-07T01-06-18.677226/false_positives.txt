@@ -1,0 +1,1446 @@
+/vol_vol6/Windows/System32/en-GB/wlansvc.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/bg.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/hr.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/lt.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/rtmpltfm.dll
+/vol_vol6/Windows/System32/en-US/WFDSConMgrSvc.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/doomed/2722
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/it.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/zh-CN.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/az.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/sr-Latn-RS.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/f4f0832c-5e91-43a1-8037-95a0bc87bbc0
+/vol_vol6/Windows/SystemResources/Windows.UI.ShellCommon/Windows.UI.ShellCommon.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/sr-Cyrl-BA.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/mt.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/en-US/netr28ux.inf_loc
+/vol_vol6/Windows/System32/drivers/vwifimp.sys
+/vol_vol6/Windows/WinSxS/amd64_dual_rtwlanu_oldic.inf_31bf3856ad364e35_10.0.19041.1_none_00317e0c4812d44c/rtwlanu_oldIC.inf
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_he.json
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwew01.inf_amd64_153e01d761813df2/NETwew01.sys
+/vol_vol6/Program Files/WindowsApps/Microsoft.ZuneMusic_10.19071.19011.0_x64__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/et.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/nl.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/id.pak.DATA
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/OneDrive/21.220.1024.0005/FileSyncHelper.exe
+/vol_vol6/Windows/System32/fr-FR/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ja.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/mrvlpcie8897.inf_amd64_07fc330c5a5730ca/mrvlpcie8897.sys
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/1C98FCBB68351D85CC967544591447DA0C2DED4C
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ms.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-u..n-desktop.resources_31bf3856ad364e35_10.0.19041.1865_en-gb_a6e5e82a90cf322b/Windows.UI.ShellCommon.en-GB.pri
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-onecoreuap-wlansvc_31bf3856ad364e35_10.0.19041.2546_none_b7831f19a79d743f/wlansvc.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_ro-ro_20a11fa4ac83d96b/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_athw8x.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_bb5cff1a3ca64358/athw8x.INF_loc
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_lv.json
+/vol_vol6/Windows/SysWOW64/WlanHelper.exe
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_nl.json
+/vol_vol6/Windows/System32/CapabilityAccessManager.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/ccd07671-48f2-4ae2-9c29-97895d960c2f
+/vol_vol6/Windows/System32/en-GB/moshost.dll.mui
+/vol_vol6/Windows/SysWOW64/en-GB/PhoneUtilRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.MicrosoftOfficeHub_18.1903.1152.0_x64__8wekyb3d8bbwe/ClientTelemetry.dll
+/vol_vol6/Windows/System32/verifier.exe
+/vol_vol6/Windows/WinSxS/amd64_microsoft-desktop-p..ioning-platform-uap_31bf3856ad364e35_10.0.19041.2311_none_ed8404e2791a9308/Microsoft-Desktop-Provisioning-Sequence.dat
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/6dd745aa-8c16-46d5-8393-cb8a4fc9e23d
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netathrx.inf_amd64_220db23f5419ea8d/athwnx.sys
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/fr-CA.pak
+/vol_vol6/Windows/System32/DriverStore/en-US/netwns64.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/lo.pak.DATA
+/vol_vol6/Windows/SysWOW64/th-TH/SyncRes.dll.mui
+/vol_vol6/Windows/System32/en-GB/locationframework.dll.mui
+/vol_vol6/Windows/System32/InputService.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netwtw02.inf_31bf3856ad364e35_10.0.19041.1_none_7e1c59b5a1acb666/Netwtw02.INF
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-c...appxmain.resources_31bf3856ad364e35_10.0.19041.2788_en-gb_ffd2e3128a7a0f0e/resources.en-GB.pri
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwsw00.inf_amd64_24d55504ae3587aa/Netwsw00.sys
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/WLanConn.dll.mui
+/vol_vol6/Windows/INF/netwtw02.inf
+/vol_vol6/Windows/WinSxS/Backup/amd64_microsoft-windows-directui_31bf3856ad364e35_10.0.19041.2965_none_2b70306ca3fffcb9_windows.ui.xaml.dll_9c9d9ec9
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ca-Es-VALENCIA.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/pt-PT.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane_13.inf_amd64_992f4f46e65f30d4/rtwlane_13.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-onecore-t..ngservice.resources_31bf3856ad364e35_10.0.19041.1_en-gb_8c8a63ce8abf8108/TetheringService.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/mr.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_dual_bcmdhd64.inf_31bf3856ad364e35_10.0.19041.1_none_bc4ccf38b07f09e7/bcmdhd63.sys
+/vol_vol6/Windows/System32/DriverStore/en-US/netvwifimp.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/nn.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.MicrosoftSolitaireCollection_4.4.8204.0_x64__8wekyb3d8bbwe/VungleSDK.winmd
+/vol_vol6/Windows/System32/wbem/wlan.mof
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/mk.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/as.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ga.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/SystemApps/Microsoft.Windows.CallingShellApp_cw5n1h2txyewy/pris/resources.en-GB.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/cy.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/sq.pak
+/vol_vol6/Windows/INF/athw8x.inf
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ro.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.MicrosoftSolitaireCollection_4.4.8204.0_x64__8wekyb3d8bbwe/Microsoft.Advertising.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/fil.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/cs.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.549981C3F5F10_1.1911.21713.0_x64__8wekyb3d8bbwe/Cortana.dll
+/vol_vol6/Windows/SysWOW64/el-GR/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mcrecvsrc_31bf3856ad364e35_10.0.19041.1566_none_cd036ea6738a40cc/MCRecvSrc.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/bg.pak
+/vol_vol6/Windows/System32/en-GB/DDORes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/mi.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/nb.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-enrollengine_31bf3856ad364e35_10.0.19041.2965_none_0d5e226f74064404/mdmmigrator.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/59e91fee-6af6-45b9-84d3-22836987370e
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/nl.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/mk.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwew00.inf_amd64_325c0bd6349ed81c/NETwew00.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_pt-br_db848a00c6ad9e33/SyncRes.dll.mui
+/vol_vol6/Windows/System32/ko-KR/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ko.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/hr.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/vi.pak
+/vol_vol6/Windows/SysWOW64/es-ES/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-dafiot_31bf3856ad364e35_10.0.19041.1_none_158d366e9333107a/DAFIoT.dll
+/vol_vol6/Windows/SysWOW64/tr-TR/SyncRes.dll.mui
+/vol_vol6/Windows/System32/oobe/en-GB/msoobedui.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/sr.pak
+/vol_vol6/Windows/SysWOW64/ar-SA/SyncRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_hu.json
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/fr.pak
+/vol_vol6/Windows/WinSxS/amd64_dual_netbc64.inf_31bf3856ad364e35_10.0.19041.1_none_d42e5683db6e64e3/netbc64.INF
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/cs.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/hi.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ms.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/as.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/mi.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/kk.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wfdsconmgr_31bf3856ad364e35_10.0.19041.1202_none_89fa1a547447059b/WFDSConMgr.dll
+/vol_vol6/$OrphanFiles/kok-IN/mpuxagent.dll.mui
+/vol_vol6/Windows/SysWOW64/ko-KR/SyncRes.dll.mui
+/vol_vol6/Windows/System32/mdmmigrator.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/mk.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlanschemas_31bf3856ad364e35_10.0.19041.1_none_63f329ff5bc0e40f/WFD_profile_v1.xsd
+/vol_vol6/Windows/SysWOW64/pt-PT/SyncRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/NetworkIcon.dll.mui
+/vol_vol6/Windows/System32/en-GB/PhoneUtilRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_fr-ca_74e170a951cb0ec1/SyncRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_uk.json
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_ko.json
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mapcontrol.resources_31bf3856ad364e35_10.0.19041.1_en-gb_2c1903bc92beeebe/moshost.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe/WinStore.App.dll
+/vol_vol6/Windows/System32/DriverStore/en-US/netr28x.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ne.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-m..-activesyncprovider_31bf3856ad364e35_10.0.19041.746_none_a7b9026d89f6bd59/ActiveSyncProvider.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/fi.pak.DATA
+/vol_vol6/Windows/System32/sr-Latn-RS/SyncRes.dll.mui
+/vol_vol6/Windows/SysWOW64/fr-FR/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/am.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-dusm_31bf3856ad364e35_10.0.19041.1_none_625cda72b86ccf7e/dusmsvc.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_es-mx_e63f48588d1537df/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/es-419.pak.DATA
+/vol_vol6/Windows/System32/lt-LT/SyncRes.dll.mui
+/vol_vol6/Windows/System32/en-GB/SettingsHandlers_Maps.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/is.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache133377841695358253.txt
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/settings/main/ms-language-packs/browser/newtab/asrouter.ftl.tmp
+/vol_vol6/Windows/WinSxS/amd64_dual_netwew01.inf_31bf3856ad364e35_10.0.19041.1_none_c644870df2460710/Netwew01.INF
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/bs.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_ja-jp_08b89bb3173f9ff4/SyncRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_sv.json
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/am.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/nn.pak
+/vol_vol6/Windows/System32/it-IT/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ug.pak
+/vol_vol6/Windows/WinSxS/amd64_netvwifibus.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_332c966d22bac280/netvwifibus.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/pl.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/fil.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane_13.inf_31bf3856ad364e35_10.0.19041.1_none_53b830f3b99b8540/rtwlane_13.sys
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/SystemResources/Windows.UI.SettingsHandlers-nt/pris/Windows.UI.SettingsHandlers-nt.en-GB.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/tr.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_el-gr_e3e255688e91bf58/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netr28ux.inf_31bf3856ad364e35_10.0.19041.1_none_f8113961ee4ef685/FW_7662.bin
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/lt.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/et.pak.DATA
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-onecoreuap-wlansvc_31bf3856ad364e35_10.0.19041.1237_none_c1f72037dbe6e58a/wlan.mof
+/vol_vol6/Windows/System32/en-GB/NetSetupSvc.dll.mui
+/vol_vol6/Windows/INF/netrtwlanu.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.19041.2913_none_e888a61fc73faa80/MusNotificationUx.exe
+/vol_vol6/Program Files (x86)/Microsoft/EdgeUpdate/Download/{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062}/116.0.1938.62/MicrosoftEdge_X64_116.0.1938.62.exe
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlangpui.resources_31bf3856ad364e35_10.0.19041.1_en-us_cfb4c1a0580aa9d5/wlangpui.dll.mui
+/vol_vol6/Windows/System32/dafupnp.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netwtw08.inf_31bf3856ad364e35_10.0.19041.1_none_74875e7e77108c60/Netwtw08.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/uk.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeUpdate/1.3.177.11/msedgeupdate.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.WindowsFeedbackHub_1.1907.3152.0_x64__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..e.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_029bc7084c8bb0af/19.txt
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-edition-transmogrifier_31bf3856ad364e35_10.0.19041.2788_none_8a226bd2f086a936/TransmogProvider.dll
+/vol_vol6/Windows/WinSxS/amd64_networking-mpssvc-svc.resources_31bf3856ad364e35_10.0.19041.2913_en-gb_f45561f248bdc32c/FirewallAPI.dll.mui
+/vol_vol6/Windows/System32/wbem/DMWmiBridgeProv.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-vwifi_31bf3856ad364e35_10.0.19041.1202_none_d454db0c78bb56d4/vwifibus.sys
+/vol_vol6/Windows/SysWOW64/en-GB/SyncRes.dll.mui
+/vol_vol6/Windows/INF/netwtw06.inf
+/vol_vol6/Windows/SysWOW64/et-EE/SyncRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_tr.json
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwlv64.inf_amd64_0b9818131664d91e/netwlv64.sys
+/vol_vol6/Windows/System32/et-EE/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/te.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_zh-TW.json
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8192su64.inf_amd64_66c8bfc7a4b1feed/net8192su64.inf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/51813125B12ACB99A234E066B419BA718791B596
+/vol_vol6/Windows/WinSxS/amd64_dual_netathr10x.inf_31bf3856ad364e35_10.0.19041.1_none_045e44cd3c4b69ac/netathr10x.INF
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/hu.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/A9F5144C96C7033FF8F0830D84B4A5890D17EF1A
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/vi.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/pt-PT.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/lt.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane.inf_amd64_20caba88bd7f0bb3/netrtwlane.inf
+/vol_vol6/Windows/assembly/GAC_MSIL/Microsoft.PowerShell.ConsoleHost/1.0.0.0__31bf3856ad364e35/Microsoft.PowerShell.ConsoleHost.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/pa.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/cy.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_hi.json
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netr28ux.inf_amd64_d5996f2a9d9aa9e3/FW_7662.bin
+/vol_vol6/Windows/SystemResources/Windows.UI.SettingsAppThreshold/pris/Windows.UI.SettingsAppThreshold.en-GB.pri
+/vol_vol6/Windows/System32/en-GB/Taskmgr.exe.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/FA2EADA060758693943B9F5F43136005B2AC804B
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/sl.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.StorePurchaseApp_11811.1001.18.0_x64__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_10.0.19041.2913_none_8f3373464c760dc9/Windows.UI.SettingsAppThreshold.pri
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ne.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/sr-Latn-RS.pak
+/vol_vol6/Windows/INF/netrtwlans.inf
+/vol_vol6/Windows/SysWOW64/en-US/NetworkHelper.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/lb.pak
+/vol_vol6/Windows/INF/wnetvsc.inf
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwtw04.inf_amd64_c8f5ae6576289a2d/Netwtw04.sys
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ja.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/sv.pak.DATA
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Windows/Safety/edge/remote/script_300161259571223429446516194326035503227.rel.v2
+/vol_vol6/Windows/WinSxS/amd64_dual_netwew00.inf_31bf3856ad364e35_10.0.19041.1_none_9d32b0ec79600e11/Netwew00.INF
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/tt.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/cy.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/SystemResources/Windows.UI.SettingsAppThreshold/pris/Windows.UI.SettingsAppThreshold.en-GB.pri
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_bg-bg_f5dd3bd7b9d82a06/SyncRes.dll.mui
+/vol_vol6/Windows/System32/nl-NL/SyncRes.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/719bffcd-4195-4b86-9555-716a68216bc2
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_ko-kr_b67722ba3e112905/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_et-ee_d3737bf05e266ec8/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/vi.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/fr-CA.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/eu.pak
+/vol_vol6/Windows/SysWOW64/ja-JP/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/sr.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/fa.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-shenzhouttsvoicecommon_31bf3856ad364e35_10.0.19041.2364_none_fb377359319a4408/MSTTSLoc.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_net819xp.inf_31bf3856ad364e35_10.0.19041.1_none_1aa025fd91929f24/net819xp.inf
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ro.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/387DA5FCF2050BD8D6F231BCD098E37C024C211C
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/FirewallAPI.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-erratamanager_31bf3856ad364e35_10.0.19041.1_none_241785270b375893/errata.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/pa.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/bg.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/te.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ar.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/18BD1B70132A68C4815DA9E8C9DC646593CB15A9
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/98097798-6118-4e04-8cba-3e3c79ad015e
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_pt-pt_dc66596cc61d0e0f/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/pa.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/fa.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netvwififlt.inf_amd64_c5e19aab2305f37f/netvwififlt.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/hr.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/cy.pak.DATA
+/vol_vol6/Windows/System32/wbem/en-GB/MDMSettingsProv.mfl
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/pt-PT.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/en-US/Netwew01.INF_loc
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/SystemApps/Microsoft.Windows.Cortana_cw5n1h2txyewy/pris/resources.en-GB.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/gd.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/zh-TW.pak.DATA
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1949_uk-ua_ccccfe87d2843e48/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.1265_none_777e632002d13277/environment.js
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/fr.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/da.pak
+/vol_vol6/Windows/System32/dosvc.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/qu.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-m..rience-api-internal_31bf3856ad364e35_10.0.19041.746_none_dedc2b1c9e353fad/MbaeApi.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/tr.pak.DATA
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/settings/main/ms-language-packs/browser/newtab/asrouter.ftl
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-native-80211_31bf3856ad364e35_10.0.19041.2788_none_c39a41e4444acb35/nwifi.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/lv.pak.DATA
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/OneDrive/21.220.1024.0005/OneDriveTelemetryExperimental.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/sk.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/nb.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwtw08.inf_amd64_7c0c516fb22456cd/netwtw08.inf
+/vol_vol6/Program Files/WindowsApps/Microsoft.XboxApp_48.49.31001.0_x64__8wekyb3d8bbwe/XboxApp.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ja.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-networkicon_31bf3856ad364e35_10.0.19041.1_none_0544c644a157f1c6/NetworkIcon.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/mt.pak
+/vol_vol6/Windows/INF/netwew00.inf
+/vol_vol6/Windows/SystemResources/Windows.UI.SettingsHandlers-nt/pris/Windows.UI.SettingsHandlers-nt.en-GB.pri
+/vol_vol6/Windows/System32/dusmsvc.dll
+/vol_vol6/Program Files/WindowsApps/microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe/Microsoft.Applications.Telemetry.Windows.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_pt-pt_e6bb03befa7dd00a/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netathr10x.inf_31bf3856ad364e35_10.0.19041.1_none_045e44cd3c4b69ac/qca61x4_2_2.bin
+/vol_vol6/Windows/System32/drivers/en-US/PktMon.sys.mui
+/vol_vol6/Windows/SysWOW64/MCRecvSrc.dll
+/vol_vol6/Windows/SysWOW64/bg-BG/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-advancedtaskmanager_31bf3856ad364e35_10.0.19041.1202_none_2dfbb21bd5166adc/Taskmgr.exe
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/am.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netr28ux.inf_amd64_d5996f2a9d9aa9e3/netr28ux.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i...appxmain.resources_31bf3856ad364e35_10.0.19041.2965_en-gb_4b57c543b7a9e040/Windows.UI.SettingsAppThreshold.en-GB.pri
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/6d909b3f-eb3b-4f19-b6e1-e7cfd6fce1b6
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/gl.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-ui-shellcommon-desktop_31bf3856ad364e35_10.0.19041.2913_none_48e0761a683b90bc/NetworkUX.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ga.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/es-419.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/gd.pak
+/vol_vol6/Windows/WinSxS/amd64_dual_mrvlpcie8897.inf_31bf3856ad364e35_10.0.19041.1_none_8f1fc825bdac1335/mrvlpcie8897.sys
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/38274de3-f319-439f-ad6e-b4b9f4a9cd43
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/hu.pak
+/vol_vol6/Windows/System32/Dism/TransmogProvider.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/bn-IN.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ms.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ru.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/sv.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/fil.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_fr-CA.json
+/vol_vol6/Windows/SysWOW64/nb-NO/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/pa.pak.DATA
+/vol_vol6/Windows/L2Schemas/WFD_LEGACY_profile_v1.xsd
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/en-US.pak.DATA
+/vol_vol6/Windows/SystemResources/Windows.UI.SettingsAppThreshold/Windows.UI.SettingsAppThreshold.pri
+/vol_vol6/Program Files/WindowsApps/Microsoft.WindowsMaps_5.1906.1972.0_x64__8wekyb3d8bbwe/Maps.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_et-ee_ddc82642928730c3/SyncRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_fi.json
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/az.pak.DATA
+/vol_vol6/Windows/SystemApps/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/ContentDeliveryManager.Background.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.DesktopAppInstaller_1.0.30251.0_x64__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-onecoreuap-wlansvc_31bf3856ad364e35_10.0.19041.2546_none_b7831f19a79d743f/wlan.mof
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_sk-sk_cc791a2fd4795060/SyncRes.dll.mui
+/vol_vol6/Windows/System32/DriverStore/en-US/net8192su64.inf_loc
+/vol_vol6/Windows/System32/wfdprov.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/sl.pak
+/vol_vol6/Windows/System32/oobe/en-GB/OOBE_HELP_Opt_in_Details.rtf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ca.pak.DATA
+/vol_vol6/Windows/System32/Windows.Networking.Connectivity.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..sktop.appxmain.root_31bf3856ad364e35_10.0.19041.2913_none_3db0677b33658ce0/SearchApi.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/fi.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-onecoreuap-wlansvc_31bf3856ad364e35_10.0.19041.2546_none_b7831f19a79d743f/WiFiConfigSP.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/mi.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/am.pak.DATA
+/vol_vol6/Windows/INF/netwlv64.inf
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/nn.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/sl.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/sr-Cyrl-BA.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-advancedtaskmanager_31bf3856ad364e35_10.0.19041.1202_none_23a707c9a0b5a8e1/Taskmgr.exe
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_th.json
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-p..ing-rtapi.resources_31bf3856ad364e35_10.0.19041.1_en-us_e87da68b598bd436/Windows.Networking.Proximity.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/lb.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1503_en-gb_910e313874c22b63/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/nb.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-dafwiprov_31bf3856ad364e35_10.0.19041.1806_none_b60b8ebbd1955375/DAFWiProv.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ar.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/eu.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_nl-nl_92f444dae3019c9b/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wifinetworkmanager_31bf3856ad364e35_10.0.19041.1202_none_e17f082b30dd9027/TransformPPSToWlan.xslt
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/gu.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ka.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/nb.pak
+/vol_vol6/Windows/System32/ncbservice.dll
+/vol_vol6/Windows/System32/en-GB/WLanConn.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_hu-hu_ce3050f965b339b2/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/sr-Cyrl-BA.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/fr-CA.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netathrx.inf_amd64_220db23f5419ea8d/netathrx.inf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/e2ab3061-adc5-4d3f-9eb3-293330e2216e
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/tt.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ca-Es-VALENCIA.pak.DATA
+/vol_vol6/Windows/SysWOW64/Windows.Devices.Radios.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/cs.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/sr.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/cy.pak
+/vol_vol6/Windows/SysWOW64/rtmpltfm.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-client-li..platform-pkeyhelper_31bf3856ad364e35_10.0.19041.2788_none_100d260f8c876dc4/pkeyhelper.dll
+/vol_vol6/Windows/INF/netvwifimp.inf
+/vol_vol6/Windows/ImmersiveControlPanel/SystemSettings.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_zh-CN.json
+/vol_vol6/Windows/System32/en-GB/dusmsvc.dll.mui
+/vol_vol6/Windows/System32/DAFIoT.dll
+/vol_vol6/Windows/System32/WiFiCloudStore.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/gu.pak.DATA
+/vol_vol6/Windows/INF/bcmwdidhdpcie.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mdm-wmiv2-dmwmibridge_31bf3856ad364e35_10.0.19041.2913_none_7f16214dba1a4fd5/DMWmiBridgeProv.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/gu.pak.DATA
+/vol_vol6/Windows/System32/en/AuthFWSnapIn.Resources.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_nl-nl_9d48ef2d17625e96/SyncRes.dll.mui
+/vol_vol6/Windows/System32/DriverStore/en-US/netwlv64.inf_loc
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-directx-dxdiagndll_31bf3856ad364e35_10.0.19041.2075_none_3569ddd3a82a68ee/dxdiagn.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wcmapi_31bf3856ad364e35_10.0.19041.546_none_27ee6a429550ef0f/wcmapi.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_th-th_6e6321aac7cd25d2/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ms.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/es.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ur.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/pt-PT.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ta.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-pktmon-setup.resources_31bf3856ad364e35_10.0.19041.2193_en-us_612db2f9c8886bb9/PktMon.exe.mui
+/vol_vol6/Windows/System32/dmxmlhelputils.dll
+/vol_vol6/Windows/System32/spp/tokens/skus/Core/DefaultPpd-Core-ppdlic.xrm-ms
+/vol_vol6/Windows/System32/Windows.Devices.WiFi.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/sv.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-o...appxmain.resources_31bf3856ad364e35_10.0.19041.1_en-gb_2c64e0df71ddc544/resources.en-GB.pri
+/vol_vol6/Windows/SystemResources/Taskmgr.exe.mun
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/as.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wifinetworkmanager_31bf3856ad364e35_10.0.19041.1202_none_e17f082b30dd9027/wifitask.exe
+/vol_vol6/Windows/WinSxS/amd64_netwew01.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_fe5539a1eff605d5/Netwew01.INF_loc
+/vol_vol6/Windows/System32/en-US/wpncore.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-ncsiuwpapp.appxmain_31bf3856ad364e35_10.0.19041.1052_none_648fbf276da33ed4/NcsiUwpBackgroundTasks.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-t..phoneutil.resources_31bf3856ad364e35_10.0.19041.1_en-gb_f03ca0528a2a1359/PhoneUtilRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/es.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/tr.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/tr.pak
+/vol_vol6/Windows/System32/wlansvc.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/el.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/pl.pak.DATA
+/vol_vol6/Windows/INF/setupapi.offline.20191207_091437.log
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/af.pak
+/vol_vol6/Windows/SysWOW64/en-GB/WLanConn.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_networking-mpssvc-admin.resources_31bf3856ad364e35_10.0.19041.2913_en-us_bfba2eac8098a4ef/AuthFWSnapIn.Resources.dll
+/vol_vol6/Windows/System32/es-MX/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/lb.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wwansvc_31bf3856ad364e35_10.0.19041.1620_none_1605b249d46b48d8/wwansvc.dll
+/vol_vol6/$OrphanFiles/Wallet-Checkout/wallet-drawer.bundle.js
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_es-es_e4085ab28e815434/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/bg.pak
+/vol_vol6/Windows/WinSxS/amd64_bcmwdidhdpcie.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_6ef47fef73f69fa1/bcmwdidhdpcie.inf_loc
+/vol_vol6/Windows/INF/rtwlanu_oldIC.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-migrationengine_31bf3856ad364e35_10.0.19041.2486_none_cd5a0dda907fbab4/SFLISTWT.dat
+/vol_vol6/Windows/System32/wcmapi.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{80ac28a2-dc8b-47f9-b97d-95be8c61635a}/Apps.index
+/vol_vol6/Windows/SysWOW64/lt-LT/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/sr-Cyrl-BA.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{7dad6510-0cfd-426b-973e-c55a575c364d}/0.0.filtertrie.intermediate.txt
+/vol_vol6/Windows/WinSxS/amd64_dual_net8192su64.inf_31bf3856ad364e35_10.0.19041.1_none_f6ae9a69b6662cfe/net8192su64.inf
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/is.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/qu.pak
+/vol_vol6/Windows/SysWOW64/en-US/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/hi.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/it.pak
+/vol_vol6/Windows/System32/en-GB/shell32.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/tt.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/et.pak
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlanu.inf_31bf3856ad364e35_10.0.19041.1_none_aa6ceaf1b031d857/rtwlanu.sys
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/d377d64d-1296-4c81-b3c4-e69985c51b05
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-devices-wifi_31bf3856ad364e35_10.0.19041.746_none_d41529c12e3c1cf5/Windows.Devices.WiFi.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/es-419.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/PhoneUtilRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.XboxApp_48.49.31001.0_x64__8wekyb3d8bbwe/XboxNano.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-g..ce-modern.resources_31bf3856ad364e35_10.0.19041.1_en-gb_f5e099d37017790f/locationframework.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/pt-BR.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/tr.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_dual_netwlv64.inf_31bf3856ad364e35_10.0.19041.1_none_8d197dfb77b548c3/netwlv64.inf
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/en-GB.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/lo.pak
+/vol_vol6/Windows/System32/en-US/nettrace.dll.mui
+/vol_vol6/Windows/System32/en-US/Windows.Networking.Proximity.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/mr.pak
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/OneDrive/21.220.1024.0005/OneDriveTelemetryStable.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..x-eaprequesthandler_31bf3856ad364e35_10.0.19041.2913_none_01f871c0d06e63ee/Windows.Networking.UX.EapRequestHandler.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/9195a62f-6780-4ef3-89f8-e92bf40728d6
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwns64.inf_amd64_162bb49f925c6463/NETwNs64.sys
+/vol_vol6/Windows/SysWOW64/hr-HR/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_netvwififlt.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_bd7328257614add2/netvwififlt.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ur.pak
+/vol_vol6/Windows/WinSxS/amd64_dual_netwtw08.inf_31bf3856ad364e35_10.0.19041.1_none_74875e7e77108c60/Netwtw08.inf
+/vol_vol6/Windows/System32/wifitask.exe
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_id.json
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-o..chine-dui.resources_31bf3856ad364e35_10.0.19041.1_en-gb_e1fdfa267e23124d/msoobedui.dll.mui
+/vol_vol6/Windows/System32/NaturalAuth.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/hr.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/az.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/hu.pak.DATA
+/vol_vol6/Windows/SysWOW64/wfdprov.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{7dad6510-0cfd-426b-973e-c55a575c364d}/Settings.index
+/vol_vol6/Windows/WinSxS/amd64_microsoft-onecore-c..clientapi.resources_31bf3856ad364e35_10.0.19041.1_en-us_4421404cbc34db67/ConsentUxClient.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_athw8x.inf_31bf3856ad364e35_10.0.19041.1_none_31783fb7c0c5cc3b/athw8x.INF
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/Assets/Fonts/SkypeAssets-Bold.ttf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..s-datausagehandlers_31bf3856ad364e35_10.0.19041.746_none_dbecc8a3cdc7c3cf/DataUsageHandlers.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-m..rience-api-internal_31bf3856ad364e35_10.0.19041.746_none_e930d56ed29601a8/MbaeApi.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-dusm.resources_31bf3856ad364e35_10.0.19041.1_en-gb_15f9219a51ef8440/dusmsvc.dll.mui
+/vol_vol6/Windows/System32/DAFWiProv.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-onecore-t..ngservice.resources_31bf3856ad364e35_10.0.19041.1_en-gb_96df0e20bf204303/TetheringService.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ur.pak
+/vol_vol6/Windows/System32/DriverStore/en-US/wnetvsc.inf_loc
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwns64.inf_amd64_162bb49f925c6463/netwns64.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-inputservice_31bf3856ad364e35_10.0.19041.2913_none_2e5f3a2eeef8b12c/InputService.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ta.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/af.pak
+/vol_vol6/Users/catherine/AppData/Local/Temp/wctDC90.tmp
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/2198a499-770a-442a-9e5b-c42fc03cc957
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/sk.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/lo.pak.DATA
+/vol_vol6/Recovery/WindowsRE/Winre.wim
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/nl.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/SkypeApp.dll
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/OneDrive/OneDriveStandaloneUpdater.exe
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/tr.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_cs.json
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-onecoreuap-wlansvc_31bf3856ad364e35_10.0.19041.1237_none_c1f72037dbe6e58a/wfdprov.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ca-Es-VALENCIA.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/rtwlanu_oldic.inf_amd64_1a82423cc076e882/rtwlanu_oldIC.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-m..-activesyncprovider_31bf3856ad364e35_10.0.19041.746_none_9d64581b5595fb5e/ActiveSyncProvider.dll
+/vol_vol6/Windows/WinSxS/amd64_netvwifimp.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_5e46315720d12341/netvwifimp.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/kn.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/BWContextHandler.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_nb.json
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/gd.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/bn-IN.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wificloudstore_31bf3856ad364e35_10.0.19041.2913_none_aa23be9f43a06da8/WiFiCloudStore.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/el.pak
+/vol_vol6/Windows/System32/migwiz/SFLISTWT.dat
+/vol_vol6/Windows/WinSxS/amd64_netrtwlane_13.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_d55a09140f9d761d/netrtwlane_13.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/eu.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/kok.pak
+/vol_vol6/Windows/System32/en-GB/WiFiNetworkManager.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/f074011c-e1a2-4c71-910a-b07ffc5c335c
+/vol_vol6/Windows/System32/pt-PT/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/zh-TW.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wcmapi_31bf3856ad364e35_10.0.19041.546_none_1d99bff060f02d14/wcmapi.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ru.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_cs-cz_a0e6b272a7600631/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-w..sh-helper.resources_31bf3856ad364e35_10.0.19041.1202_en-us_35b195ccefaa4bb6/wlancfg.dll.mui
+/vol_vol6/Windows/System32/en-US/NetCellcoreCellManagerProviderResources.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_netwns64.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_f2cbc59bdea4f497/netwns64.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/th.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/pt-BR.pak
+/vol_vol6/Windows/System32/config/DEFAULT
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/vi.pak
+/vol_vol6/Windows/SysWOW64/es-MX/SyncRes.dll.mui
+/vol_vol6/Windows/System32/en-GB/FirewallAPI.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ta.pak.DATA
+/vol_vol6/Windows/SystemApps/Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy/pris/resources.en-GB.pri
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwlv64.inf_amd64_0b9818131664d91e/netwlv64.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/cs.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/tt.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_sk-sk_c2246fdda0188e65/SyncRes.dll.mui
+/vol_vol6/Windows/System32/en-US/Microsoft-Windows-AppModelExecEvents.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/lv.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_lv-lv_5b0fbd3f2fb73592/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-b..xthandler.resources_31bf3856ad364e35_10.0.19041.1_en-gb_903caa133ddeac79/BWContextHandler.dll.mui
+/vol_vol6/Windows/SysWOW64/pl-PL/SyncRes.dll.mui
+/vol_vol6/Windows/System32/MCRecvSrc.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/rtwlanu_oldic.inf_amd64_1a82423cc076e882/rtwlanu_oldIC.sys
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-m..orkhelper.resources_31bf3856ad364e35_10.0.19041.1_en-us_f5c6b6b460718fba/NetworkHelper.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_networking-mpssvc-admin.resources_31bf3856ad364e35_10.0.19041.2913_en-us_b565845a4c37e2f4/AuthFWSnapIn.Resources.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-networkicon.resources_31bf3856ad364e35_10.0.19041.1_en-gb_99290bddb9e3f938/NetworkIcon.dll.mui
+/vol_vol6/Windows/INF/netwbw02.inf
+/vol_vol6/Windows/System32/Windows.UI.Logon.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/284b476b-7519-4fef-825f-254d053a93bf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{7dad6510-0cfd-426b-973e-c55a575c364d}/Settings.ft
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/mk.pak.DATA
+/vol_vol6/Windows/SysWOW64/ortcengine.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/sl.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wifidisplay_31bf3856ad364e35_10.0.19041.1_none_a7cc6a3e80623078/WiFiDisplay.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_rtwlanu_oldic.inf_31bf3856ad364e35_10.0.19041.1_none_00317e0c4812d44c/rtwlanu_oldIC.sys
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_hr-hr_ccfc2b336675d84a/SyncRes.dll.mui
+/vol_vol6/Windows/System32/DriverStore/en-US/netbc64.INF_loc
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/gl.pak.DATA
+/vol_vol6/swapfile.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..ings-handlersplugin_31bf3856ad364e35_10.0.19041.1949_none_f71ad8fae462aa5e/SystemSettings.Handlers.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-skype-ortc_31bf3856ad364e35_10.0.19041.153_none_c7e282bdad806bdc/ortcengine.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netr28x.inf_amd64_5d63c7bcbf29107f/netr28x.sys
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/mi.pak
+/vol_vol6/Windows/WinSxS/amd64_dual_netwtw04.inf_31bf3856ad364e35_10.0.19041.1_none_d04005f89378a864/Netwtw04.sys
+/vol_vol6/Windows/System32/pl-PL/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_mdmsettingsprov.resources_31bf3856ad364e35_10.0.19041.1_en-gb_760b8d9fc893e3f8/MDMSettingsProv.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/bg.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/he.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/el.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-w..rkmanager.resources_31bf3856ad364e35_10.0.19041.1_en-gb_2551d7d00bdb9abb/WiFiNetworkManager.dll.mui
+/vol_vol6/Windows/System32/sk-SK/SyncRes.dll.mui
+/vol_vol6/Windows/System32/en-US/NetworkHelper.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/af.pak
+/vol_vol6/Windows/INF/netathrx.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ne.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_ja.json
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/kn.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/tt.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_sl-si_c1369195a0b2a148/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/bs.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1503_en-gb_9b62db8aa922ed5e/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_networking-mpssvc-admin_31bf3856ad364e35_10.0.19041.2913_none_241c41236b9e0356/AuthFWSnapin.dll
+/vol_vol6/Windows/SysWOW64/wcmapi.dll
+/vol_vol6/Windows/INF/netwtw08.inf
+/vol_vol6/Windows/System32/cs-CZ/SyncRes.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane01.inf_amd64_b02695ef070d7a42/rtwlane01.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/kk.pak
+/vol_vol6/Windows/SysWOW64/it-IT/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/am.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/kk.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/DevicesFlowBroker.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/b462607a-e011-452e-a4b2-95eda4f87082
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ml.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/lb.pak
+/vol_vol6/Windows/Provisioning/Microsoft-Desktop-Provisioning-Sequence.dat
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/sr-Latn-RS.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-onecore-d..ier-tools.resources_31bf3856ad364e35_10.0.19041.1_en-us_830af9ea9aba3650/verifier.exe.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/f196dafb-0d50-4074-be5a-7cc3c9f99d42
+/vol_vol6/Windows/System32/fr-CA/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-ui-shellcommon-desktop_31bf3856ad364e35_10.0.19041.2913_none_48e0761a683b90bc/Windows.UI.ShellCommon.pri
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/b23f845a-04ab-435b-9918-ed3bf02479e0
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-ui-logon-library_31bf3856ad364e35_10.0.19041.2913_none_f1c430a7fe4bf769/Windows.UI.Logon.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..orkconnectionbroker_31bf3856ad364e35_10.0.19041.1202_none_d16f7d1b7a182564/ncbservice.dll
+/vol_vol6/Windows/INF/netr28x.inf
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/TetheringService.dll.mui
+/vol_vol6/Windows/INF/netwtw04.inf
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/hr.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/nb.pak
+/vol_vol6/Windows/ShellExperiences/NetworkUX.dll
+/vol_vol6/Windows/System32/en-US/wlancfg.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..ux-wlanmediamanager_31bf3856ad364e35_10.0.19041.1202_none_e60886959a887b52/WlanMediaManager.dll
+/vol_vol6/Windows/System32/winevt/Logs/Microsoft-Windows-Store%4Operational.evtx
+/vol_vol6/Windows/SysWOW64/nl-NL/SyncRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_da.json
+/vol_vol6/Windows/SystemApps/Microsoft.Windows.Search_cw5n1h2txyewy/Search.Core.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/kok.pak
+/vol_vol6/Windows/System32/en-GB/QuickActionsDataModel.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..emsettingsthreshold_31bf3856ad364e35_10.0.19041.2913_none_93e9dede9358ce58/SystemSettings.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/d4190b65-0283-4a4d-b458-08a6673ebac5
+/vol_vol6/Windows/System32/tr-TR/SyncRes.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netr28ux.inf_amd64_d5996f2a9d9aa9e3/netr28ux.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_he-il_c08ace013361a989/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_wsdscdrv.inf_31bf3856ad364e35_10.0.19041.1806_none_e7c85c70155a46d1/WSDScDrv.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netvwifibus.inf_31bf3856ad364e35_10.0.19041.1_none_09667d4775c39899/netvwifibus.inf
+/vol_vol6/Windows/System32/WFDSConMgr.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/oobe/en-GB/msoobedui.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_fr.json
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/bn-IN.pak.DATA
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/SettingsCache.txt
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/kn.pak.DATA
+/vol_vol6/Windows/System32/en-GB/MusUpdateHandlers.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/hr.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wwansvc_31bf3856ad364e35_10.0.19041.1620_none_1605b249d46b48d8/KNetPwrDepBroker.sys
+/vol_vol6/Windows/WinSxS/amd64_networking-mpssvc-admin_31bf3856ad364e35_10.0.19041.2913_none_19c796d1373d415b/AuthFWSnapin.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/km.pak
+/vol_vol6/Windows/System32/config/SOFTWARE.LOG2
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{10ace86e-5eb8-42e0-89e3-d36f018f43d3}/settingsconversions.txt
+/vol_vol6/Windows/System32/en-US/PktMon.exe.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/th.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-geolocation-framework_31bf3856ad364e35_10.0.19041.2311_none_85bf4b0f0163c9d4/LocationFramework.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/130257c4-f142-40f9-b81b-6d4a70e81edc
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-skype-ortc_31bf3856ad364e35_10.0.19041.153_none_d2372d0fe1e12dd7/ortcengine.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/id.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/pt-PT.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ca-Es-VALENCIA.pak
+/vol_vol6/Windows/System32/WlanMediaManager.dll
+/vol_vol6/Windows/System32/DDFs/DMClient_DDF.xml
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/b12eb905-d923-43f4-98d3-7e1ca8422ade
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_es-MX.json
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/mk.pak
+/vol_vol6/Windows/SysWOW64/dmxmlhelputils.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/it.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/bd916297-dd66-44ce-ba9b-8fd5806279fa
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/zh-CN.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/fr.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/sq.pak
+/vol_vol6/Windows/System32/th-TH/SyncRes.dll.mui
+/vol_vol6/Windows/System32/DriverStore/en-US/athw8x.INF_loc
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/es.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/he.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ga.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-w..ctionflow.resources_31bf3856ad364e35_10.0.19041.1_en-gb_c1968b6f5a38de09/WLanConn.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane01.inf_31bf3856ad364e35_10.0.19041.1_none_ab35e8e757e4c442/netrtwlane01.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ru.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-c...appxmain.resources_31bf3856ad364e35_10.0.19041.1265_en-gb_0007348c8a5306a1/resources.en-GB.pri
+/vol_vol6/Windows/SysWOW64/en-GB/TetheringService.dll.mui
+/vol_vol6/Windows/SysWOW64/MiracastReceiver.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/e93b1f6f-48af-4ac3-bbf5-1ca8922a7503
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-d..rverifier.resources_31bf3856ad364e35_10.0.19041.1_en-us_21ae65cdb04194d8/verifiergui.exe.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/8dd5f637-4954-4cbd-a7c3-37a5a7a5e807
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_zh-HK.json
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/id.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/uk.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/ba15ab9a-1d24-40d5-9dde-16d09cdfb54f
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..glelanguage-license_31bf3856ad364e35_10.0.19041.2788_none_aa07e0caa0bbc5af/DefaultPpd-CoreSingleLanguage-ppdlic.xrm-ms
+/vol_vol6/Windows/System32/hr-HR/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/lb.pak
+/vol_vol6/Windows/System32/LocationFramework.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ko.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/it.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_ro.json
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_he-il_cadf785367c26b84/SyncRes.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Windows/INetCache/IE/2JZ3V2MW/2[1]
+/vol_vol6/Windows/SysWOW64/en/AuthFWSnapIn.Resources.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ka.pak.DATA
+/vol_vol6/Windows/System32/config/DEFAULT.LOG1
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/hi.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-onedrive-setup_31bf3856ad364e35_10.0.19041.1_none_e585f901f9ce93e6/OneDriveSetup.exe
+/vol_vol6/Windows/System32/en-GB/TetheringService.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/es.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_ar-sa_4548affc94f716b4/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/gu.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/kk.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_ca.json
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/uk.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_es.json
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/ppimansvc.exe.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeUpdate/Install/{7248115B-C1F1-44D5-B7BD-64A4B71394DA}/MicrosoftEdge_X64_116.0.1938.62.exe
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/hu.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ca.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-onecore-q..ions-core.resources_31bf3856ad364e35_10.0.19041.1_en-gb_9d0e445d69ea1ed9/QuickActionsDataModel.dll.mui
+/vol_vol6/Windows/SysWOW64/Taskmgr.exe
+/vol_vol6/Windows/System32/DAFWSD.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ja.pak.DATA
+/vol_vol6/Windows/INF/netwsw00.inf
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8192se64.inf_amd64_167684f9283b4eca/net8192se64.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/pt-BR.pak
+/vol_vol6/Windows/System32/config/COMPONENTS
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/af00603e-9d59-45b5-afa3-3d5ba991c469
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/mr.pak.DATA
+/vol_vol6/Windows/System32/en-US/ConsentUxClient.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwtw02.inf_amd64_42e02bae858d0fbd/netwtw02.inf
+/vol_vol6/Windows/SysWOW64/wbem/wlan.mof
+/vol_vol6/Windows/WinSxS/msil_microsoft.powershell.consolehost_31bf3856ad364e35_1.0.0.0_none_644eb55fd3a8b3d0/Microsoft.PowerShell.ConsoleHost.dll
+/vol_vol6/Windows/System32/wwansvc.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/pl.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/qu.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_pt-BR.json
+/vol_vol6/Windows/SysWOW64/pt-BR/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/pt-BR.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/en-GB.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/pa.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/pl.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ro.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/fil.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-deliveryoptimization_31bf3856ad364e35_10.0.19041.2546_none_3efd863b7c50628c/dosvc.dll
+/vol_vol6/Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/js/environment.js
+/vol_vol6/Windows/WinSxS/amd64_dual_netwbw02.inf_31bf3856ad364e35_10.0.19041.1_none_05fb91149378a864/Netwbw02.INF
+/vol_vol6/Windows/INF/netrtwlane.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/nl.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/startupCache/scriptCache.bin
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_it-it_66931ca624248e19/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ko.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.BingWeather_4.25.20211.0_x64__8wekyb3d8bbwe/Microsoft.Msn.Weather.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/fr-CA.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/af.pak
+/vol_vol6/Windows/System32/lv-LV/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-directx-dxdiagndll_31bf3856ad364e35_10.0.19041.2075_none_2b15338173c9a6f3/dxdiagn.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/or.pak
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane_13.inf_31bf3856ad364e35_10.0.19041.1_none_53b830f3b99b8540/netrtwlane_13.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlanschemas_31bf3856ad364e35_10.0.19041.1_none_63f329ff5bc0e40f/WFD_LEGACY_profile_v1.xsd
+/vol_vol6/Program Files/WindowsApps/Microsoft.ZuneVideo_10.19071.19011.0_x64__8wekyb3d8bbwe/EntCommon.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/gl.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/0DA66AC2B4BBFB6C63A4B94B3782D97E352E24CF
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_es-mx_dbea9e0658b475e4/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/mk.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ru.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-p..ns-provider-library_31bf3856ad364e35_10.0.19041.1865_none_e1038581042f95da/wpnprv.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ar.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/sr-Cyrl-BA.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/uk.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-pdc-mw_31bf3856ad364e35_10.0.19041.1052_none_97ace0ce224e6958/pdc.sys
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/msedge.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/gl.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_nb-no_94b4f99ce1d592c6/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_athw8x.inf_31bf3856ad364e35_10.0.19041.1_none_31783fb7c0c5cc3b/athw8x.sys
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ko.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/en-US/netvwifibus.inf_loc
+/vol_vol6/Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/pris/resources.en-GB.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/mr.pak
+/vol_vol6/Windows/SysWOW64/en-GB/wlansvc.dll.mui
+/vol_vol6/Windows/System32/es-ES/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/he.pak.DATA
+/vol_vol6/Windows/INF/netbc64.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..ork-setup.resources_31bf3856ad364e35_10.0.19041.1_en-gb_8b4d2d94f7cdc0bf/NetSetupSvc.dll.mui
+/vol_vol6/Windows/INF/net819xp.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/or.pak
+/vol_vol6/Windows/WinSxS/amd64_dual_netwtw06.inf_31bf3856ad364e35_10.0.19041.1_none_2263b23b85449a62/NETwtw06.inf
+/vol_vol6/Windows/System32/wbem/en-GB/NetAdapterCim.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/ReactNativeBundle.bin
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-u..ehandlers.resources_31bf3856ad364e35_10.0.19041.2304_en-gb_d6d7e8996da58956/MusUpdateHandlers.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_el.json
+/vol_vol6/Windows/SysWOW64/fr-CA/SyncRes.dll.mui
+/vol_vol6/Windows/SysWOW64/lv-LV/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/bs.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/kn.pak
+/vol_vol6/Windows/INF/netbc63a.inf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/ac483c0f-11fd-4d05-b90a-24643d698879
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/d82f0540-2881-4992-801a-c85152eff126
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/pris/resources.en-GB.pri
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/be903c9c-2a88-4321-8656-69f9ab2386db
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/lb.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/en-GB.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netr28x.inf_amd64_5d63c7bcbf29107f/netr28x.inf
+/vol_vol6/Windows/System32/DriverStore/en-US/netrtwlane01.inf_loc
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_cs-cz_9692082072ff4436/SyncRes.dll.mui
+/vol_vol6/Windows/System32/en-GB/DevicesFlowBroker.dll.mui
+/vol_vol6/Windows/System32/en-US/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_wnetvsc.inf_31bf3856ad364e35_10.0.19041.1741_none_3498454f65c7cd55/wnetvsc.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ca.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_sl-si_cb8b3be7d5136343/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netr28ux.inf_31bf3856ad364e35_10.0.19041.1_none_f8113961ee4ef685/netr28ux.sys
+/vol_vol6/Windows/SysWOW64/Windows.Devices.WiFi.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/cy.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_tr-tr_72664a3ec5446a82/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/sr-Latn-RS.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/bs.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/nl.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/kk.pak
+/vol_vol6/Windows/System32/Speech/Engines/TTS/MSTTSLoc.dll
+/vol_vol6/Windows/System32/ro-RO/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/lt.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/7f47ea6e-910f-488b-94b0-bc0fccb45862
+/vol_vol6/Windows/INF/netwns64.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-h..indetails.resources_31bf3856ad364e35_10.0.19041.423_en-gb_d52a32d3b88e72a8/OOBE_HELP_Opt_in_Details.rtf
+/vol_vol6/Program Files/WindowsApps/Microsoft.Advertising.Xaml_10.1808.3.0_x64__8wekyb3d8bbwe/Microsoft.Advertising.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/or.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/sr.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ja.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/FileRepository/npcap.inf_amd64_3d364996cc8db294/NPCAP.inf
+/vol_vol6/Windows/WinSxS/amd64_dual_netwbw02.inf_31bf3856ad364e35_10.0.19041.1_none_05fb91149378a864/Netwbw02.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-d..ment-enterprisecsps_31bf3856ad364e35_10.0.19041.2788_none_c0c4949693f590d1/enterprisecsps.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/29be49d5-a5f1-47e8-a675-d26d0379d74c
+/vol_vol6/Windows/WinSxS/amd64_dual_netathr10x.inf_31bf3856ad364e35_10.0.19041.1_none_045e44cd3c4b69ac/Qcamain10x64.sys
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/or.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/zh-TW.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-a..skmanager.resources_31bf3856ad364e35_10.0.19041.1202_en-gb_790b760c60adc605/Taskmgr.exe.mui
+/vol_vol6/Windows/SystemApps/NcsiUwpApp_8wekyb3d8bbwe/NcsiUwpBackgroundTasks.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/kok.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_dual_netwew00.inf_31bf3856ad364e35_10.0.19041.1_none_9d32b0ec79600e11/NETwew00.sys
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_ru.json
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/cs.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/wsdscdrv.inf_amd64_832f12d2c17c7a3f/WSDScDrv.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_fr-fr_86bfd0b181536a96/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/id.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/zh-TW.pak
+/vol_vol6/Windows/WinSxS/amd64_dual_netwew01.inf_31bf3856ad364e35_10.0.19041.1_none_c644870df2460710/NETwew01.sys
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/A64D714BDD7D99E71E8D0DC98F55E2DC8E0EC3EA
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_nb-no_9f09a3ef163654c1/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ca-Es-VALENCIA.pak.DATA
+/vol_vol6/Windows/System32/en-GB/NetworkStatus.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/lv.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_hr-hr_c2a780e13215164f/SyncRes.dll.mui
+/vol_vol6/Windows/SystemApps/Microsoft.Windows.Search_cw5n1h2txyewy/cache/Desktop/19.txt
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/mr.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/fec881fe-9d6e-4e3e-a103-2f572a51eff5
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/as.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/te.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.MicrosoftStickyNotes_3.6.73.0_x64__8wekyb3d8bbwe/Microsoft.Applications.Telemetry.Windows.dll
+/vol_vol6/Windows/SysWOW64/ro-RO/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ms.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ne.pak.DATA
+/vol_vol6/Windows/INF/netvwififlt.inf
+/vol_vol6/Windows/SysWOW64/en-US/Windows.Networking.Proximity.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_vi.json
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_zh-tw_3d6afb403e8c5716/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/pt-PT.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/qu.pak
+/vol_vol6/Windows/System32/uk-UA/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ar.pak.DATA
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/OneDrive/21.220.1024.0005/OneDriveUpdaterService.exe
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/am.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/eu.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-shenzhouttsvoicecommon_31bf3856ad364e35_10.0.19041.2364_none_f0e2c906fd39820d/MSTTSLoc.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..orking-connectivity_31bf3856ad364e35_10.0.19041.2311_none_a731acfddba2057d/Windows.Networking.Connectivity.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{bbab3c2c-29c7-4eae-9bf4-851ab207e8bf}/0.0.filtertrie.intermediate.txt
+/vol_vol6/Windows/WinSxS/amd64_dual_net8192se64.inf_31bf3856ad364e35_10.0.19041.1_none_c4ca59da8d54596e/net8192se64.inf
+/vol_vol6/Windows/System32/en-GB/DMAppsRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netathrx.inf_31bf3856ad364e35_10.0.19041.1_none_aca2c01a764c25fb/netathrx.INF
+/vol_vol6/Windows/System32/en-US/verifiergui.exe.mui
+/vol_vol6/Windows/SysWOW64/en-US/wlangpui.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/el.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/en-US.pak.DATA
+/vol_vol6/Windows/System32/ja-jp/SyncRes.dll.mui
+/vol_vol6/Windows/System32/Windows.Devices.Radios.dll
+/vol_vol6/Windows/System32/en-GB/PhoneServiceRes.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/bcmwdidhdpcie.inf_amd64_977dcc915465b0e9/bcmwdidhdpcie.inf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/f9d1e2d9-a084-47be-89c0-252161e16558
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-networkprofile_31bf3856ad364e35_10.0.19041.2913_none_ed10ba382b941326/netprofmsvc.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/fa.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/FileRepository/bcmdhd64.inf_amd64_e0bae6831f60ea5f/bcmdhd63.sys
+/vol_vol6/Windows/System32/SpeechPal.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wfdsconmgr_31bf3856ad364e35_10.0.19041.1202_none_89fa1a547447059b/WFDSConMgrSvc.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlanu.inf_31bf3856ad364e35_10.0.19041.1_none_aa6ceaf1b031d857/netrtwlanu.inf
+/vol_vol6/Windows/System32/WlanHelper.exe
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ms.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/fr.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.19041.2913_none_772de1b0030e4140/environment.js
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/gd.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-miracast-receiver-api_31bf3856ad364e35_10.0.19041.2673_none_7d3e2ce8ce0de4d5/MiracastReceiver.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/e38d5f23-c3c2-45d3-956e-8a5ce84c9669
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_fr-ca_7f361afb862bd0bc/SyncRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/DDORes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/af.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/lo.pak
+/vol_vol6/Windows/System32/wcmsvc.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwsw00.inf_amd64_24d55504ae3587aa/netwsw00.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-p..m-library.resources_31bf3856ad364e35_10.0.19041.1_en-us_a90a7ad0492c590e/wpncore.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_sr-..-rs_71bba42c4a250a74/SyncRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/SettingsHandlers_Maps.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/vi.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/fr-CA.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/da.pak.DATA
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-skype-ortc_31bf3856ad364e35_10.0.19041.153_none_d2372d0fe1e12dd7/rtmpltfm.dll
+/vol_vol6/Windows/System32/spp/tokens/skus/CoreSingleLanguage/DefaultPpd-CoreSingleLanguage-ppdlic.xrm-ms
+/vol_vol6/Windows/WinSxS/amd64_dual_netwsw00.inf_31bf3856ad364e35_10.0.19041.1_none_88da6969bd4fa72f/Netwsw00.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-d..dmappsres.resources_31bf3856ad364e35_10.0.19041.2546_en-gb_88bef674bd1fe11c/DMAppsRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/en-US.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_da-dk_3e2092999da60230/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netr28x.inf_31bf3856ad364e35_10.0.19041.1_none_abbf32e7e3ef296c/netr28x.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/sl.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/lv.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ug.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/nb.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ga.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_ro-ro_2af5c9f6e0e49b66/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/en-US.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_pt.json
+/vol_vol6/Windows/WinSxS/amd64_netwtw08.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_f3d6d51132a79b03/Netwtw08.inf_loc
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/Taskmgr.exe.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-m..orkhelper.resources_31bf3856ad364e35_10.0.19041.1_en-us_eb720c622c10cdbf/NetworkHelper.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_ar.json
+/vol_vol6/Windows/System32/dxdiagn.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_sv-se_c958fff7d6886891/SyncRes.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Roaming/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/sessionstore.jsonlz4
+/vol_vol6/Windows/System32/DriverStore/FileRepository/npcap.inf_amd64_3d364996cc8db294/npcap.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_sv-se_bf0455a5a227a696/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ro.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mcrecvsrc_31bf3856ad364e35_10.0.19041.1566_none_d75818f8a7eb02c7/MCRecvSrc.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..handlers-workaccess_31bf3856ad364e35_10.0.19041.2788_none_52303c531d44dc4a/SettingsHandlers_WorkAccess.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/NetworkStatus.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1949_uk-ua_c27854359e237c4d/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ga.pak.DATA
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_de-de_3b4c27d59f7c56ca/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/fr.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwbw02.inf_amd64_1c4077fa004e73b4/Netwbw02.sys
+/vol_vol6/Windows/System32/IKEEXT.DLL
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/b16aa5c8-15cd-4ea1-ac6f-d579fb49c816
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/72b9cd1f-2b12-456c-816d-1a9146801c47
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwtw02.inf_amd64_42e02bae858d0fbd/Netwtw02.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane_13.inf_amd64_992f4f46e65f30d4/netrtwlane_13.inf
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/th.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_dual_netr28x.inf_31bf3856ad364e35_10.0.19041.1_none_abbf32e7e3ef296c/netr28x.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/sq.pak
+/vol_vol6/Windows/System32/de-DE/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-deliveryoptimization_31bf3856ad364e35_10.0.19041.2304_none_3f0f527b7c43920c/dosvc.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/lo.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ca.pak
+/vol_vol6/Program Files/WindowsApps/Mozilla.Firefox_116.0.3.0_x64__n80bbvh6b1yt2/VFS/ProgramFiles/Firefox Package Root/xul.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ur.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwew01.inf_amd64_153e01d761813df2/netwew01.inf
+/vol_vol6/Windows/SysWOW64/sr-Latn-RS/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_bg-bg_eb8891858577680b/SyncRes.dll.mui
+/vol_vol6/Windows/System32/en-GB/BWContextHandler.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.ZuneVideo_10.19071.19011.0_x64__8wekyb3d8bbwe/EntPlat.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ur.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwtw08.inf_amd64_7c0c516fb22456cd/IntelWifiIhv08.dll
+/vol_vol6/ProgramData/Microsoft/Windows Defender/Platform/4.18.23070.1004-0/NisSrv.exe
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-pktmon-setup_31bf3856ad364e35_10.0.19041.2913_none_c861c154532c93ea/PktMon.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/is.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/sq.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/qu.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/km.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netbc64.inf_amd64_b96cdf411c43c00c/netbc64.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/da.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwew00.inf_amd64_325c0bd6349ed81c/netwew00.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-d..ent-dmpolicymanager_31bf3856ad364e35_10.0.19041.2913_none_b6d74c6568075445/policymanager.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-t..phoneutil.resources_31bf3856ad364e35_10.0.19041.1_en-gb_e5e7f60055c9515e/PhoneUtilRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ta.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/et.pak.DATA
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/index
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_da-dk_33cbe84769454035/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netbc63a.inf_31bf3856ad364e35_10.0.19041.1_none_15613fa3304c6fc5/netbc63a.INF
+/vol_vol6/Windows/System32/MdmDiagnostics.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-u..usnotificationuxexe_31bf3856ad364e35_10.0.19041.2304_none_e8c86e95c7100324/MusNotificationUx.exe
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ml.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_ko-kr_ac22786809b0670a/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/uk.pak
+/vol_vol6/Windows/System32/dafWfdProvider.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/moshost.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_es-AR.json
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/sk.pak.DATA
+/vol_vol6/Windows/System32/spp/store/2.0/tokens.dat
+/vol_vol6/Program Files/WindowsApps/Microsoft.549981C3F5F10_1.1911.21713.0_x64__8wekyb3d8bbwe/Microsoft.IoT.Cortana.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_bcmwdidhdpcie.inf_31bf3856ad364e35_10.0.19041.1_none_6be28be212bdb5e8/bcmwdidhdpcie.inf
+/vol_vol6/Windows/System32/oobe/en-GB/OOBE_HELP_Opt_in_Details.htm
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/doomed/19422
+/vol_vol6/Windows/WinSxS/amd64_dual_netvwifimp.inf_31bf3856ad364e35_10.0.19041.1_none_40b6493242d19500/netvwifimp.inf
+/vol_vol6/Windows/System32/ContentDeliveryManager.Utilities.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/as.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-network-security_31bf3856ad364e35_10.0.19041.2913_none_4199d8c6dff9235a/IKEEXT.DLL
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-dafwfdprovider_31bf3856ad364e35_10.0.19041.423_none_d8739ae81fbf6c6e/dafWfdProvider.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/8C450539882EDF0820844DDE09B22C8E19F967CD
+/vol_vol6/Windows/System32/Windows.Networking.UX.EapRequestHandler.dll
+/vol_vol6/Windows/INF/netrtwlane_13.inf
+/vol_vol6/Windows/SysWOW64/policymanager.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/athw8x.inf_amd64_55014eff4ceefbdf/athw8x.sys
+/vol_vol6/Windows/SysWOW64/dxdiagn.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ug.pak
+/vol_vol6/Windows/WinSxS/amd64_dual_netwns64.inf_31bf3856ad364e35_10.0.19041.1_none_4b1587310307e248/netwns64.inf
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/is.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/oobe/en-GB/OOBE_HELP_Opt_in_Details.rtf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_tr-tr_68119fec90e3a887/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/da.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/sk.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/mi.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..ndlers-nt.resources_31bf3856ad364e35_10.0.19041.2788_en-gb_6ef009ce17690015/Windows.UI.SettingsHandlers-nt.en-GB.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/is.pak.DATA
+/vol_vol6/Windows/SysWOW64/sk-SK/SyncRes.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwbw02.inf_amd64_1c4077fa004e73b4/netwbw02.inf
+/vol_vol6/Windows/System32/el-GR/SyncRes.dll.mui
+/vol_vol6/Windows/SysWOW64/MbaeApi.dll
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Subresource Filter/Unindexed Rules/10.34.0.49/Part-IT
+/vol_vol6/Windows/SysWOW64/he-IL/SyncRes.dll.mui
+/vol_vol6/Windows/System32/WFDSConMgrSvc.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/is.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-onecore-driververifier-tools_31bf3856ad364e35_10.0.19041.1_none_76edadec5ba257b3/verifier.exe
+/vol_vol6/Windows/System32/WiFiDisplay.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/AC/INetCache/3F8O2JRC/1446_8.53.0[1].json
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..sktop.appxmain.root_31bf3856ad364e35_10.0.19041.2913_none_3db0677b33658ce0/Search.Core.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/pris/resources.en-GB.pri
+/vol_vol6/Windows/System32/DriverStore/FileRepository/wnetvsc.inf_amd64_268e58b44338d192/wnetvsc.inf
+/vol_vol6/Windows/WinSxS/amd64_dual_netathr10x.inf_31bf3856ad364e35_10.0.19041.1_none_045e44cd3c4b69ac/qca9377_2_0.bin
+/vol_vol6/Windows/INF/oem9.PNF
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/te.pak
+/vol_vol6/Windows/WinSxS/amd64_net8192se64.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_929fce61257282c5/net8192se64.inf_loc
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{10ace86e-5eb8-42e0-89e3-d36f018f43d3}/settingssynonyms.txt
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/zh-CN.pak
+/vol_vol6/Windows/System32/en-GB/NetworkIcon.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_ru-ru_23096b30aafe9c3b/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-a..ence-mitigations-c1_31bf3856ad364e35_10.0.19041.2846_none_80a52d79a7b03415/sysmain.sdb
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netathr10x.inf_amd64_2691c4f95b80eb3b/Qcamain10x64.sys
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/2fe998ad-b559-4110-b92b-cca41bbb6132
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/da.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ka.pak
+/vol_vol6/Windows/System32/pnidui.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/sr.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-vwifi_31bf3856ad364e35_10.0.19041.1202_none_d454db0c78bb56d4/vwififlt.sys
+/vol_vol6/Windows/System32/DriverStore/en-US/netrtwlanu.inf_loc
+/vol_vol6/Windows/WinSxS/amd64_networking-mpssvc-svc_31bf3856ad364e35_10.0.19041.2913_none_0e89a4567d4b08ea/MPSSVC.dll
+/vol_vol6/Windows/System32/PhoneProviders.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/sv.pak
+/vol_vol6/Windows/SysWOW64/Speech/Engines/TTS/MSTTSLoc.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/cs.pak.DATA
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-miracast-receiver-api_31bf3856ad364e35_10.0.19041.2673_none_8792d73b026ea6d0/MiracastReceiver.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_es-es_d9b3b0605a209239/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/bs.pak
+/vol_vol6/Windows/WinSxS/amd64_netr28x.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_edf48fab23be66d3/netr28x.inf_loc
+/vol_vol6/Windows/System32/ActiveSyncProvider.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/00771ac4-e8fd-4b21-9656-bbc20ed78f07
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/msedge.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane.inf_31bf3856ad364e35_10.0.19041.1_none_d3bf9bafd133d367/netrtwlane.inf
+/vol_vol6/Windows/System32/da-DK/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/es.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/NetSetupSvc.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-onecore-c..ilityaccess-manager_31bf3856ad364e35_10.0.19041.746_none_df3c22d6a04a589d/CapabilityAccessManager.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ug.pak.DATA
+/vol_vol6/Windows/SysWOW64/zh-TW/SyncRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/Assets/Fonts/SkypeAssets-Medium.ttf
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netathr10x.inf_amd64_2691c4f95b80eb3b/netathr10x.inf
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/sr.pak.DATA
+/vol_vol6/Windows/System32/sv-SE/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/uk.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.MicrosoftOfficeHub_18.1903.1152.0_x64__8wekyb3d8bbwe/Microsoft.Applications.Telemetry.Windows-net40.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/pt-BR.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/vi.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-c..erymanager.appxmain_31bf3856ad364e35_10.0.19041.2546_none_205ddbd3b59a3491/ContentDeliveryManager.Background.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netathr10x.inf_amd64_2691c4f95b80eb3b/qca61x4_2_2.bin
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-dafwsd_31bf3856ad364e35_10.0.19041.2546_none_d3ad9cbea98d50ee/DAFWSD.dll
+/vol_vol6/Windows/System32/DriverStore/en-US/net8192se64.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/mt.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..tworkmobilehandlers_31bf3856ad364e35_10.0.19041.1202_none_7071ca9643718427/NetworkMobileSettings.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/tt.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/sk.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-d..ment-enterprisecsps_31bf3856ad364e35_10.0.19041.2788_none_c0c4949693f590d1/DMClient_DDF.xml
+/vol_vol6/Program Files/WindowsApps/Mozilla.Firefox_116.0.3.0_x64__n80bbvh6b1yt2/VFS/ProgramFiles/Firefox Package Root/omni.ja
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-o..documents.resources_31bf3856ad364e35_10.0.19041.2193_en-gb_7fbd6af7e5120817/OOBE_HELP_Opt_in_Details.htm
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/gl.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlans.inf_amd64_97cd1a72c2a7829c/rtwlans.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/fr-CA.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.ZuneVideo_10.19071.19011.0_x64__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Windows/System32/NetworkIcon.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/en-GB.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/sv.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-w..ctionflow.resources_31bf3856ad364e35_10.0.19041.1_en-gb_cbeb35c18e99a004/WLanConn.dll.mui
+/vol_vol6/Windows/System32/DriverStore/en-US/bcmwdidhdpcie.inf_loc
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_ms.json
+/vol_vol6/Windows/WinSxS/amd64_dual_netwtw04.inf_31bf3856ad364e35_10.0.19041.1_none_d04005f89378a864/NETwtw04.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..turalauthentication_31bf3856ad364e35_10.0.19041.746_none_d1b446a5fe3076f1/NaturalAuth.dll
+/vol_vol6/Windows/SysWOW64/uk-UA/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/hu.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/pa.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-p..ing-rtapi.resources_31bf3856ad364e35_10.0.19041.1_en-us_f2d250dd8dec9631/Windows.Networking.Proximity.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/th.pak
+/vol_vol6/Windows/System32/ortcengine.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/zh-TW.pak
+/vol_vol6/Windows/WinSxS/amd64_ddores.resources_31bf3856ad364e35_10.0.19041.1_en-gb_0ad444311518bf1f/DDORes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..daptercim.resources_31bf3856ad364e35_10.0.19041.1_en-gb_ae6df22c310fbd04/NetAdapterCim.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_ru-ru_2d5e1582df5f5e36/SyncRes.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/c9e3ecad-8388-4f97-99e5-311d67bed32b
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_el-gr_d98dab165a30fd5d/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ca.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-devices-radios_31bf3856ad364e35_10.0.19041.746_none_3ea2e277b12254cd/Windows.Devices.Radios.dll
+/vol_vol6/Windows/WinSxS/amd64_wnetvsc.inf.resources_31bf3856ad364e35_10.0.19041.906_en-us_3ea4ea3e2a4f2ed8/wnetvsc.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/fil.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_en-GB.json
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/kn.pak.DATA
+/vol_vol6/Windows/System32/MusNotificationUx.exe
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/801d9ea9-138d-4366-ba08-bc16c51027b0
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/az.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ro.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/km.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ml.pak
+/vol_vol6/Windows/SysWOW64/sl-SI/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ar.pak.DATA
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-devices-radios_31bf3856ad364e35_10.0.19041.746_none_48f78cc9e58316c8/Windows.Devices.Radios.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netwtw08.inf_31bf3856ad364e35_10.0.19041.1_none_74875e7e77108c60/IntelWifiIhv08.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ml.pak.DATA
+/vol_vol6/Windows/System32/en-US/WiFiDisplay.dll.mui
+/vol_vol6/Windows/System32/zh-TW/SyncRes.dll.mui
+/vol_vol6/Windows/INF/oem9.inf
+/vol_vol6/Windows/WinSxS/amd64_dual_netvwififlt.inf_31bf3856ad364e35_10.0.19041.1_none_fda7230b4bb7671f/netvwififlt.inf
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/locationframework.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/bed25a50-0998-43a3-b72d-47bcacda87c6
+/vol_vol6/Windows/System32/drivers/pdc.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/gu.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/AsyncStorage/ecsDefaultConfig.data
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-c..rymanager-utilities_31bf3856ad364e35_10.0.19041.2311_none_e78b3d9a11a05eee/ContentDeliveryManager.Utilities.dll
+/vol_vol6/Windows/System32/winmde.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-winmde_31bf3856ad364e35_10.0.19041.1202_none_2b7322505165cf2d/winmde.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/kok.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwtw06.inf_amd64_2edd50e7a54d503b/netwtw06.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/nl.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/gd.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_pl-pl_e38549aefc84cc4a/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/gl.pak
+/vol_vol6/Windows/WinSxS/FileMaps/$$_syswow64_21ffbdd2a2dd92e0.cdf-ms
+/vol_vol6/Windows/SysWOW64/Windows.Networking.Connectivity.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/he.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/fa.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-n..orking-connectivity_31bf3856ad364e35_10.0.19041.2311_none_b18657501002c778/Windows.Networking.Connectivity.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wfdsconmgr.resources_31bf3856ad364e35_10.0.19041.1_en-us_4f0013321e7cc224/WFDSConMgrSvc.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/af.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/shell32.dll.mui
+/vol_vol6/Windows/SysWOW64/en-GB/BWContextHandler.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-vwifi_31bf3856ad364e35_10.0.19041.1202_none_d454db0c78bb56d4/vwifimp.sys
+/vol_vol6/Windows/WinSxS/amd64_netrtwlanu.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_1c5dded6aa4dfc46/netrtwlanu.inf_loc
+/vol_vol6/Windows/SysWOW64/AuthFWSnapin.dll
+/vol_vol6/Windows/SystemResources/Windows.UI.ShellCommon/pris/Windows.UI.ShellCommon.en-GB.pri
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/WLanHC.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.Office.OneNote_16001.12026.20112.0_x64__8wekyb3d8bbwe/MsoAriaImm.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlanu.inf_amd64_1815bafd14dc59f0/rtwlanu.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-t..neservice.resources_31bf3856ad364e35_10.0.19041.1_en-gb_478e94ea485bca4f/PhoneServiceRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_hu-hu_c3dba6a7315277b7/SyncRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_et.json
+/vol_vol6/Program Files/WindowsApps/Microsoft.GetHelp_10.1706.13331.0_x64__8wekyb3d8bbwe/Microsoft.Support.SDK.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/gu.pak
+/vol_vol6/Windows/L2Schemas/WFD_profile_v1.xsd
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wcmsvc_31bf3856ad364e35_10.0.19041.2673_none_b3803f21b7fd675b/wcmsvc.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/bn-IN.pak.DATA
+/vol_vol6/Windows/INF/netr28ux.inf
+/vol_vol6/Windows/WinSxS/amd64_mdmsettingsprov.resources_31bf3856ad364e35_10.0.19041.1_en-gb_760b8d9fc893e3f8/MDMSettingsProv.mfl
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ml.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_hr.json
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/60e08031-4d3c-4431-bfd9-958ef9c31f7c
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-b..xthandler.resources_31bf3856ad364e35_10.0.19041.1_en-gb_9a915465723f6e74/BWContextHandler.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/eu.pak.DATA
+/vol_vol6/Windows/System32/SystemSettings.Handlers.dll
+/vol_vol6/Windows/SysWOW64/de-DE/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ug.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_it-it_70e7c6f858855014/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/bn-IN.pak
+/vol_vol6/Windows/WinSxS/amd64_dual_netwlv64.inf_31bf3856ad364e35_10.0.19041.1_none_8d197dfb77b548c3/netwlv64.sys
+/vol_vol6/Windows/System32/TransformPPSToWlan.xslt
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ru.pak.DATA
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/36f77bae-0950-49bc-ae4e-9993cf324d40
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/el.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/es-419.pak
+/vol_vol6/Windows/SystemApps/Microsoft.Windows.Search_cw5n1h2txyewy/cache/Local/Desktop/19.js
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ru.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/eu.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_lv-lv_50bb12ecfb567397/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/FileMaps/$$_system32_21f9a9c4a2f8b514.cdf-ms
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ne.pak
+/vol_vol6/Windows/System32/drivers/PktMon.sys
+/vol_vol6/Windows/System32/config/SYSTEM
+/vol_vol6/Windows/SysWOW64/WiFiDisplay.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/DMAppsRes.dll.mui
+/vol_vol6/Windows/System32/pkeyhelper.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_zh-tw_47bfa59272ed1911/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/km.pak.DATA
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{bbab3c2c-29c7-4eae-9bf4-851ab207e8bf}/Settings.index
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/mi.pak
+/vol_vol6/Windows/WinSxS/amd64_dual_netwsw00.inf_31bf3856ad364e35_10.0.19041.1_none_88da6969bd4fa72f/Netwsw00.INF
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/msedge.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/qu.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-d..lowbroker.resources_31bf3856ad364e35_10.0.19041.1_en-gb_a811c8dbc6cd8bcf/DevicesFlowBroker.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/zh-CN.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/mt.pak
+/vol_vol6/Windows/apppatch/sysmain.sdb
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/wlansvc.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{d408481b-6d85-4a11-9caa-1c62edc10260}/Apps.index
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/sv.pak.DATA
+/vol_vol6/Windows/System32/en-GB/WLanHC.dll.mui
+/vol_vol6/Windows/System32/wbem/Repository/OBJECTS.DATA
+/vol_vol6/Windows/System32/Taskmgr.exe
+/vol_vol6/Windows/System32/en-US/wlangpui.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/as.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.ZuneMusic_10.19071.19011.0_x64__8wekyb3d8bbwe/EntCommon.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ta.pak
+/vol_vol6/Windows/SysWOW64/hu-HU/SyncRes.dll.mui
+/vol_vol6/Windows/System32/SettingsHandlers_WorkAccess.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wlansvc.resources_31bf3856ad364e35_10.0.19041.1202_en-gb_b551a61884894882/wlansvc.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/en-GB.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..lers-maps.resources_31bf3856ad364e35_10.0.19041.1_en-gb_00370f3211c31806/SettingsHandlers_Maps.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ta.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-devices-wifi_31bf3856ad364e35_10.0.19041.746_none_c9c07f6ef9db5afa/Windows.Devices.WiFi.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/fi.pak.DATA
+/vol_vol6/Windows/System32/en-GB/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/th.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/bn-IN.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/es-419.pak.DATA
+/vol_vol6/Windows/System32/sl-SI/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..orkstatus.resources_31bf3856ad364e35_10.0.19041.1_en-gb_2f96b307c44436d3/NetworkStatus.dll.mui
+/vol_vol6/Windows/System32/DriverStore/en-US/netvwififlt.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/et.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/hi.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/f2a31224-b1a1-4ee2-a818-2c6d6a215c17
+/vol_vol6/Windows/WinSxS/amd64_netr28ux.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_583d55fcb94d6860/netr28ux.inf_loc
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-advancedtaskmanager_31bf3856ad364e35_10.0.19041.1202_none_23a707c9a0b5a8e1/Taskmgr.exe.mun
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/he.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/kok.pak.DATA
+/vol_vol6/Windows/System32/netprofmsvc.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/fa.pak
+/vol_vol6/Windows/SysWOW64/cs-CZ/SyncRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/WiFiNetworkManager.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/et.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-c..anageretw.resources_31bf3856ad364e35_10.0.19041.1_en-us_bc102723b8634176/NetCellcoreCellManagerProviderResources.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/Assets/Fonts/SkypeAssets-Light.ttf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/te.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwtw06.inf_amd64_2edd50e7a54d503b/Netwtw06.sys
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/it.pak.DATA
+/vol_vol6/Windows/System32/wbem/en-GB/MDMSettingsProv.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/es-419.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/pl.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ka.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ko.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/lo.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/mt.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/pt-BR.pak
+/vol_vol6/Windows/SysWOW64/ru-RU/SyncRes.dll.mui
+/vol_vol6/Windows/System32/en-US/verifier.exe.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_th-th_640e7758936c63d7/SyncRes.dll.mui
+/vol_vol6/Windows/System32/nb-NO/SyncRes.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/68ffcbac-ab02-450e-b372-2883377dc3d4
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_pl-pl_d9309f5cc8240a4f/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/da.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_pt-br_e5d93452fb0e602e/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/sq.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.MixedReality.Portal_2000.19081.1301.0_x64__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-dafupnp_31bf3856ad364e35_10.0.19041.1806_none_3679bd7b7c3a21df/dafupnp.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..l.desktop.searchapp_31bf3856ad364e35_10.0.19041.1741_none_f64624138543d54c/19.js
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/en-US.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/hu.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/hi.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ug.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/sl.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-d..ment-dmxmlhelputils_31bf3856ad364e35_10.0.19041.2546_none_fbbff72900024ff4/dmxmlhelputils.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/he.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/PhoneServiceRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/es.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe/EntCommon.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ga.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/fi.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/en-US.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/8222AE8431819968DF5D9C398FF53051A6006F6F
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane.inf_31bf3856ad364e35_10.0.19041.1_none_d3bf9bafd133d367/rtwlane.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlans.inf_amd64_97cd1a72c2a7829c/netrtwlans.inf
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwtw04.inf_amd64_c8f5ae6576289a2d/netwtw04.inf
+/vol_vol6/Windows/WinSxS/amd64_dual_netwns64.inf_31bf3856ad364e35_10.0.19041.1_none_4b1587310307e248/NETwNs64.sys
+/vol_vol6/Windows/System32/wifinetworkmanager.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/SystemResources/Windows.UI.ShellCommon/pris/Windows.UI.ShellCommon.en-GB.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ca-Es-VALENCIA.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_lt-lt_4feda468fbd832a7/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/zh-CN.pak.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ml.pak
+/vol_vol6/Windows/System32/he-IL/SyncRes.dll.mui
+/vol_vol6/Windows/INF/netathr10x.inf
+/vol_vol6/Windows/WinSxS/amd64_dual_netr28ux.inf_31bf3856ad364e35_10.0.19041.1_none_f8113961ee4ef685/netr28ux.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/fi.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wifidisplay_31bf3856ad364e35_10.0.19041.1_none_b2211490b4c2f273/WiFiDisplay.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/km.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-t..hony-phoneproviders_31bf3856ad364e35_10.0.19041.844_none_c87fbaf3835e2c51/PhoneProviders.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/dusmsvc.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-d..ment-dmxmlhelputils_31bf3856ad364e35_10.0.19041.2546_none_f16b4cd6cba18df9/dmxmlhelputils.dll
+/vol_vol6/Windows/System32/pt-BR/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/nn.pak.DATA
+/vol_vol6/Windows/System32/drivers/KNetPwrDepBroker.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-shell32.resources_31bf3856ad364e35_10.0.19041.964_en-gb_3002b9a83c943476/shell32.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/athw8x.inf_amd64_55014eff4ceefbdf/athw8x.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wlansvc.resources_31bf3856ad364e35_10.0.19041.1202_en-gb_aafcfbc650288687/wlansvc.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ne.pak.DATA
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache133377841585412021.txt
+/vol_vol6/Windows/WinSxS/amd64_netrtwlane01.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_5e0445b6bb72e1d9/netrtwlane01.inf_loc
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/35a871d4-4338-4352-a33c-a1b7f1fd8fcd
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_sr-Latn.json
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_lt-lt_5a424ebb3038f4a2/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-e..mgmt-mdmdiagnostics_31bf3856ad364e35_10.0.19041.2913_none_5bc46e70f9c35aa8/MdmDiagnostics.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/sr-Latn-RS.pak.DATA
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/0c2bb7da-9afc-4ff7-bbb5-fa12d7684faa
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ca.pak
+/vol_vol6/Windows/SysWOW64/OneDriveSetup.exe
+/vol_vol6/Windows/SysWOW64/ContentDeliveryManager.Utilities.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_en-us_d9e8537c59f9a094/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_netbc64.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_cc88668780076b66/netbc64.INF_loc
+/vol_vol6/Windows/WinSxS/amd64_dual_netwtw06.inf_31bf3856ad364e35_10.0.19041.1_none_2263b23b85449a62/Netwtw06.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_fr-fr_7c6b265f4cf2a89b/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/bg.pak.DATA
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/ea37eb3e-b7f6-454f-9d7e-08cddbfb67e7
+/vol_vol6/Windows/SysWOW64/Dism/TransmogProvider.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ka.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/mr.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/bd60d550-b586-494c-84e8-48c507c060d4
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/fil.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/MusUpdateHandlers.dll.mui
+/vol_vol6/Program Files/WindowsApps/Mozilla.Firefox_116.0.3.0_x64__n80bbvh6b1yt2/VFS/ProgramFiles/Firefox Package Root/browser/omni.ja
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane01.inf_31bf3856ad364e35_10.0.19041.1_none_ab35e8e757e4c442/rtwlane01.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/or.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/bcmwdidhdpcie.inf_amd64_977dcc915465b0e9/bcmpciedhd63.sys
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/OneDrive/21.220.1024.0005/OneDriveSetup.exe
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/hi.pak.DATA
+/vol_vol6/Windows/System32/WiFiConfigSP.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_bcmwdidhdpcie.inf_31bf3856ad364e35_10.0.19041.1_none_6be28be212bdb5e8/bcmpciedhd63.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/lv.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/or.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_sk.json
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-u..ehandlers.resources_31bf3856ad364e35_10.0.19041.2311_en-gb_d6d92d3b6da455ca/MusUpdateHandlers.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/sr-Latn-RS.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netathr10x.inf_amd64_2691c4f95b80eb3b/qca9377_2_0.bin
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/startupCache/scriptCache-current.bin
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/fi.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_es-US.json
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-c..rymanager-utilities_31bf3856ad364e35_10.0.19041.2311_none_f1dfe7ec460120e9/ContentDeliveryManager.Utilities.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/zh-TW.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_en.json
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/lt.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.Windows.Photos_2019.19071.12548.0_x64__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ko.pak
+/vol_vol6/Windows/INF/net8192su64.inf
+/vol_vol6/Windows/System32/SettingsHandlers_nt.dll
+/vol_vol6/Windows/System32/bg-BG/SyncRes.dll.mui
+/vol_vol6/Windows/SystemApps/Microsoft.Windows.Search_cw5n1h2txyewy/SearchApi.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/ReactAssets/index.windows.bundle
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ja.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wifidisplay.resources_31bf3856ad364e35_10.0.19041.1_en-us_c6fdd4da1ee2267b/WiFiDisplay.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_it.json
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/38c98131-9137-4d7e-ab0c-aca4931fd343
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/el.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/th.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/mt.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-wlangpui.resources_31bf3856ad364e35_10.0.19041.1_en-us_da096bf28c6b6bd0/wlangpui.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/sq.pak.DATA
+/vol_vol6/Windows/INF/netvwifibus.inf
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane.inf_amd64_20caba88bd7f0bb3/rtwlane.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..nt-sku-core-license_31bf3856ad364e35_10.0.19041.2788_none_1211f6c2ba551473/DefaultPpd-Core-ppdlic.xrm-ms
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/d551c573-4de0-41a5-b3dd-f15d3aff2a14
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wifinetworkmanager_31bf3856ad364e35_10.0.19041.1202_none_e17f082b30dd9027/wifinetworkmanager.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/az.pak.DATA
+/vol_vol6/Windows/SysWOW64/da-DK/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-w..lperclass.resources_31bf3856ad364e35_10.0.19041.1_en-gb_dd3f542311b29ecc/WLanHC.dll.mui
+/vol_vol6/Windows/System32/DriverStore/en-US/netrtwlane_13.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/zh-CN.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-pnidui_31bf3856ad364e35_10.0.19041.1387_none_b3e6b07122ed1b66/pnidui.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/fr.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.ZuneMusic_10.19071.19011.0_x64__8wekyb3d8bbwe/EntPlat.dll
+/vol_vol6/Windows/INF/net8192se64.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-desktop-p..ioning-platform-uap_31bf3856ad364e35_10.0.19041.2311_none_ed8404e2791a9308/Microsoft-Desktop-Provisioning.dat
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/bs.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_ja-jp_130d46054ba061ef/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-c...appxmain.resources_31bf3856ad364e35_10.0.19041.1_en-gb_51f1674af1b45932/resources.en-GB.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ar.pak
+/vol_vol6/Windows/System32/ncsi.dll
+/vol_vol6/Windows/System32/drivers/vwifibus.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/kn.pak
+/vol_vol6/Windows/INF/netwew01.inf
+/vol_vol6/Windows/System32/config/SOFTWARE.LOG1
+/vol_vol6/Windows/System32/AuthFWSnapin.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/kok.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_bg.json
+/vol_vol6/Program Files/WindowsApps/Microsoft.Office.OneNote_16001.12026.20112.0_x64__8wekyb3d8bbwe/notetagsUI/main.js
+/vol_vol6/Program Files/WindowsApps/Microsoft.MicrosoftSolitaireCollection_4.4.8204.0_x64__8wekyb3d8bbwe/Microsoft.MicrosoftSolitaireCollection.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..sh-helper.resources_31bf3856ad364e35_10.0.19041.1_en-us_9e2881e28bcc3466/nettrace.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/te.pak
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{bbab3c2c-29c7-4eae-9bf4-851ab207e8bf}/Settings.ft
+/vol_vol6/Windows/INF/errata.inf
+/vol_vol6/Windows/System32/drivers/nwifi.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netvwifibus.inf_amd64_f52d5ad58116f6f0/netvwifibus.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-pktmon-setup.resources_31bf3856ad364e35_10.0.19041.2193_en-us_612db2f9c8886bb9/PktMon.sys.mui
+/vol_vol6/Windows/System32/DriverStore/en-US/Netwtw08.inf_loc
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ur.pak
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/id.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/oobe/en-GB/OOBE_HELP_Opt_in_Details.htm
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/az.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netwtw08.inf_amd64_7c0c516fb22456cd/Netwtw08.sys
+/vol_vol6/Windows/System32/ru-RU/SyncRes.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/QuickActionsDataModel.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-edition-transmogrifier_31bf3856ad364e35_10.0.19041.2788_none_9477162524e76b31/TransmogProvider.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-d..ent-dmpolicymanager_31bf3856ad364e35_10.0.19041.2913_none_c12bf6b79c681640/policymanager.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ro.pak.DATA
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{fe53ebb3-1df1-4e22-beb6-bc623b0a17ba}/Apps.index
+/vol_vol6/Windows/System32/DataUsageHandlers.dll
+/vol_vol6/Windows/SysWOW64/sv-SE/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ka.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/msedge.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane01.inf_amd64_b02695ef070d7a42/netrtwlane01.inf
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlans.inf_31bf3856ad364e35_10.0.19041.1_none_4f974109745217b9/netrtwlans.inf
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/km.pak
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_en-us_e43cfdce8e5a628f/SyncRes.dll.mui
+/vol_vol6/Windows/System32/wpnprv.dll
+/vol_vol6/Windows/System32/MbaeApi.dll
+/vol_vol6/Windows/System32/hu-HU/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlans.inf_31bf3856ad364e35_10.0.19041.1_none_4f974109745217b9/rtwlans.sys
+/vol_vol6/Windows/System32/enterprisecsps.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/en-GB.pak.DATA
+/vol_vol6/Windows/System32/SMI/Store/Machine/SCHEMA.DAT
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/it.pak.DATA
+/vol_vol6/Windows/INF/netrtwlane01.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/sk.pak
+/vol_vol6/Windows/System32/drivers/ClipSp.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-nlasvc_31bf3856ad364e35_10.0.19041.2913_none_dbfb5ea4c05890b6/ncsi.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/nn.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-appmodel-exec-events.resources_31bf3856ad364e35_10.0.19041.1_en-us_59ca9f2e380be640/Microsoft-Windows-AppModelExecEvents.dll.mui
+/vol_vol6/Windows/System32/MPSSVC.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_pl.json
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/sr-Cyrl-BA.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-l..-security-processor_31bf3856ad364e35_10.0.19041.2913_none_33b9cf296527848e/ClipSp.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/pl.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/lt.pak.DATA
+/vol_vol6/Program Files/WindowsApps/Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Windows/SysWOW64/ActiveSyncProvider.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-onecoreuap-wlansvc_31bf3856ad364e35_10.0.19041.2546_none_b7831f19a79d743f/wfdprov.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-l..er-driver.resources_31bf3856ad364e35_10.0.19041.1_en-us_3537d4f1ef1da7b7/l2bridge.sys.mui
+/vol_vol6/Windows/WinSxS/amd64_net8192su64.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_6c5e65607b51e6d5/net8192su64.inf_loc
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/SystemApps/Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy/pris/resources.en-GB.pri
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/gd.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_dual_netathrx.inf_31bf3856ad364e35_10.0.19041.1_none_aca2c01a764c25fb/athwnx.sys
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_ar-sa_4f9d5a4ec957d8af/SyncRes.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_de-de_30f77d836b1b94cf/SyncRes.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{10ace86e-5eb8-42e0-89e3-d36f018f43d3}/appsconversions.txt
+/vol_vol6/Windows/System32/rtmpltfm.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlanu.inf_amd64_1815bafd14dc59f0/netrtwlanu.inf
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_sl.json
+/vol_vol6/Windows/System32/policymanager.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-mccs-syncres.resources_31bf3856ad364e35_10.0.19041.1_sr-..-rs_6766f9da15c44879/SyncRes.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/nn.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..settingshandlers-nt_31bf3856ad364e35_10.0.19041.2913_none_f25bf6af0885b0dd/SettingsHandlers_nt.dll
+/vol_vol6/Windows/WinSxS/amd64_netwlv64.inf.resources_31bf3856ad364e35_10.0.19041.1_en-us_d6f60dc4b77460aa/netwlv64.inf_loc
+/vol_vol6/Windows/WinSxS/amd64_dual_netwtw02.inf_31bf3856ad364e35_10.0.19041.1_none_7e1c59b5a1acb666/Netwtw02.sys
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/LibWrapper.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/id.pak
+/vol_vol6/Windows/System32/MiracastReceiver.dll
+/vol_vol6/Windows/SystemApps/Microsoft.Windows.CallingShellApp_cw5n1h2txyewy/pris/resources.en-GB.pri
+/vol_vol6/Windows/System32/NetworkMobileSettings.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/kk.pak.DATA
+/vol_vol6/Windows/System32/ar-SA/SyncRes.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netbc63a.inf_amd64_7ba6c9cea77dd549/netbc63a.inf
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netvwifimp.inf_amd64_ec11d0ad3c5b262a/netvwifimp.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-skype-ortc_31bf3856ad364e35_10.0.19041.153_none_c7e282bdad806bdc/rtmpltfm.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net819xp.inf_amd64_ff7a5dd4f9b1ceba/net819xp.inf
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/lv.pak
+/vol_vol6/Windows/System32/drivers/vwififlt.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-speechpal-desktop_31bf3856ad364e35_10.0.19041.2913_none_fbec1dfbcbbf4597/SpeechPal.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/fa.pak
+/vol_vol6/$OrphanFiles/TransmogProvider.dll
+/vol_vol6/Windows/Provisioning/Microsoft-Desktop-Provisioning.dat

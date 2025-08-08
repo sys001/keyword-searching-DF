@@ -1,0 +1,11 @@
+/vol_vol3/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/msedge.dll
+/vol_vol3/Windows/WinSxS/amd64_microsoft-windows-directwrite_31bf3856ad364e35_10.0.19041.1566_none_4742d2e3b4b8b9b0/DWrite.dll
+/vol_vol3/Windows/WinSxS/wow64_microsoft-windows-directwrite_31bf3856ad364e35_10.0.19041.1566_none_51977d35e9197bab/DWrite.dll
+/vol_vol3/Windows/WinSxS/amd64_microsoft-windows-i..tocolimplementation_31bf3856ad364e35_11.0.19041.2193_none_ba74f1fe806de050/wininet.dll
+/vol_vol3/Program Files (x86)/Microsoft/Edge/Application/115.0.1901.203/msedge.dll
+/vol_vol3/Windows/System32/DWrite.dll
+/vol_vol3/Program Files/WindowsApps/Microsoft.MicrosoftSolitaireCollection_4.4.8204.0_x64__8wekyb3d8bbwe/Solitaire.exe
+/vol_vol3/Windows/SysWOW64/DWrite.dll
+/vol_vol3/Windows/System32/wininet.dll
+/vol_vol3/Windows/SysWOW64/wininet.dll
+/vol_vol3/Windows/WinSxS/wow64_microsoft-windows-i..tocolimplementation_31bf3856ad364e35_11.0.19041.2193_none_c4c99c50b4cea24b/wininet.dll

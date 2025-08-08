@@ -1,0 +1,6 @@
+2023-09-03 17:26:39,747 - root - INFO - report path set to D:\Documents\Research\Keyword Expansion\windows-29.8\Reports\windows-29.8 Keyword Export Report Module 09-03-2023-17-26-39\
+2023-09-03 17:30:07,216 - root - INFO - report path set to D:\Documents\Research\Keyword Expansion\windows-29.8\Reports\windows-29.8 Keyword Export Report Module 09-03-2023-17-30-07\
+2023-09-03 17:32:09,216 - root - INFO - report path set to D:\Documents\Research\Keyword Expansion\windows-29.8\Reports\windows-29.8 Keyword Export Report Module 09-03-2023-17-32-09\
+2023-09-03 17:35:41,798 - root - DEBUG - artefact_to_object_mappings:
+2023-09-03 17:36:54,663 - root - DEBUG - artefact_to_object_mappings:
+2023-09-03 17:37:20,811 - root - INFO - report path set to D:\Documents\Research\Keyword Expansion\airports-29.8-2\Reports\airports-29.8-2 Keyword Export Report Module 09-03-2023-17-37-20\

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-09-01 17:15:16" modified="2023-09-01 17:15:16" name="wifi-list1">
+  <keyword literal="true" whole="true">wifi</keyword>
+  <keyword literal="true" whole="true">wi-fi</keyword>
+ </keyword_list>
+</keyword_lists>

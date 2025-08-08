@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-08-29 14:20:07" modified="2023-08-29 14:20:27" name="heli-air-aerodrome">
+  <keyword literal="true" whole="true">airport</keyword>
+  <keyword literal="true" whole="true">heliport</keyword>
+  <keyword literal="true" whole="true">aerodrome</keyword>
+ </keyword_list>
+</keyword_lists>

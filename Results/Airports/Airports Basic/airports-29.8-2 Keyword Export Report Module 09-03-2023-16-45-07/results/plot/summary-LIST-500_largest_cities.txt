@@ -1,0 +1,11 @@
+Number of relevant files (RF): 5095
+Number of non-relevant files (NRF): 5095
+
+Number of true positives (TP): 569
+Number of false positives (FP): 2
+Number of true negatives (TN): 5093
+Number of false negatives (FN): 4526
+
+Recall (R) = TP / (TP + FN) = 0.1117
+Precision (P) = TP / (TP + FP) = 0.9965
+F1 Score = 2 * ((P * R) / (P + R)) =0.2008

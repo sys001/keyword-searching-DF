@@ -1,0 +1,3 @@
+/vol_vol6/Program Files/WindowsApps/Mozilla.Firefox_116.0.3.0_x64__n80bbvh6b1yt2/VFS/ProgramFiles/Firefox Package Root/omni.ja
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..voicecommon-onecore_31bf3856ad364e35_10.0.19041.746_none_133ac2bb3e537369/MSTTSLocEnUS.dat
+/vol_vol6/Windows/Speech_OneCore/Engines/TTS/en-US/MSTTSLocEnUS.dat

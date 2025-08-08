@@ -1,0 +1,2120 @@
+{
+    "creation": "2023-09-03T16:45:42.300000", 
+    "keyword_hits": [
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r17.txt", 
+            "match_term": "Abu Dhabi", 
+            "search_term": "Abu Dhabi", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r16.txt", 
+            "match_term": "Abu Dhabi", 
+            "search_term": "Abu Dhabi", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r18.txt", 
+            "match_term": "Abu Dhabi", 
+            "search_term": "Abu Dhabi", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r21.txt", 
+            "match_term": "Abuja", 
+            "search_term": "Abuja", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r23.txt", 
+            "match_term": "Accra", 
+            "search_term": "Accra", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r28.txt", 
+            "match_term": "Addis Ababa", 
+            "search_term": "Addis Ababa", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r102.txt", 
+            "match_term": "Algiers", 
+            "search_term": "Algiers", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r137.txt", 
+            "match_term": "Amman", 
+            "search_term": "Amman", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r138.txt", 
+            "match_term": "Amman", 
+            "search_term": "Amman", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r141.txt", 
+            "match_term": "Amsterdam", 
+            "search_term": "Amsterdam", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r167.txt", 
+            "match_term": "Ankara", 
+            "search_term": "Ankara", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r181.txt", 
+            "match_term": "Antananarivo", 
+            "search_term": "Antananarivo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r192.txt", 
+            "match_term": "Apia", 
+            "search_term": "Apia", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r240.txt", 
+            "match_term": "Ashgabat", 
+            "search_term": "Ashgabat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r241.txt", 
+            "match_term": "Asmara", 
+            "search_term": "Asmara", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r246.txt", 
+            "match_term": "Astana", 
+            "search_term": "Astana", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r254.txt", 
+            "match_term": "Athens", 
+            "search_term": "Athens", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r256.txt", 
+            "match_term": "Athens", 
+            "search_term": "Athens", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r257.txt", 
+            "match_term": "Athens", 
+            "search_term": "Athens", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r255.txt", 
+            "match_term": "Athens", 
+            "search_term": "Athens", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r287.txt", 
+            "match_term": "Avarua", 
+            "search_term": "Avarua", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r304.txt", 
+            "match_term": "Baghdad", 
+            "search_term": "Baghdad", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r324.txt", 
+            "match_term": "Baku", 
+            "search_term": "Baku", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r336.txt", 
+            "match_term": "Bamako", 
+            "search_term": "Bamako", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r346.txt", 
+            "match_term": "Bangkok", 
+            "search_term": "Bangkok", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r345.txt", 
+            "match_term": "Bangkok", 
+            "search_term": "Bangkok", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r348.txt", 
+            "match_term": "Bangui", 
+            "search_term": "Bangui", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r351.txt", 
+            "match_term": "Banjul", 
+            "search_term": "Banjul", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r386.txt", 
+            "match_term": "Basseterre", 
+            "search_term": "Basseterre", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r424.txt", 
+            "match_term": "Beijing", 
+            "search_term": "Beijing", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r426.txt", 
+            "match_term": "Beijing", 
+            "search_term": "Beijing", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r425.txt", 
+            "match_term": "Beijing", 
+            "search_term": "Beijing", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r428.txt", 
+            "match_term": "Beirut", 
+            "search_term": "Beirut", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r433.txt", 
+            "match_term": "Belfast", 
+            "search_term": "Belfast", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r434.txt", 
+            "match_term": "Belfast", 
+            "search_term": "Belfast", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r437.txt", 
+            "match_term": "Belgrade", 
+            "search_term": "Belgrade", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r469.txt", 
+            "match_term": "Berlin", 
+            "search_term": "Berlin", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r471.txt", 
+            "match_term": "Bern", 
+            "search_term": "Bern", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3099.txt", 
+            "match_term": "Bern", 
+            "search_term": "Bern", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r511.txt", 
+            "match_term": "Bishkek", 
+            "search_term": "Bishkek", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r515.txt", 
+            "match_term": "Bissau", 
+            "search_term": "Bissau", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r592.txt", 
+            "match_term": "Bratislava", 
+            "search_term": "Bratislava", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r596.txt", 
+            "match_term": "Brazzaville", 
+            "search_term": "Brazzaville", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r608.txt", 
+            "match_term": "Bridgetown", 
+            "search_term": "Bridgetown", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r628.txt", 
+            "match_term": "Brussels", 
+            "search_term": "Brussels", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r629.txt", 
+            "match_term": "Brussels", 
+            "search_term": "Brussels", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r633.txt", 
+            "match_term": "Bucharest", 
+            "search_term": "Bucharest", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r634.txt", 
+            "match_term": "Bucharest", 
+            "search_term": "Bucharest", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r636.txt", 
+            "match_term": "Budapest", 
+            "search_term": "Budapest", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r637.txt", 
+            "match_term": "Budapest", 
+            "search_term": "Budapest", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r640.txt", 
+            "match_term": "Buenos Aires", 
+            "search_term": "Buenos Aires", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r641.txt", 
+            "match_term": "Buenos Aires", 
+            "search_term": "Buenos Aires", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r645.txt", 
+            "match_term": "Bujumbura", 
+            "search_term": "Bujumbura", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r693.txt", 
+            "match_term": "Cairo", 
+            "search_term": "Cairo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r694.txt", 
+            "match_term": "Cairo", 
+            "search_term": "Cairo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r725.txt", 
+            "match_term": "Canberra", 
+            "search_term": "Canberra", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r738.txt", 
+            "match_term": "Caracas", 
+            "search_term": "Caracas", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r744.txt", 
+            "match_term": "Cardiff", 
+            "search_term": "Cardiff", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r764.txt", 
+            "match_term": "Castries", 
+            "search_term": "Castries", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r777.txt", 
+            "match_term": "Cayenne", 
+            "search_term": "Cayenne", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r869.txt", 
+            "match_term": "Chisinau", 
+            "search_term": "Chisinau", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r968.txt", 
+            "match_term": "Conakry", 
+            "search_term": "Conakry", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r982.txt", 
+            "match_term": "Copenhagen", 
+            "search_term": "Copenhagen", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r983.txt", 
+            "match_term": "Copenhagen", 
+            "search_term": "Copenhagen", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1047.txt", 
+            "match_term": "Dakar", 
+            "search_term": "Dakar", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1048.txt", 
+            "match_term": "Dakar", 
+            "search_term": "Dakar", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1060.txt", 
+            "match_term": "Damascus", 
+            "search_term": "Damascus", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1139.txt", 
+            "match_term": "Dhaka", 
+            "search_term": "Dhaka", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1149.txt", 
+            "match_term": "Dili", 
+            "search_term": "Dili", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1161.txt", 
+            "match_term": "Djibouti", 
+            "search_term": "Djibouti", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1165.txt", 
+            "match_term": "Dodoma", 
+            "search_term": "Dodoma", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1167.txt", 
+            "match_term": "Doha", 
+            "search_term": "Doha", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1166.txt", 
+            "match_term": "Doha", 
+            "search_term": "Doha", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4361.txt", 
+            "match_term": "Douglas", 
+            "search_term": "Douglas", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r815.txt", 
+            "match_term": "Douglas", 
+            "search_term": "Douglas", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1170.txt", 
+            "match_term": "Douglas", 
+            "search_term": "Douglas", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1192.txt", 
+            "match_term": "Dublin", 
+            "search_term": "Dublin", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1193.txt", 
+            "match_term": "Dublin", 
+            "search_term": "Dublin", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1191.txt", 
+            "match_term": "Dublin", 
+            "search_term": "Dublin", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1194.txt", 
+            "match_term": "Dublin", 
+            "search_term": "Dublin", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1212.txt", 
+            "match_term": "Dushanbe", 
+            "search_term": "Dushanbe", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1229.txt", 
+            "match_term": "Edinburgh", 
+            "search_term": "Edinburgh", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1415.txt", 
+            "match_term": "Freetown", 
+            "search_term": "Freetown", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1431.txt", 
+            "match_term": "Funafuti", 
+            "search_term": "Funafuti", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1442.txt", 
+            "match_term": "Gaborone", 
+            "search_term": "Gaborone", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1489.txt", 
+            "match_term": "George Town", 
+            "search_term": "George Town", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1488.txt", 
+            "match_term": "George Town", 
+            "search_term": "George Town", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1493.txt", 
+            "match_term": "Georgetown", 
+            "search_term": "Georgetown", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1492.txt", 
+            "match_term": "Georgetown", 
+            "search_term": "Georgetown", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1491.txt", 
+            "match_term": "Georgetown", 
+            "search_term": "Georgetown", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1494.txt", 
+            "match_term": "Georgetown", 
+            "search_term": "Georgetown", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1490.txt", 
+            "match_term": "Georgetown", 
+            "search_term": "Georgetown", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1499.txt", 
+            "match_term": "Gibraltar", 
+            "search_term": "Gibraltar", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1608.txt", 
+            "match_term": "Guatemala City", 
+            "search_term": "Guatemala City", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1659.txt", 
+            "match_term": "Hamilton", 
+            "search_term": "Hamilton", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1660.txt", 
+            "match_term": "Hamilton", 
+            "search_term": "Hamilton", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r951.txt", 
+            "match_term": "Hamilton", 
+            "search_term": "Hamilton", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1658.txt", 
+            "match_term": "Hamilton", 
+            "search_term": "Hamilton", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1661.txt", 
+            "match_term": "Hamilton", 
+            "search_term": "Hamilton", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1673.txt", 
+            "match_term": "Hanoi", 
+            "search_term": "Hanoi", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1676.txt", 
+            "match_term": "Harare", 
+            "search_term": "Harare", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1678.txt", 
+            "match_term": "Hargeisa", 
+            "search_term": "Hargeisa", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1691.txt", 
+            "match_term": "Havana", 
+            "search_term": "Havana", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1708.txt", 
+            "match_term": "Helsinki", 
+            "search_term": "Helsinki", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1752.txt", 
+            "match_term": "Honiara", 
+            "search_term": "Honiara", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1873.txt", 
+            "match_term": "Islamabad", 
+            "search_term": "Islamabad", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1919.txt", 
+            "match_term": "Jakarta", 
+            "search_term": "Jakarta", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1918.txt", 
+            "match_term": "Jakarta", 
+            "search_term": "Jakarta", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1924.txt", 
+            "match_term": "Jamestown", 
+            "search_term": "Jamestown", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1925.txt", 
+            "match_term": "Jamestown", 
+            "search_term": "Jamestown", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1983.txt", 
+            "match_term": "Juba", 
+            "search_term": "Juba", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1998.txt", 
+            "match_term": "Kabul", 
+            "search_term": "Kabul", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2085.txt", 
+            "match_term": "Kathmandu", 
+            "search_term": "Kathmandu", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2138.txt", 
+            "match_term": "Khartoum", 
+            "search_term": "Khartoum", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2152.txt", 
+            "match_term": "Kigali", 
+            "search_term": "Kigali", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2169.txt", 
+            "match_term": "Kingston", 
+            "search_term": "Kingston", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2168.txt", 
+            "match_term": "Kingston", 
+            "search_term": "Kingston", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2170.txt", 
+            "match_term": "Kingstown", 
+            "search_term": "Kingstown", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2172.txt", 
+            "match_term": "Kinshasa", 
+            "search_term": "Kinshasa", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2266.txt", 
+            "match_term": "Kuala Lumpur", 
+            "search_term": "Kuala Lumpur", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2267.txt", 
+            "match_term": "Kuala Lumpur", 
+            "search_term": "Kuala Lumpur", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2309.txt", 
+            "match_term": "Kyiv", 
+            "search_term": "Kyiv", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2310.txt", 
+            "match_term": "Kyiv", 
+            "search_term": "Kyiv", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2308.txt", 
+            "match_term": "Kyiv", 
+            "search_term": "Kyiv", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2325.txt", 
+            "match_term": "La Paz", 
+            "search_term": "La Paz", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2326.txt", 
+            "match_term": "La Paz", 
+            "search_term": "La Paz", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2463.txt", 
+            "match_term": "Libreville", 
+            "search_term": "Libreville", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2474.txt", 
+            "match_term": "Lilongwe", 
+            "search_term": "Lilongwe", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2475.txt", 
+            "match_term": "Lima", 
+            "search_term": "Lima", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2476.txt", 
+            "match_term": "Lima", 
+            "search_term": "Lima", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/nonrelevant/nr3236.txt", 
+            "match_term": "Lima", 
+            "search_term": "Lima", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2491.txt", 
+            "match_term": "Lisbon", 
+            "search_term": "Lisbon", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2501.txt", 
+            "match_term": "Ljubljana", 
+            "search_term": "Ljubljana", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2526.txt", 
+            "match_term": "London", 
+            "search_term": "London", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2523.txt", 
+            "match_term": "London", 
+            "search_term": "London", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2525.txt", 
+            "match_term": "London", 
+            "search_term": "London", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2524.txt", 
+            "match_term": "London", 
+            "search_term": "London", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2518.txt", 
+            "match_term": "London", 
+            "search_term": "London", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1222.txt", 
+            "match_term": "London", 
+            "search_term": "London", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2517.txt", 
+            "match_term": "London", 
+            "search_term": "London", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2527.txt", 
+            "match_term": "London", 
+            "search_term": "London", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3104.txt", 
+            "match_term": "London", 
+            "search_term": "London", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2520.txt", 
+            "match_term": "London", 
+            "search_term": "London", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2519.txt", 
+            "match_term": "London", 
+            "search_term": "London", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2522.txt", 
+            "match_term": "London", 
+            "search_term": "London", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2521.txt", 
+            "match_term": "London", 
+            "search_term": "London", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2554.txt", 
+            "match_term": "Luanda", 
+            "search_term": "Luanda", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2575.txt", 
+            "match_term": "Lusaka", 
+            "search_term": "Lusaka", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2577.txt", 
+            "match_term": "Luxembourg", 
+            "search_term": "Luxembourg", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2606.txt", 
+            "match_term": "Madrid", 
+            "search_term": "Madrid", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2607.txt", 
+            "match_term": "Madrid", 
+            "search_term": "Madrid", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2608.txt", 
+            "match_term": "Madrid", 
+            "search_term": "Madrid", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2609.txt", 
+            "match_term": "Madrid", 
+            "search_term": "Madrid", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2627.txt", 
+            "match_term": "Majuro", 
+            "search_term": "Majuro", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2633.txt", 
+            "match_term": "Malabo", 
+            "search_term": "Malabo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2653.txt", 
+            "match_term": "Managua", 
+            "search_term": "Managua", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3663.txt", 
+            "match_term": "Managua", 
+            "search_term": "Managua", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2666.txt", 
+            "match_term": "Manila", 
+            "search_term": "Manila", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2667.txt", 
+            "match_term": "Manila", 
+            "search_term": "Manila", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2686.txt", 
+            "match_term": "Maputo", 
+            "search_term": "Maputo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2731.txt", 
+            "match_term": "Maseru", 
+            "search_term": "Maseru", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2812.txt", 
+            "match_term": "Mexico City", 
+            "search_term": "Mexico City", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2813.txt", 
+            "match_term": "Mexico City", 
+            "search_term": "Mexico City", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2851.txt", 
+            "match_term": "Minsk", 
+            "search_term": "Minsk", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2872.txt", 
+            "match_term": "Mogadishu", 
+            "search_term": "Mogadishu", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2893.txt", 
+            "match_term": "Monaco", 
+            "search_term": "Monaco", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2888.txt", 
+            "match_term": "Monrovia", 
+            "search_term": "Monrovia", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2902.txt", 
+            "match_term": "Montevideo", 
+            "search_term": "Montevideo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2901.txt", 
+            "match_term": "Montevideo", 
+            "search_term": "Montevideo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2931.txt", 
+            "match_term": "Moroni", 
+            "search_term": "Moroni", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3628.txt", 
+            "match_term": "Moscow", 
+            "search_term": "Moscow", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2944.txt", 
+            "match_term": "Moscow", 
+            "search_term": "Moscow", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2945.txt", 
+            "match_term": "Moscow", 
+            "search_term": "Moscow", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2941.txt", 
+            "match_term": "Moscow", 
+            "search_term": "Moscow", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2943.txt", 
+            "match_term": "Moscow", 
+            "search_term": "Moscow", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2940.txt", 
+            "match_term": "Moscow", 
+            "search_term": "Moscow", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2942.txt", 
+            "match_term": "Moscow", 
+            "search_term": "Moscow", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r2990.txt", 
+            "match_term": "Muscat", 
+            "search_term": "Muscat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3008.txt", 
+            "match_term": "N'Djamena", 
+            "search_term": "N'Djamena", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3023.txt", 
+            "match_term": "Nairobi", 
+            "search_term": "Nairobi", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3022.txt", 
+            "match_term": "Nairobi", 
+            "search_term": "Nairobi", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3068.txt", 
+            "match_term": "Nassau", 
+            "search_term": "Nassau", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3079.txt", 
+            "match_term": "Naypyidaw", 
+            "search_term": "Naypyidaw", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3132.txt", 
+            "match_term": "Niamey", 
+            "search_term": "Niamey", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3188.txt", 
+            "match_term": "Nouakchott", 
+            "search_term": "Nouakchott", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3206.txt", 
+            "match_term": "Nuuk", 
+            "search_term": "Nuuk", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3266.txt", 
+            "match_term": "Oranjestad", 
+            "search_term": "Oranjestad", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3293.txt", 
+            "match_term": "Oslo", 
+            "search_term": "Oslo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3294.txt", 
+            "match_term": "Oslo", 
+            "search_term": "Oslo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3292.txt", 
+            "match_term": "Oslo", 
+            "search_term": "Oslo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3299.txt", 
+            "match_term": "Ottawa", 
+            "search_term": "Ottawa", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1472.txt", 
+            "match_term": "Ottawa", 
+            "search_term": "Ottawa", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3301.txt", 
+            "match_term": "Ouagadougou", 
+            "search_term": "Ouagadougou", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3322.txt", 
+            "match_term": "Pago Pago", 
+            "search_term": "Pago Pago", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3350.txt", 
+            "match_term": "Panama City", 
+            "search_term": "Panama City", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3348.txt", 
+            "match_term": "Panama City", 
+            "search_term": "Panama City", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3349.txt", 
+            "match_term": "Panama City", 
+            "search_term": "Panama City", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3359.txt", 
+            "match_term": "Papeete", 
+            "search_term": "Papeete", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3365.txt", 
+            "match_term": "Paramaribo", 
+            "search_term": "Paramaribo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3366.txt", 
+            "match_term": "Paramaribo", 
+            "search_term": "Paramaribo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3372.txt", 
+            "match_term": "Paris", 
+            "search_term": "Paris", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3373.txt", 
+            "match_term": "Paris", 
+            "search_term": "Paris", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3378.txt", 
+            "match_term": "Paris", 
+            "search_term": "Paris", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3374.txt", 
+            "match_term": "Paris", 
+            "search_term": "Paris", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3375.txt", 
+            "match_term": "Paris", 
+            "search_term": "Paris", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3376.txt", 
+            "match_term": "Paris", 
+            "search_term": "Paris", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3377.txt", 
+            "match_term": "Paris", 
+            "search_term": "Paris", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3452.txt", 
+            "match_term": "Phnom Penh", 
+            "search_term": "Phnom Penh", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3107.txt", 
+            "match_term": "Plymouth", 
+            "search_term": "Plymouth", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3493.txt", 
+            "match_term": "Plymouth", 
+            "search_term": "Plymouth", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3495.txt", 
+            "match_term": "Podgorica", 
+            "search_term": "Podgorica", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3541.txt", 
+            "match_term": "Port Louis", 
+            "search_term": "Port Louis", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3543.txt", 
+            "match_term": "Port Moresby", 
+            "search_term": "Port Moresby", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3548.txt", 
+            "match_term": "Port Vila", 
+            "search_term": "Port Vila", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3544.txt", 
+            "match_term": "Port of Spain", 
+            "search_term": "Port of Spain", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3549.txt", 
+            "match_term": "Port-au-Prince", 
+            "search_term": "Port-au-Prince", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3578.txt", 
+            "match_term": "Prague", 
+            "search_term": "Prague", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3579.txt", 
+            "match_term": "Praia", 
+            "search_term": "Praia", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3586.txt", 
+            "match_term": "Pretoria", 
+            "search_term": "Pretoria", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3594.txt", 
+            "match_term": "Pristina", 
+            "search_term": "Pristina", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3640.txt", 
+            "match_term": "Pyongyang", 
+            "search_term": "Pyongyang", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3675.txt", 
+            "match_term": "Quito", 
+            "search_term": "Quito", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3677.txt", 
+            "match_term": "Rabat", 
+            "search_term": "Rabat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3765.txt", 
+            "match_term": "Riga", 
+            "search_term": "Riga", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3789.txt", 
+            "match_term": "Riyadh", 
+            "search_term": "Riyadh", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3817.txt", 
+            "match_term": "Rome", 
+            "search_term": "Rome", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3816.txt", 
+            "match_term": "Rome", 
+            "search_term": "Rome", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3814.txt", 
+            "match_term": "Rome", 
+            "search_term": "Rome", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3815.txt", 
+            "match_term": "Rome", 
+            "search_term": "Rome", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3818.txt", 
+            "match_term": "Rome", 
+            "search_term": "Rome", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3826.txt", 
+            "match_term": "Roseau", 
+            "search_term": "Roseau", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3825.txt", 
+            "match_term": "Roseau", 
+            "search_term": "Roseau", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3896.txt", 
+            "match_term": "Saipan", 
+            "search_term": "Saipan", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3957.txt", 
+            "match_term": "San Juan", 
+            "search_term": "San Juan", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3955.txt", 
+            "match_term": "San Juan", 
+            "search_term": "San Juan", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3956.txt", 
+            "match_term": "San Juan", 
+            "search_term": "San Juan", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3969.txt", 
+            "match_term": "San Salvador", 
+            "search_term": "San Salvador", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3967.txt", 
+            "match_term": "San Salvador", 
+            "search_term": "San Salvador", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3968.txt", 
+            "match_term": "San Salvador", 
+            "search_term": "San Salvador", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4013.txt", 
+            "match_term": "Santiago", 
+            "search_term": "Santiago", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4014.txt", 
+            "match_term": "Santiago", 
+            "search_term": "Santiago", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r208.txt", 
+            "match_term": "Santiago", 
+            "search_term": "Santiago", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4015.txt", 
+            "match_term": "Santiago", 
+            "search_term": "Santiago", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4017.txt", 
+            "match_term": "Santiago", 
+            "search_term": "Santiago", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4016.txt", 
+            "match_term": "Santiago", 
+            "search_term": "Santiago", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4021.txt", 
+            "match_term": "Santo Domingo", 
+            "search_term": "Santo Domingo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4019.txt", 
+            "match_term": "Santo Domingo", 
+            "search_term": "Santo Domingo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4020.txt", 
+            "match_term": "Santo Domingo", 
+            "search_term": "Santo Domingo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4044.txt", 
+            "match_term": "Sarajevo", 
+            "search_term": "Sarajevo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4095.txt", 
+            "match_term": "Seoul", 
+            "search_term": "Seoul", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4096.txt", 
+            "match_term": "Seoul", 
+            "search_term": "Seoul", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4177.txt", 
+            "match_term": "Singapore", 
+            "search_term": "Singapore", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4178.txt", 
+            "match_term": "Singapore", 
+            "search_term": "Singapore", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4204.txt", 
+            "match_term": "Skopje", 
+            "search_term": "Skopje", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4217.txt", 
+            "match_term": "Sofia", 
+            "search_term": "Sofia", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4273.txt", 
+            "match_term": "St. John's", 
+            "search_term": "St. John's", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4288.txt", 
+            "match_term": "Stanley", 
+            "search_term": "Stanley", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4307.txt", 
+            "match_term": "Stockholm", 
+            "search_term": "Stockholm", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4306.txt", 
+            "match_term": "Stockholm", 
+            "search_term": "Stockholm", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4308.txt", 
+            "match_term": "Stockholm", 
+            "search_term": "Stockholm", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4305.txt", 
+            "match_term": "Stockholm", 
+            "search_term": "Stockholm", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4329.txt", 
+            "match_term": "Sucre", 
+            "search_term": "Sucre", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r1033.txt", 
+            "match_term": "Sucre", 
+            "search_term": "Sucre", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r3675.txt", 
+            "match_term": "Sucre", 
+            "search_term": "Sucre", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4391.txt", 
+            "match_term": "Taipei", 
+            "search_term": "Taipei", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4392.txt", 
+            "match_term": "Taipei", 
+            "search_term": "Taipei", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4406.txt", 
+            "match_term": "Tallinn", 
+            "search_term": "Tallinn", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4442.txt", 
+            "match_term": "Tarawa", 
+            "search_term": "Tarawa", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4453.txt", 
+            "match_term": "Tashkent", 
+            "search_term": "Tashkent", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4461.txt", 
+            "match_term": "Tbilisi", 
+            "search_term": "Tbilisi", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4465.txt", 
+            "match_term": "Tegucigalpa", 
+            "search_term": "Tegucigalpa", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4467.txt", 
+            "match_term": "Tehran", 
+            "search_term": "Tehran", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4466.txt", 
+            "match_term": "Tehran", 
+            "search_term": "Tehran", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4504.txt", 
+            "match_term": "The Valley", 
+            "search_term": "The Valley", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4531.txt", 
+            "match_term": "Tirana", 
+            "search_term": "Tirana", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4552.txt", 
+            "match_term": "Tokyo", 
+            "search_term": "Tokyo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4550.txt", 
+            "match_term": "Tokyo", 
+            "search_term": "Tokyo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4551.txt", 
+            "match_term": "Tokyo", 
+            "search_term": "Tokyo", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4610.txt", 
+            "match_term": "Tripoli", 
+            "search_term": "Tripoli", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4611.txt", 
+            "match_term": "Tripoli", 
+            "search_term": "Tripoli", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4644.txt", 
+            "match_term": "Tunis", 
+            "search_term": "Tunis", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4679.txt", 
+            "match_term": "Ulaanbaatar", 
+            "search_term": "Ulaanbaatar", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4678.txt", 
+            "match_term": "Ulaanbaatar", 
+            "search_term": "Ulaanbaatar", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4774.txt", 
+            "match_term": "Victoria", 
+            "search_term": "Victoria", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4773.txt", 
+            "match_term": "Victoria", 
+            "search_term": "Victoria", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r902.txt", 
+            "match_term": "Victoria", 
+            "search_term": "Victoria", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4772.txt", 
+            "match_term": "Victoria", 
+            "search_term": "Victoria", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4776.txt", 
+            "match_term": "Victoria", 
+            "search_term": "Victoria", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4775.txt", 
+            "match_term": "Victoria", 
+            "search_term": "Victoria", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4781.txt", 
+            "match_term": "Vienna", 
+            "search_term": "Vienna", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4782.txt", 
+            "match_term": "Vientiane", 
+            "search_term": "Vientiane", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4795.txt", 
+            "match_term": "Vilnius", 
+            "search_term": "Vilnius", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4855.txt", 
+            "match_term": "Warsaw", 
+            "search_term": "Warsaw", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4854.txt", 
+            "match_term": "Warsaw", 
+            "search_term": "Warsaw", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4852.txt", 
+            "match_term": "Warsaw", 
+            "search_term": "Warsaw", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4853.txt", 
+            "match_term": "Warsaw", 
+            "search_term": "Warsaw", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4882.txt", 
+            "match_term": "Wellington", 
+            "search_term": "Wellington", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4927.txt", 
+            "match_term": "Willemstad", 
+            "search_term": "Willemstad", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4943.txt", 
+            "match_term": "Windhoek", 
+            "search_term": "Windhoek", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r4942.txt", 
+            "match_term": "Windhoek", 
+            "search_term": "Windhoek", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r5022.txt", 
+            "match_term": "Yerevan", 
+            "search_term": "Yerevan", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "list of world capitals - unicode", 
+            "match_path": "/vol_vol2/data/relevant/r5058.txt", 
+            "match_term": "Zagreb", 
+            "search_term": "Zagreb", 
+            "search_type": "keyword"
+        }
+    ], 
+    "source_program": "autopsy 4.20.0"
+}

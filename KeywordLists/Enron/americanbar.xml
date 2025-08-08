@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-09-04 22:55:21" modified="2023-09-04 22:55:32" name="americanbar">
+  <keyword literal="true" whole="true">Acquittal </keyword>
+  <keyword literal="true" whole="true">Adjudication </keyword>
+  <keyword literal="true" whole="true">Administrative agencies</keyword>
+  <keyword literal="true" whole="true">Admiralty law</keyword>
+  <keyword literal="true" whole="true">Advance directive</keyword>
+  <keyword literal="true" whole="true">Affidavit </keyword>
+  <keyword literal="true" whole="true">Alimony </keyword>
+  <keyword literal="true" whole="true">Alternative dispute resolution</keyword>
+  <keyword literal="true" whole="true">Amicus curiae</keyword>
+  <keyword literal="true" whole="true">Annulment </keyword>
+  <keyword literal="true" whole="true">Answer </keyword>
+  <keyword literal="true" whole="true">Appeal </keyword>
+  <keyword literal="true" whole="true">Appearance </keyword>
+  <keyword literal="true" whole="true">Appellate court</keyword>
+  <keyword literal="true" whole="true">Arbitration </keyword>
+  <keyword literal="true" whole="true">Arbitrator </keyword>
+  <keyword literal="true" whole="true">Arraignment </keyword>
+  <keyword literal="true" whole="true">Articles of incorporation</keyword>
+  <keyword literal="true" whole="true">Bankruptcy </keyword>
+  <keyword literal="true" whole="true">Bar </keyword>
+  <keyword literal="true" whole="true">Brief </keyword>
+  <keyword literal="true" whole="true">Burden of proof</keyword>
+  <keyword literal="true" whole="true">Canons of ethics</keyword>
+  <keyword literal="true" whole="true">Case law</keyword>
+  <keyword literal="true" whole="true">Cause of action</keyword>
+  <keyword literal="true" whole="true">Certiorari </keyword>
+  <keyword literal="true" whole="true">Civil law</keyword>
+  <keyword literal="true" whole="true">civil case</keyword>
+  <keyword literal="true" whole="true">Class action</keyword>
+  <keyword literal="true" whole="true">Client Security</keyword>
+  <keyword literal="true" whole="true">Protection Fund</keyword>
+  <keyword literal="true" whole="true">Closing </keyword>
+  <keyword literal="true" whole="true">Code of Professional Responsibility</keyword>
+  <keyword literal="true" whole="true">Common law</keyword>
+  <keyword literal="true" whole="true">Compensatory damages</keyword>
+  <keyword literal="true" whole="true">Complainant </keyword>
+  <keyword literal="true" whole="true">Complaint </keyword>
+  <keyword literal="true" whole="true">Conciliation </keyword>
+  <keyword literal="true" whole="true">Contempt of court</keyword>
+  <keyword literal="true" whole="true">Contingency fee</keyword>
+  <keyword literal="true" whole="true">Continuance </keyword>
+  <keyword literal="true" whole="true">Contract </keyword>
+  <keyword literal="true" whole="true">Copyright </keyword>
+  <keyword literal="true" whole="true">Corporation </keyword>
+  <keyword literal="true" whole="true">Counsel </keyword>
+  <keyword literal="true" whole="true">Counterclaim </keyword>
+  <keyword literal="true" whole="true">Court costs</keyword>
+  <keyword literal="true" whole="true">Court reporter</keyword>
+  <keyword literal="true" whole="true">Crime </keyword>
+  <keyword literal="true" whole="true">Criminal justice system</keyword>
+  <keyword literal="true" whole="true">Damages </keyword>
+  <keyword literal="true" whole="true">Debtor </keyword>
+  <keyword literal="true" whole="true">Deed </keyword>
+  <keyword literal="true" whole="true">Default </keyword>
+  <keyword literal="true" whole="true">Default judgment</keyword>
+  <keyword literal="true" whole="true">Defendant </keyword>
+  <keyword literal="true" whole="true">Deposition </keyword>
+  <keyword literal="true" whole="true">Disbarment </keyword>
+  <keyword literal="true" whole="true">Discipline Agency</keyword>
+  <keyword literal="true" whole="true">Discovery </keyword>
+  <keyword literal="true" whole="true">Dismissal </keyword>
+  <keyword literal="true" whole="true">Dismissal with prejudice</keyword>
+  <keyword literal="true" whole="true">Dismissal without prejudice</keyword>
+  <keyword literal="true" whole="true">Domicile </keyword>
+  <keyword literal="true" whole="true">Double jeopardy</keyword>
+  <keyword literal="true" whole="true">Due process</keyword>
+  <keyword literal="true" whole="true">Equal Protection Clause</keyword>
+  <keyword literal="true" whole="true">Evidence </keyword>
+  <keyword literal="true" whole="true">Expert witness</keyword>
+  <keyword literal="true" whole="true">Expungement </keyword>
+  <keyword literal="true" whole="true">Extradition </keyword>
+  <keyword literal="true" whole="true">Felony </keyword>
+  <keyword literal="true" whole="true">Fiduciary </keyword>
+  <keyword literal="true" whole="true">Fiduciary Duty</keyword>
+  <keyword literal="true" whole="true">Filing Fee</keyword>
+  <keyword literal="true" whole="true">Grand Jury</keyword>
+  <keyword literal="true" whole="true">Guardian </keyword>
+  <keyword literal="true" whole="true">Guardian ad litem</keyword>
+  <keyword literal="true" whole="true">Hearing </keyword>
+  <keyword literal="true" whole="true">Indigent </keyword>
+  <keyword literal="true" whole="true">Initial appearance</keyword>
+  <keyword literal="true" whole="true">Injunction </keyword>
+  <keyword literal="true" whole="true">Interrogatories </keyword>
+  <keyword literal="true" whole="true">Joint and several liability</keyword>
+  <keyword literal="true" whole="true">Judgment </keyword>
+  <keyword literal="true" whole="true">Jurisdiction </keyword>
+  <keyword literal="true" whole="true">Jury </keyword>
+  <keyword literal="true" whole="true">Legal aid</keyword>
+  <keyword literal="true" whole="true">Living will</keyword>
+  <keyword literal="true" whole="true">Magistrate </keyword>
+  <keyword literal="true" whole="true">Maintenance </keyword>
+  <keyword literal="true" whole="true">Mediation </keyword>
+  <keyword literal="true" whole="true">Misdemeanor </keyword>
+  <keyword literal="true" whole="true">Mistrial </keyword>
+  <keyword literal="true" whole="true">Moot </keyword>
+  <keyword literal="true" whole="true">Motion </keyword>
+  <keyword literal="true" whole="true">Motion to dismiss</keyword>
+  <keyword literal="true" whole="true">Negligence </keyword>
+  <keyword literal="true" whole="true">No-fault divorce</keyword>
+  <keyword literal="true" whole="true">Notary Public</keyword>
+  <keyword literal="true" whole="true">Oath </keyword>
+  <keyword literal="true" whole="true">Opinion </keyword>
+  <keyword literal="true" whole="true">Paralegal </keyword>
+  <keyword literal="true" whole="true">Petitioner </keyword>
+  <keyword literal="true" whole="true">Plaintiff </keyword>
+  <keyword literal="true" whole="true">Plea </keyword>
+  <keyword literal="true" whole="true">Pleadings </keyword>
+  <keyword literal="true" whole="true">Preliminary hearing</keyword>
+  <keyword literal="true" whole="true">Pro Bono</keyword>
+  <keyword literal="true" whole="true">Pro Se</keyword>
+  <keyword literal="true" whole="true">Probate </keyword>
+  <keyword literal="true" whole="true">Probate court</keyword>
+  <keyword literal="true" whole="true">Prosecutor </keyword>
+  <keyword literal="true" whole="true">Public defender</keyword>
+  <keyword literal="true" whole="true">Reasonable doubt</keyword>
+  <keyword literal="true" whole="true">Reply </keyword>
+  <keyword literal="true" whole="true">Respondent </keyword>
+  <keyword literal="true" whole="true">Retainer </keyword>
+  <keyword literal="true" whole="true">Rules of evidence</keyword>
+  <keyword literal="true" whole="true">Self help</keyword>
+  <keyword literal="true" whole="true">Standard of proof</keyword>
+  <keyword literal="true" whole="true">Standing </keyword>
+  <keyword literal="true" whole="true">Statute of limitations</keyword>
+  <keyword literal="true" whole="true">Stipulation </keyword>
+  <keyword literal="true" whole="true">Subpoena </keyword>
+  <keyword literal="true" whole="true">Summary judgment</keyword>
+  <keyword literal="true" whole="true">Summons </keyword>
+  <keyword literal="true" whole="true">Temporary restraining order</keyword>
+  <keyword literal="true" whole="true">Testimony </keyword>
+  <keyword literal="true" whole="true">Tort </keyword>
+  <keyword literal="true" whole="true">Trust </keyword>
+  <keyword literal="true" whole="true">Trustee </keyword>
+  <keyword literal="true" whole="true">Venue </keyword>
+  <keyword literal="true" whole="true">Verdict </keyword>
+  <keyword literal="true" whole="true">Will </keyword>
+  <keyword literal="true" whole="true">Witness </keyword>
+  <keyword literal="true" whole="true">Words and Phrases Legally Defined</keyword>
+  <keyword literal="true" whole="true">Worker's compensation</keyword>
+  <keyword literal="true" whole="true">Writ </keyword>
+  <keyword literal="true" whole="true">Writ of certiorari</keyword>
+  <keyword literal="true" whole="true">Writ of execution </keyword>
+  <keyword literal="true" whole="true">Writ of garnishment</keyword>
+  <keyword literal="true" whole="true">Wrongful discharge</keyword>
+ </keyword_list>
+</keyword_lists>

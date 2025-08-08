@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-09-04 22:54:55" modified="2023-09-04 22:55:12" name="justicegov">
+  <keyword literal="true" whole="true">acquittal </keyword>
+  <keyword literal="true" whole="true">affidavit </keyword>
+  <keyword literal="true" whole="true">affirmed </keyword>
+  <keyword literal="true" whole="true">Alford plea</keyword>
+  <keyword literal="true" whole="true">allegation </keyword>
+  <keyword literal="true" whole="true">answer </keyword>
+  <keyword literal="true" whole="true">appeal </keyword>
+  <keyword literal="true" whole="true">appellate </keyword>
+  <keyword literal="true" whole="true">arraignment </keyword>
+  <keyword literal="true" whole="true">arrest warrant </keyword>
+  <keyword literal="true" whole="true">bail </keyword>
+  <keyword literal="true" whole="true">bankruptcy </keyword>
+  <keyword literal="true" whole="true">bench trial</keyword>
+  <keyword literal="true" whole="true">beyond a reasonable doubt </keyword>
+  <keyword literal="true" whole="true">binding precedent</keyword>
+  <keyword literal="true" whole="true">brief </keyword>
+  <keyword literal="true" whole="true">capital offense</keyword>
+  <keyword literal="true" whole="true">case law</keyword>
+  <keyword literal="true" whole="true">chambers </keyword>
+  <keyword literal="true" whole="true">charge </keyword>
+  <keyword literal="true" whole="true">charge to the jury</keyword>
+  <keyword literal="true" whole="true">chief judge</keyword>
+  <keyword literal="true" whole="true">circumstantial evidence</keyword>
+  <keyword literal="true" whole="true">clerk of court </keyword>
+  <keyword literal="true" whole="true">common law </keyword>
+  <keyword literal="true" whole="true">complaint </keyword>
+  <keyword literal="true" whole="true">continuance </keyword>
+  <keyword literal="true" whole="true">contract </keyword>
+  <keyword literal="true" whole="true">conviction</keyword>
+  <keyword literal="true" whole="true">counsel </keyword>
+  <keyword literal="true" whole="true">counterclaim </keyword>
+  <keyword literal="true" whole="true">court </keyword>
+  <keyword literal="true" whole="true">court reporter</keyword>
+  <keyword literal="true" whole="true">cross-examine</keyword>
+  <keyword literal="true" whole="true">damages </keyword>
+  <keyword literal="true" whole="true">default judgment</keyword>
+  <keyword literal="true" whole="true">defendant </keyword>
+  <keyword literal="true" whole="true">defense table</keyword>
+  <keyword literal="true" whole="true">deposition </keyword>
+  <keyword literal="true" whole="true">direct evidence</keyword>
+  <keyword literal="true" whole="true">discovery </keyword>
+  <keyword literal="true" whole="true">docket </keyword>
+  <keyword literal="true" whole="true">en banc</keyword>
+  <keyword literal="true" whole="true">evidence </keyword>
+  <keyword literal="true" whole="true">exculpatory evidence</keyword>
+  <keyword literal="true" whole="true">exhibit </keyword>
+  <keyword literal="true" whole="true">federal question</keyword>
+  <keyword literal="true" whole="true">felony </keyword>
+  <keyword literal="true" whole="true">file </keyword>
+  <keyword literal="true" whole="true">grand jury</keyword>
+  <keyword literal="true" whole="true">habeas corpus</keyword>
+  <keyword literal="true" whole="true">hearsay </keyword>
+  <keyword literal="true" whole="true">impeachment </keyword>
+  <keyword literal="true" whole="true">inculpatory evidence</keyword>
+  <keyword literal="true" whole="true">indictment </keyword>
+  <keyword literal="true" whole="true">in forma pauperis</keyword>
+  <keyword literal="true" whole="true">information </keyword>
+  <keyword literal="true" whole="true">initial hearing</keyword>
+  <keyword literal="true" whole="true">injunction </keyword>
+  <keyword literal="true" whole="true">interrogatories </keyword>
+  <keyword literal="true" whole="true">interview </keyword>
+  <keyword literal="true" whole="true">issue </keyword>
+  <keyword literal="true" whole="true">judge </keyword>
+  <keyword literal="true" whole="true">judgment </keyword>
+  <keyword literal="true" whole="true">jurisdiction </keyword>
+  <keyword literal="true" whole="true">juror </keyword>
+  <keyword literal="true" whole="true">jury </keyword>
+  <keyword literal="true" whole="true">jury instructions</keyword>
+  <keyword literal="true" whole="true">jury pool</keyword>
+  <keyword literal="true" whole="true">jurisprudence</keyword>
+  <keyword literal="true" whole="true">lawsuit </keyword>
+  <keyword literal="true" whole="true">law clerk</keyword>
+  <keyword literal="true" whole="true">librarian </keyword>
+  <keyword literal="true" whole="true">litigation </keyword>
+  <keyword literal="true" whole="true">magistrate judges</keyword>
+  <keyword literal="true" whole="true">misdemeanor </keyword>
+  <keyword literal="true" whole="true">mistrial </keyword>
+  <keyword literal="true" whole="true">motion </keyword>
+  <keyword literal="true" whole="true">nolo contendere</keyword>
+  <keyword literal="true" whole="true">oath </keyword>
+  <keyword literal="true" whole="true">objection </keyword>
+  <keyword literal="true" whole="true">opinion </keyword>
+  <keyword literal="true" whole="true">oral argument</keyword>
+  <keyword literal="true" whole="true">panel </keyword>
+  <keyword literal="true" whole="true">parties </keyword>
+  <keyword literal="true" whole="true">petit jury</keyword>
+  <keyword literal="true" whole="true">plaintiff </keyword>
+  <keyword literal="true" whole="true">plea </keyword>
+  <keyword literal="true" whole="true">plea deal</keyword>
+  <keyword literal="true" whole="true">pleadings </keyword>
+  <keyword literal="true" whole="true">precedent </keyword>
+  <keyword literal="true" whole="true">procedure </keyword>
+  <keyword literal="true" whole="true">preliminary hearing</keyword>
+  <keyword literal="true" whole="true">pretrial conference </keyword>
+  <keyword literal="true" whole="true">probable cause</keyword>
+  <keyword literal="true" whole="true">probation </keyword>
+  <keyword literal="true" whole="true">probation officers</keyword>
+  <keyword literal="true" whole="true">pro se</keyword>
+  <keyword literal="true" whole="true">prosecute </keyword>
+  <keyword literal="true" whole="true">public defenders</keyword>
+  <keyword literal="true" whole="true">record </keyword>
+  <keyword literal="true" whole="true">remand </keyword>
+  <keyword literal="true" whole="true">reporter </keyword>
+  <keyword literal="true" whole="true">reverse </keyword>
+  <keyword literal="true" whole="true">search warrant </keyword>
+  <keyword literal="true" whole="true">sentence </keyword>
+  <keyword literal="true" whole="true">service of process</keyword>
+  <keyword literal="true" whole="true">settlement </keyword>
+  <keyword literal="true" whole="true">sequester </keyword>
+  <keyword literal="true" whole="true">sidebar </keyword>
+  <keyword literal="true" whole="true">statement </keyword>
+  <keyword literal="true" whole="true">statute </keyword>
+  <keyword literal="true" whole="true">statute of limitations</keyword>
+  <keyword literal="true" whole="true">subpoena </keyword>
+  <keyword literal="true" whole="true">subpoena duces tecum</keyword>
+  <keyword literal="true" whole="true">summary judgment </keyword>
+  <keyword literal="true" whole="true">temporary restraining order</keyword>
+  <keyword literal="true" whole="true">testify </keyword>
+  <keyword literal="true" whole="true">testimony </keyword>
+  <keyword literal="true" whole="true">tort </keyword>
+  <keyword literal="true" whole="true">transcript </keyword>
+  <keyword literal="true" whole="true">trial </keyword>
+  <keyword literal="true" whole="true">uphold </keyword>
+  <keyword literal="true" whole="true">U.S. Attorney</keyword>
+  <keyword literal="true" whole="true">U.S. Marshal</keyword>
+  <keyword literal="true" whole="true">venue </keyword>
+  <keyword literal="true" whole="true">verdict </keyword>
+  <keyword literal="true" whole="true">victim advocate</keyword>
+  <keyword literal="true" whole="true">voir dire </keyword>
+  <keyword literal="true" whole="true">warrant </keyword>
+  <keyword literal="true" whole="true">witness </keyword>
+  <keyword literal="true" whole="true">writ </keyword>
+  <keyword literal="true" whole="true">writ of certiorari</keyword>
+ </keyword_list>
+</keyword_lists>

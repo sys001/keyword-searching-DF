@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-09-01 17:12:52" modified="2023-09-01 17:12:59" name="chatgpt-wifi1">
+  <keyword literal="true" whole="true">Wi-Fi hacking</keyword>
+  <keyword literal="true" whole="true">Wi-Fi cracking</keyword>
+  <keyword literal="true" whole="true">Wireless network security</keyword>
+  <keyword literal="true" whole="true">WPA2 vulnerability</keyword>
+  <keyword literal="true" whole="true">WPA3 hacking</keyword>
+  <keyword literal="true" whole="true">Aircrack-ng</keyword>
+  <keyword literal="true" whole="true">Kali Linux Wi-Fi</keyword>
+  <keyword literal="true" whole="true">Wi-Fi Pineapple</keyword>
+  <keyword literal="true" whole="true">Wardriving</keyword>
+  <keyword literal="true" whole="true">Packet sniffing</keyword>
+  <keyword literal="true" whole="true">Wi-Fi deauthentication</keyword>
+  <keyword literal="true" whole="true">Rogue access points</keyword>
+  <keyword literal="true" whole="true">Evil twin attack</keyword>
+  <keyword literal="true" whole="true">Wireless password cracking</keyword>
+  <keyword literal="true" whole="true">Wi-Fi security tools</keyword>
+  <keyword literal="true" whole="true">Reaver</keyword>
+  <keyword literal="true" whole="true">Fern Wi-Fi Cracker</keyword>
+  <keyword literal="true" whole="true">AirSnort</keyword>
+  <keyword literal="true" whole="true">Cowpatty</keyword>
+  <keyword literal="true" whole="true">Wireshark Wi-Fi</keyword>
+  <keyword literal="true" whole="true">WEP cracking</keyword>
+  <keyword literal="true" whole="true">Wi-Fi jamming</keyword>
+  <keyword literal="true" whole="true">KRACK attack</keyword>
+  <keyword literal="true" whole="true">Wireless penetration testing</keyword>
+  <keyword literal="true" whole="true">Wi-Fi ethical hacking</keyword>
+ </keyword_list>
+</keyword_lists>

@@ -1,0 +1,378 @@
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..-installers-onecore_31bf3856ad364e35_10.0.19041.2905_none_6030ab975ad5cf80/NetSetupEngine.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_athw8x.inf_31bf3856ad364e35_10.0.19041.1_none_31783fb7c0c5cc3b/athw8x.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/ms.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/rtmpltfm.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/doomed/2722
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/dwritemin.dll
+/vol_vol6/Windows/System32/LogFiles/WMI/NetCore.etl
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..daptercim.resources_31bf3856ad364e35_10.0.19041.1_en-gb_ae6df22c310fbd04/NetAdapterCim.mfl
+/vol_vol6/Windows/INF/oem9.inf
+/vol_vol6/Windows/System32/wbem/en-GB/NetAdapterCim.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..2provider.resources_31bf3856ad364e35_10.0.19041.1_en-gb_c1b9dcd8ab14757d/NetEventPacketCapture.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-font-fms_31bf3856ad364e35_10.0.19041.1_none_08186d73880e7c3c/fms.dll
+/vol_vol6/Windows/System32/config/DRIVERS
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Windows/Caches/{3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x000000000000000f.db
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.16138.16099.4/json/i18n-tokenized-card/id/strings.json
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/dwritemin.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-analog-h2-hydrogenrt_31bf3856ad364e35_10.0.19041.2965_none_6a235e2f737c84ae/Hydrogen.dll
+/vol_vol6/Windows/System32/WDI/LogFiles/BootPerfDiagLogger.etl
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-pktmon-setup_31bf3856ad364e35_10.0.19041.2913_none_c861c154532c93ea/PktMon.exe
+/vol_vol6/Windows/WinSxS/amd64_dual_netrasa.inf_31bf3856ad364e35_10.0.19041.1_none_099c220a1124cba9/netrasa.inf
+/vol_vol6/Windows/WinSxS/wow64_presentationcore_31bf3856ad364e35_4.0.15805.0_none_d98c964acb93f681/PresentationCore.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-kernel32.resources_31bf3856ad364e35_10.0.19041.2788_en-us_b1ac5c51da9cbe8c/kernel32.dll.mui
+/vol_vol6/Windows/Fonts/YuGothR.ttc
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i..tocolimplementation_31bf3856ad364e35_11.0.19041.2193_none_ba74f1fe806de050/wininet.dll
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/OneDrive/21.220.1024.0005/sl/FileSync.LocalizedResources.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-sysinfo.resources_31bf3856ad364e35_10.0.19041.1_en-us_1a4868dfc14b331f/systeminfo.exe.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/id.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-gdi32full_31bf3856ad364e35_10.0.19041.2913_none_ca60dc4ddcb14295/gdi32full.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/ms.pak.DATA
+/vol_vol6/Windows/System32/DriverStore/FileRepository/mwlu97w8x64.inf_amd64_23bc3dc6d91eebdc/mwlu97w8x64.sys
+/vol_vol6/Windows/System32/en-US/iassdo.dll.mui
+/vol_vol6/Windows/System32/wininet.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-t..peech-en-gb-onecore_31bf3856ad364e35_10.0.19041.1_none_8f9da608c4cf5717/M2057Susan.SPEECHUX.NUS
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/WLanHC.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrasa.inf_amd64_1bdf7a435cb3580d/netrasa.inf
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.16138.16099.4/json/i18n-ec/id/strings.json
+/vol_vol6/Windows/System32/drivers/ndis.sys
+/vol_vol6/Windows/System32/winevt/Logs/Microsoft-Windows-Kernel-PnP%4Configuration.evtx
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlanu.inf_amd64_1815bafd14dc59f0/rtwlanu.sys
+/vol_vol6/$OrphanFiles/sv-SE/MpAsDesc.dll.mui
+/vol_vol6/Windows/SysWOW64/WlanHelper.exe
+/vol_vol6/Windows/WinSxS/x86_microsoft-windows-n..ork-setup-servicing_31bf3856ad364e35_10.0.19041.546_none_08233853b4979338/NetSetupEngine.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netmlx5.inf_amd64_101a408e6cb1d8f8/mlx5.sys
+/vol_vol6/Windows/System32/WDI/LogFiles/WdiContextLog.etl.001
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-ie-htmlrendering_31bf3856ad364e35_11.0.19041.2728_none_cb86bda700fbbff0/edgehtml.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/resources.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/icudtl.dat
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{80ac28a2-dc8b-47f9-b97d-95be8c61635a}/Apps.index
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netathrx.inf_amd64_220db23f5419ea8d/athwnx.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-d..rks-usermode-others_31bf3856ad364e35_10.0.19041.746_none_8ba7bf81a92f3555/WUDFx.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..-installers-onecore_31bf3856ad364e35_10.0.19041.1_none_a1ad7e1744c3f0bf/NetSetupEngine.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-rastapi_31bf3856ad364e35_10.0.19041.1865_none_8369351f2f3ee572/rastapi.dll
+/vol_vol6/Windows/System32/gatherNetworkInfo.vbs
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/SystemAppData/Helium/UserClasses.dat
+/vol_vol6/Windows/System32/Packet.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-m..xe-common.resources_31bf3856ad364e35_10.0.19041.1_en-gb_0a2ad5fa87431bbb/msinfo32.exe.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-directx-dxilconv_31bf3856ad364e35_10.0.19041.1_none_e6766cc6afd8bc54/dxilconv.dll
+/vol_vol6/Windows/System32/NpcapHelper.exe
+/vol_vol6/Windows/WinSxS/amd64_dual_net8185.inf_31bf3856ad364e35_10.0.19041.1_none_96b6a763fa59d2f2/RTL85n64.sys
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlanu.inf_31bf3856ad364e35_10.0.19041.1_none_aa6ceaf1b031d857/rtwlanu.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-power-sysprep_31bf3856ad364e35_10.0.19041.1_none_1f41d6d2e78c4779/posetup.dll
+/vol_vol6/Windows/SoftwareDistribution/Download/46d4a7b59c86b08d842be936b0aa6aecf9f10692
+/vol_vol6/Windows/System32/DriverStore/FileRepository/npcap.inf_amd64_3d364996cc8db294/NPCAP.inf
+/vol_vol6/Windows/SysWOW64/NetSetupEngine.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/npcap.inf_amd64_3d364996cc8db294/npcap.cat
+/vol_vol6/Windows/SysWOW64/Utilman.exe
+/vol_vol6/Windows/WinSxS/x86_microsoft-windows-s..-installers-onecore_31bf3856ad364e35_10.0.19041.1704_none_0427c4cda2680fa0/NetSetupEngine.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8192su64.inf_amd64_66c8bfc7a4b1feed/RTL8192su.sys
+/vol_vol6/$OrphanFiles/MSFT_MpPerformanceReport.Format.ps1xml
+/vol_vol6/Windows/WinSxS/amd64_dual_netathr10x.inf_31bf3856ad364e35_10.0.19041.1_none_045e44cd3c4b69ac/Qcamain10x64.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-font-fms_31bf3856ad364e35_10.0.19041.1_none_fdc3c32153adba41/fms.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane_13.inf_amd64_992f4f46e65f30d4/rtwlane_13.sys
+/vol_vol6/Windows/System32/config/SYSTEM
+/vol_vol6/Windows/System32/Hydrogen.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-gdi32full_31bf3856ad364e35_10.0.19041.2965_none_d4ba5a82110db685/gdi32full.dll
+/vol_vol6/Windows/System32/drivers/en-GB/tcpip.sys.mui
+/vol_vol6/Windows/Logs/NetSetup/service.0.etl
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_id.json
+/vol_vol6/Windows/SysWOW64/sysmon.ocx
+/vol_vol6/Windows/System32/wbem/en-GB/NetAdapterCim.mfl
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/msedge.dll
+/vol_vol6/Windows/appcompat/Programs/Amcache.hve
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i..escriptdetectiondll_31bf3856ad364e35_10.0.19041.1_none_d8dcbc6b36eca435/elslad.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/resources.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.Microsoft3DViewer_6.1908.2042.0_x64__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/lib/Makefile.inc
+/vol_vol6/Windows/WinSxS/amd64_microsoft-analog-h2-hydrogenrt_31bf3856ad364e35_10.0.19041.2965_none_6a235e2f737c84ae/HologramWorld.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/id.pak
+/vol_vol6/Windows/apppatch/sysmain.sdb
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{d408481b-6d85-4a11-9caa-1c62edc10260}/Apps.index
+/vol_vol6/Windows/System32/en-GB/WLanHC.dll.mui
+/vol_vol6/Windows/System32/WUDFx02000.dll
+/vol_vol6/Windows/System32/wbem/Repository/OBJECTS.DATA
+/vol_vol6/Windows/SysWOW64/DWrite.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-performancetoolsgui_31bf3856ad364e35_10.0.19041.746_none_7a0308f7ffc334d5/sysmon.ocx
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/entries/F6BC7CA344102C4754E17B817664BCB00E486E49
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-speechrecognizer-en-gb_31bf3856ad364e35_10.0.19041.1_none_6cf356948bd51cc5/AM032057.am
+/vol_vol6/Windows/System32/WDI/LogFiles/WdiContextLog.etl.002
+/vol_vol6/Windows/System32/en-US/kernel32.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_presentationcore_31bf3856ad364e35_4.0.15805.598_none_a792236cc548a4e4/PresentationCore.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_mwlu97w8x64.inf_31bf3856ad364e35_10.0.19041.1_none_dc31f8510c57f8b7/mwlu97w8x64.sys
+/vol_vol6/Recovery/WindowsRE/Winre.wim
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/SkypeApp.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/ms.pak
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_cs.json
+/vol_vol6/Windows/System32/WUDFx.dll
+/vol_vol6/Windows/System32/HologramWorld.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/resources.pak.DATA
+/vol_vol6/Windows/SysWOW64/NpcapHelper.exe
+/vol_vol6/Windows/SysWOW64/rastapi.dll
+/vol_vol6/Windows/WinSxS/x86_microsoft-windows-s..-installers-onecore_31bf3856ad364e35_10.0.19041.2905_none_04121013a2785e4a/NetSetupEngine.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..2provider.resources_31bf3856ad364e35_10.0.19041.1_en-gb_c1b9dcd8ab14757d/NetEventPacketCapture.mfl
+/vol_vol6/Windows/WinSxS/amd64_dual_wpdfs.inf_31bf3856ad364e35_10.0.19041.746_none_0ac2dc1ba03c02c7/WpdFs.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/Locales/ms.pak.DATA
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-directwrite_31bf3856ad364e35_10.0.19041.1566_none_51977d35e9197bab/DWrite.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Program Files/Common Files/Microsoft Shared/MSInfo/en-GB/msinfo32.exe.mui
+/vol_vol6/Windows/System32/winevt/Logs/Windows PowerShell.evtx
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-a..atibility-assistant_31bf3856ad364e35_10.0.19041.2788_none_a8581ee7d87f471f/pcasvc.dll
+/vol_vol6/$OrphanFiles/kok-IN/mpuxagent.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/icudtl.dat.DATA
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/icudtl.dat
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.16138.16099.4/json/wallet/wallet-pre-stable.json
+/vol_vol6/Program Files/Common Files/VMware/Drivers/video_wddm/Vista/vm3dgl.dll
+/vol_vol6/Windows/Fonts/YuGothM.ttc
+/vol_vol6/Users/catherine/AppData/Local/Temp/dd_vcredist_amd64_20230827212039.log
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-globalization_31bf3856ad364e35_10.0.19041.1865_none_8798b56894535d1b/Windows.Globalization.dll
+/vol_vol6/Windows/Globalization/ICU/icudtl.dat
+/vol_vol6/Program Files/WindowsApps/Microsoft.Office.OneNote_16001.12026.20112.0_x64__8wekyb3d8bbwe/office.odf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-w..sh-helper.resources_31bf3856ad364e35_10.0.19041.1202_en-us_35b195ccefaa4bb6/wlancfg.dll.mui
+/vol_vol6/$OrphanFiles/eu-ES/mpuxagent.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-ntdll_31bf3856ad364e35_10.0.19041.2788_none_cd687715b185f10b/ntdll.dll
+/vol_vol6/Windows/SystemApps/Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe/23/common/monaco-editor/min/vs/language/css/cssWorker.js
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..ork-setup-servicing_31bf3856ad364e35_10.0.19041.546_none_6441d3d76cf5046e/NetSetupEngine.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{10ace86e-5eb8-42e0-89e3-d36f018f43d3}/appsglobals.txt
+/vol_vol6/Windows/System32/wbem/Repository/INDEX.BTR
+/vol_vol6/Windows/SysWOW64/fms.dll
+/vol_vol6/Program Files/WindowsApps/microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe/office.odf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache133377841695358253.txt
+/vol_vol6/Windows/SysWOW64/elslad.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-directx-warp10_31bf3856ad364e35_10.0.19041.2788_none_5ef53cb80c04a376/d3d10warp.dll
+/vol_vol6/Windows/WinSxS/Backup/amd64_microsoft-windows-f..etype-lucidaconsole_31bf3856ad364e35_10.0.19041.1_none_b537ffbd18185517_lucon.ttf_76ed00f1
+/vol_vol6/ProgramData/Microsoft/Windows Defender/Platform/4.18.23070.1004-0/id-ID/mpuxagent.dll.mui
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-g..policy-admin-gpedit_31bf3856ad364e35_10.0.19041.2251_none_4d4c1df14e79e454/r/gpedit.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-directwrite-fontcache_31bf3856ad364e35_10.0.19041.2788_none_793ba71fc6a77a11/FntCache.dll
+/vol_vol6/Windows/System32/Winlangdb.dll
+/vol_vol6/Windows/System32/WlanHelper.exe
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/ms.pak
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/dwritemin.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/rtwlanu_oldic.inf_amd64_1a82423cc076e882/rtwlanu_oldIC.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/e2xw10x64.inf_amd64_04c2ae40613a06ff/e2xw10x64.inf
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/icudtl.dat.DATA
+/vol_vol6/$OrphanFiles/hu-HU/MpEvMsg.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane_13.inf_31bf3856ad364e35_10.0.19041.1_none_53b830f3b99b8540/rtwlane_13.sys
+/vol_vol6/Windows/WinSxS/amd64_dual_rtwlanu_oldic.inf_31bf3856ad364e35_10.0.19041.1_none_00317e0c4812d44c/rtwlanu_oldIC.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-directui_31bf3856ad364e35_10.0.19041.2965_none_2b70306ca3fffcb9/Windows.UI.Xaml.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/dwritemin.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/wpdmtp.inf_amd64_42b97498c7087292/WpdMtpDr.dll
+/vol_vol6/Windows/SysWOW64/Packet.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/drivers/en-GB/tcpip.sys.mui
+/vol_vol6/Windows/WinSxS/amd64_system.printing_31bf3856ad364e35_4.0.15805.0_none_255352c97eef99d1/System.Printing.dll
+/vol_vol6/Windows/SysWOW64/en-US/systeminfo.exe.mui
+/vol_vol6/Windows/System32/sppsvc.exe
+/vol_vol6/Windows/System32/elslad.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_net819xp.inf_31bf3856ad364e35_10.0.19041.1_none_1aa025fd91929f24/rtl819xp.sys
+/vol_vol6/Windows/System32/config/SYSTEM.LOG2
+/vol_vol6/Program Files/WindowsApps/Microsoft.MixedReality.Portal_2000.19081.1301.0_x64__8wekyb3d8bbwe/Microsoft.Graphics.Canvas.winmd
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-font-truetype-yugothic_31bf3856ad364e35_10.0.19041.1_none_8ede76e7b8c046ba/YuGothR.ttc
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/resources.pak
+/vol_vol6/Windows/System32/d3d10warp.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeUpdate/Download/{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062}/116.0.1938.62/MicrosoftEdge_X64_116.0.1938.62.exe
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{fe53ebb3-1df1-4e22-beb6-bc623b0a17ba}/0.0.filtertrie.intermediate.txt
+/vol_vol6/Windows/Speech/Engines/SR/en-GB/AM032057.am
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane.inf_31bf3856ad364e35_10.0.19041.1_none_d3bf9bafd133d367/rtwlane.sys
+/vol_vol6/Windows/System32/dxilconv.dll
+/vol_vol6/Windows/System32/en-GB/msinfo32.exe.mui
+/vol_vol6/Program Files/Common Files/microsoft shared/MSInfo/en-GB/msinfo32.exe.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-speechrecognizer-en-gb_31bf3856ad364e35_10.0.19041.1_none_6cf356948bd51cc5/l2057.ngr
+/vol_vol6/Windows/INF/netrasa.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-font-fms.resources_31bf3856ad364e35_10.0.19041.1_cs-cz_751f6042bf0e8082/fms.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Subresource Filter/Unindexed Rules/10.34.0.49/Filtering Rules
+/vol_vol6/Windows/WinSxS/x86_microsoft-windows-s..-installers-onecore_31bf3856ad364e35_10.0.19041.1_none_458ee2938c667f89/NetSetupEngine.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-sysinfo.resources_31bf3856ad364e35_10.0.19041.1_en-us_249d1331f5abf51a/systeminfo.exe.mui
+/vol_vol6/Windows/WinSxS/amd64_presentationcore_31bf3856ad364e35_4.0.15805.0_none_afbe4f310a496164/PresentationCore.dll
+/vol_vol6/Windows/System32/cs-CZ/fms.dll.mui
+/vol_vol6/Windows/INF/e2xw10x64.inf
+/vol_vol6/Users/catherine/AppData/Local/Temp/dd_vcredist_amd64_20230827212039_001_vcRuntimeAdditional_x64.log
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane01.inf_amd64_b02695ef070d7a42/rtwlane01.sys
+/vol_vol6/Windows/Prefetch/NPCAP-1.76.EXE-F222946F.pf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{80ac28a2-dc8b-47f9-b97d-95be8c61635a}/0.0.filtertrie.intermediate.txt
+/vol_vol6/Windows/System32/drivers/UMDF/IddCx.dll
+/vol_vol4/EFI/Microsoft/Boot/kd_02_15b3.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/icudtl.dat
+/vol_vol6/Windows/System32/Windows.Globalization.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-security-spp_31bf3856ad364e35_10.0.19041.2965_none_8edb9437d65cf02c/sppsvc.exe
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Windows/Caches/{3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x0000000000000010.db
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane.inf_amd64_20caba88bd7f0bb3/netrtwlane.inf
+/vol_vol6/Windows/Boot/EFI/kd_02_15b3.dll
+/vol_vol6/Windows/Speech/Engines/SR/en-GB/l2057.ngr
+/vol_vol6/Windows/System32/DriverStore/FileRepository/npcap.inf_amd64_3d364996cc8db294/npcap.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-tcpip-driver.resources_31bf3856ad364e35_10.0.19041.2673_en-gb_f61729947c75e145/tcpip.sys.mui
+/vol_vol6/Windows/System32/kd_02_15b3.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-utilman_31bf3856ad364e35_10.0.19041.746_none_eaf7a50dc46d5592/Utilman.exe
+/vol_vol6/Windows/WinSxS/wow64_system.printing_31bf3856ad364e35_4.0.15805.101_none_46ee65c4fb3fc998/System.Printing.dll
+/vol_vol6/$Extend/$Deleted/000300000001D3C3659CC644/1CT-rJutSkEgnGdSzmh94K7u7r4[1].css
+/vol_vol6/Windows/SysWOW64/ntdll.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/icudtl.dat
+/vol_vol6/Windows/System32/rastapi.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache133377841585412021.txt
+/vol_vol6/Windows/System32/en-US/wlancfg.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..ce_iassdo.resources_31bf3856ad364e35_10.0.19041.1_en-us_9e873818d84968c1/iassdo.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netl1c63x64.inf_amd64_4d6630ce07a4fb42/netl1c63x64.inf
+/vol_vol6/Program Files/WindowsApps/microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe/HxCalendarAppImm.exe
+/vol_vol6/$OrphanFiles/lb-LU/mpuxagent.dll.mui
+/vol_vol6/Windows/appcompat/appraiser/APPRAISER_TelemetryBaseline_CO21H2.bin
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-ntdll_31bf3856ad364e35_10.0.19041.2965_none_d7a5c553e5f86b57/ntdll.dll
+/vol_vol6/Windows/SysWOW64/wininet.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.MSPaint_6.1907.29027.0_x64__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net819xp.inf_amd64_ff7a5dd4f9b1ceba/rtl819xp.sys
+/vol_vol6/Program Files/WindowsApps/Mozilla.Firefox_116.0.3.0_x64__n80bbvh6b1yt2/VFS/ProgramFiles/Firefox Package Root/browser/omni.ja
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/OneDrive/21.220.1024.0005/id/FileSync.LocalizedResources.dll.mui
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/ResiliencyLinks/resources.pak.DATA
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane01.inf_31bf3856ad364e35_10.0.19041.1_none_ab35e8e757e4c442/rtwlane01.sys
+/vol_vol6/Program Files/WindowsApps/Mozilla.Firefox_116.0.3.0_x64__n80bbvh6b1yt2/VFS/ProgramFiles/Firefox Package Root/xul.dll
+/vol_vol6/Windows/WinSxS/wow64_presentationcore_31bf3856ad364e35_4.0.15805.598_none_d1606a8686933a01/PresentationCore.dll
+/vol_vol6/Windows/SysWOW64/gdi32full.dll
+/vol_vol6/$OrphanFiles/wallet/wallet-pre-stable.json
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/OneDrive/21.220.1024.0005/ms/FileSync.LocalizedResources.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.ZuneVideo_10.19071.19011.0_x64__8wekyb3d8bbwe/EntPlat.dll
+/vol_vol6/Windows/System32/fms.dll
+/vol_vol6/Windows/WinSxS/amd64_windows-senseclient-service_31bf3856ad364e35_10.0.19041.2965_none_1c9ef9cd449ec8bc/mce.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-languagesdb-onecore_31bf3856ad364e35_10.0.19041.1806_none_ea1ba65542a1ed49/Winlangdb.dll
+/vol_vol6/Windows/System32/config/SOFTWARE.LOG2
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_sk.json
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..sh-helper-extension_31bf3856ad364e35_10.0.19041.2193_none_2e3b2866b7109d63/gatherNetworkInfo.vbs
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-rastapi_31bf3856ad364e35_10.0.19041.1110_none_8e04ff5b636ae4fe/rastapi.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-hello-face_31bf3856ad364e35_10.0.19041.1889_none_75d376d2e80d0426/r/FaceRecognitionEngineAdapterResourcesSecure.dll
+/vol_vol6/Windows/System32/config/SYSTEM.LOG1
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..-installers-onecore_31bf3856ad364e35_10.0.19041.1704_none_604660515ac580d6/NetSetupEngine.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/resources.pak
+/vol_vol6/Windows/WinSxS/amd64_dual_netmlx5.inf_31bf3856ad364e35_10.0.19041.1_none_0a16e76965602fa0/mlx5.sys
+/vol_vol6/$OrphanFiles/i18n-notification-shared/id/strings.json
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/Locales/id.pak
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-b..ertransport-network_31bf3856ad364e35_10.0.19041.1949_none_672f36e93fc408e8/kd_02_15b3.dll
+/vol_vol6/Windows/WinSxS/wow64_system.printing_31bf3856ad364e35_4.0.15805.0_none_4f2199e3403a2eee/System.Printing.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_e2xw10x64.inf_31bf3856ad364e35_10.0.19041.1_none_1168ad3e03afd864/e2xw10x64.inf
+/vol_vol6/Windows/System32/Windows.UI.Xaml.dll
+/vol_vol6/aircrack-ng-1.7-win/src/Makefile.inc
+/vol_vol6/Windows/Microsoft.NET/assembly/GAC_32/PresentationCore/v4.0_4.0.0.0__31bf3856ad364e35/PresentationCore.dll
+/vol_vol6/Windows/System32/WDI/BootPerformanceDiagnostics_SystemData.bin
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8192se64.inf_amd64_167684f9283b4eca/rtl8192se.sys
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Subresource Filter/Indexed Rules/36/10.34.0.49/Ruleset Data
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.16138.16099.4/json/wallet/wallet-stable.json
+/vol_vol6/Windows/System32/en-US/systeminfo.exe.mui
+/vol_vol6/Windows/WinSxS/amd64_dual_net8192su64.inf_31bf3856ad364e35_10.0.19041.1_none_f6ae9a69b6662cfe/RTL8192su.sys
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/Microsoft.Graphics.Canvas.winmd
+/vol_vol6/Windows/appcompat/appraiser/APPRAISER_TelemetryBaseline_NI22H2.bin
+/vol_vol6/Windows/System32/gdi32full.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/net8185.inf_amd64_7a30f5a9441cd55b/RTL85n64.sys
+/vol_vol6/Windows/System32/config/DRIVERS.LOG1
+/vol_vol6/Windows/Microsoft.NET/Framework/v4.0.30319/WPF/PresentationCore.dll
+/vol_vol6/Windows/System32/DriverStore/FileRepository/vm3d.inf_amd64_0a6c97809ad04d15/vm3dgl.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-ntdll.resources_31bf3856ad364e35_10.0.19041.2788_en-us_dd264be9117a388e/ntdll.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/AC/AppCache/0MZ3HPWY/7/D1wTwM_w8e-hOZDyuRlJrK1E204.br[1].js
+/vol_vol6/Windows/WinSxS/amd64_system.printing_31bf3856ad364e35_4.0.15805.101_none_1d201eab39f5347b/System.Printing.dll
+/vol_vol6/Windows/SysWOW64/vm3dgl.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane01.inf_31bf3856ad364e35_10.0.19041.1_none_ab35e8e757e4c442/netrtwlane01.inf
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.16138.16099.4/json/i18n-notification-shared/id/strings.json
+/vol_vol6/Windows/System32/DriverStore/FileRepository/wpdfs.inf_amd64_1183fd0f13045f2e/WpdFs.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-directwrite_31bf3856ad364e35_10.0.19041.1566_none_4742d2e3b4b8b9b0/DWrite.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/doomed/19422
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/id.pak
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane.inf_amd64_20caba88bd7f0bb3/rtwlane.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-w..lperclass.resources_31bf3856ad364e35_10.0.19041.1_en-gb_dd3f542311b29ecc/WLanHC.dll.mui
+/vol_vol6/$OrphanFiles/wallet/wallet-stable.json
+/vol_vol6/Windows/System32/wbem/en-GB/NetEventPacketCapture.dll.mui
+/vol_vol6/Windows/System32/DriverStore/FileRepository/athw8x.inf_amd64_55014eff4ceefbdf/athw8x.sys
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-globalization_31bf3856ad364e35_10.0.19041.1865_none_91ed5fbac8b41f16/Windows.Globalization.dll
+/vol_vol6/Windows/System32/ntdll.dll
+/vol_vol6/Windows/System32/en-US/ntdll.dll.mui
+/vol_vol6/Program Files/WindowsApps/Microsoft.ZuneMusic_10.19071.19011.0_x64__8wekyb3d8bbwe/EntPlat.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.WinJS.1.0_1.0.9200.20789_neutral__8wekyb3d8bbwe/resources.pri
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-tcpip-driver_31bf3856ad364e35_10.0.19041.2913_none_4c6dee8f6c9ce568/tcpip.sys
+/vol_vol6/Windows/INF/setupapi.dev.log
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i..-unicode-components_31bf3856ad364e35_10.0.19041.1023_none_8d723d8c46de7ebb/icudtl.dat
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-m..oolsclient.appxmain_31bf3856ad364e35_10.0.19041.423_none_9de80b9d881a1ebd/cssWorker.js
+/vol_vol6/Windows/SysWOW64/Winlangdb.dll
+/vol_vol6/Windows/SysWOW64/en-US/ntdll.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-userexperience-desktop_31bf3856ad364e35_10.0.19041.2913_none_fb268c537eb5989b/CBS/resources.pri
+/vol_vol6/Windows/WinSxS/amd64_dual_wpdmtp.inf_31bf3856ad364e35_10.0.19041.746_none_8478465c1c781ea5/WpdMtpDr.dll
+/vol_vol6/Windows/System32/config/SOFTWARE.LOG1
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i..ngversion-windows64_31bf3856ad364e35_10.0.19041.1741_none_6cd062432398eec0/n/SortWindows64.nls
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/Locales/ms.pak
+/vol_vol6/Windows/Microsoft.NET/Framework/v4.0.30319/WPF/System.Printing.dll
+/vol_vol6/Windows/System32/winevt/Logs/System.evtx
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{d408481b-6d85-4a11-9caa-1c62edc10260}/0.0.filtertrie.intermediate.txt
+/vol_vol6/Windows/System32/wbem/en-GB/NetEventPacketCapture.mfl
+/vol_vol6/Windows/INF/oem9.PNF
+/vol_vol6/Windows/System32/winevt/Logs/Microsoft-Windows-Shell-Core%4Operational.evtx
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-ntdll.resources_31bf3856ad364e35_10.0.19041.2788_en-us_e77af63b45dafa89/ntdll.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-f..type-yugothicmedium_31bf3856ad364e35_10.0.19041.1_none_1a55062504172381/YuGothM.ttc
+/vol_vol6/Program Files (x86)/Microsoft/EdgeUpdate/Install/{7248115B-C1F1-44D5-B7BD-64A4B71394DA}/MicrosoftEdge_X64_116.0.1938.62.exe
+/vol_vol6/Windows/System32/CatRoot/{F750E6C3-38EE-11D1-85E5-00C04FC295EE}/oem9.cat
+/vol_vol6/Windows/assembly/NativeImages_v4.0.30319_64/PresentationCore/31f5b84979fed1deaa969a6ecfa86448/PresentationCore.ni.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/ResiliencyLinks/Locales/id.pak.DATA
+/vol_vol6/Windows/System32/PktMon.exe
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-a..ence-mitigations-c1_31bf3856ad364e35_10.0.19041.2846_none_80a52d79a7b03415/sysmain.sdb
+/vol_vol6/Windows/INF/netl1c63x64.inf
+/vol_vol6/Windows/System32/winevt/Logs/Security.evtx
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-msinfo32-exe.resources_31bf3856ad364e35_10.0.19041.1_en-gb_05230e3ec5b136eb/msinfo32.exe.mui
+/vol_vol6/ProgramData/Microsoft/Windows/AppRepository/StateRepository-Deployment.srd
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netathr10x.inf_amd64_2691c4f95b80eb3b/Qcamain10x64.sys
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{fe53ebb3-1df1-4e22-beb6-bc623b0a17ba}/Apps.index
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..voicecommon-onecore_31bf3856ad364e35_10.0.19041.746_none_133ac2bb3e537369/MSTTSLocEnUS.dat
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-i..lays-classextension_31bf3856ad364e35_10.0.19041.2075_none_e9ecda4d2617746f/IddCx.dll
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/msedge.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-vwifi_31bf3856ad364e35_10.0.19041.1202_none_d454db0c78bb56d4/vwififlt.sys
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlane01.inf_amd64_b02695ef070d7a42/netrtwlane01.inf
+/vol_vol6/Windows/Microsoft.NET/Framework64/v4.0.30319/WPF/PresentationCore.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-languagesdb-onecore_31bf3856ad364e35_10.0.19041.1806_none_dfc6fc030e412b4e/Winlangdb.dll
+/vol_vol6/Windows/Microsoft.NET/assembly/GAC_64/System.Printing/v4.0_4.0.0.0__31bf3856ad364e35/System.Printing.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlans.inf_31bf3856ad364e35_10.0.19041.1_none_4f974109745217b9/rtwlans.sys
+/vol_vol6/Windows/System32/winevt/Logs/Microsoft-Windows-Ntfs%4Operational.evtx
+/vol_vol6/Windows/System32/FntCache.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_net8192se64.inf_31bf3856ad364e35_10.0.19041.1_none_c4ca59da8d54596e/rtl8192se.sys
+/vol_vol6/Program Files (x86)/Microsoft/EdgeCore/116.0.1938.62/msedge.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netrtwlane.inf_31bf3856ad364e35_10.0.19041.1_none_d3bf9bafd133d367/netrtwlane.inf
+/vol_vol6/Windows/System32/pcasvc.dll
+/vol_vol6/Windows/INF/netrtwlane01.inf
+/vol_vol6/Windows/System32/posetup.dll
+/vol_vol6/Windows/System32/Tasks/npcapwatchdog
+/vol_vol6/Windows/assembly/NativeImages_v4.0.30319_32/PresentationCore/718d2dc7afa96fe952517187ae3aea63/PresentationCore.ni.dll
+/vol_vol6/Windows/System32/sysmon.ocx
+/vol_vol6/Windows/INF/netrtwlane.inf
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/SystemAppData/Helium/UserClasses.dat.LOG1
+/vol_vol6/Windows/System32/WDI/{86432a0b-3c7d-4ddf-a89c-172faa90485d}/{53fdc0bc-d687-4885-a170-a3b90531275c}/snapshot.etl
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.16138.16099.4/json/i18n-hub/id/strings.json
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-wdf-usermodelibrary_31bf3856ad364e35_10.0.19041.1151_none_cdb97472a02fc3c1/WUDFx02000.dll
+/vol_vol6/Windows/System32/NetSetupEngine.dll
+/vol_vol6/Windows/Microsoft.NET/assembly/GAC_32/System.Printing/v4.0_4.0.0.0__31bf3856ad364e35/System.Printing.dll
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/AC/AppCache/0MZ3HPWY/2/D1wTwM_w8e-hOZDyuRlJrK1E204.br[1].js
+/vol_vol6/Program Files/WindowsApps/Mozilla.Firefox_116.0.3.0_x64__n80bbvh6b1yt2/VFS/ProgramFiles/Firefox Package Root/omni.ja
+/vol_vol6/Windows/System32/DriverStore/FileRepository/netrtwlans.inf_amd64_97cd1a72c2a7829c/rtwlans.sys
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-ndis-minwin_31bf3856ad364e35_10.0.19041.1387_none_ce126b9add43ca26/ndis.sys
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_ms.json
+/vol_vol6/Users/catherine/AppData/Local/Temp/dd_vcredist_amd64_20230827212039_000_vcRuntimeMinimum_x64.log
+/vol_vol6/Windows/WinSxS/amd64_dual_netl1c63x64.inf_31bf3856ad364e35_10.0.19041.1_none_4f57631eed0b8c03/netl1c63x64.inf
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-userexperience-desktop_31bf3856ad364e35_10.0.19041.2913_none_fb268c537eb5989b/n/CBS/TextInput.dll
+/vol_vol6/Windows/WinSxS/amd64_dual_netathrx.inf_31bf3856ad364e35_10.0.19041.1_none_aca2c01a764c25fb/athwnx.sys
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{10ace86e-5eb8-42e0-89e3-d36f018f43d3}/appsconversions.txt
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-i..escriptdetectiondll_31bf3856ad364e35_10.0.19041.1_none_e33166bd6b4d6630/elslad.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c/resources/strings/LocalizedStrings_sl.json
+/vol_vol6/Windows/System32/edgehtml.dll
+/vol_vol6/Windows/Speech_OneCore/Engines/TTS/en-US/MSTTSLocEnUS.dat
+/vol_vol6/Windows/Speech_OneCore/Engines/TTS/en-GB/M2057Susan.SPEECHUX.NUS
+/vol_vol6/ProgramData/Microsoft/Search/Data/Applications/Windows/edb0000C.jtx
+/vol_vol6/Windows/appcompat/appraiser/APPRAISER_TelemetryBaseline_UNV.bin
+/vol_vol6/Windows/System32/LogFiles/Scm/SCM.EVM.3
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-i..tocolimplementation_31bf3856ad364e35_11.0.19041.2193_none_c4c99c50b4cea24b/wininet.dll
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-n..daptercim.resources_31bf3856ad364e35_10.0.19041.1_en-gb_ae6df22c310fbd04/NetAdapterCim.dll.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-s..sktop.appxmain.root_31bf3856ad364e35_10.0.19041.2913_none_3db0677b33658ce0/n/wv2winrt.dll
+/vol_vol6/Windows/SystemApps/MicrosoftWindows.Client.CBS_cw5n1h2txyewy/resources.pri
+/vol_vol6/Program Files (x86)/Microsoft/EdgeWebView/Application/115.0.1901.203/Locales/id.pak
+/vol_vol6/$OrphanFiles/i18n-tokenized-card/id/strings.json
+/vol_vol6/Windows/System32/DWrite.dll
+/vol_vol6/Windows/System32/wpcap.dll
+/vol_vol6/Windows/Microsoft.NET/assembly/GAC_64/PresentationCore/v4.0_4.0.0.0__31bf3856ad364e35/PresentationCore.dll
+/vol_vol6/Program Files/WindowsApps/Microsoft.LanguageExperiencePacken-GB_19041.49.161.0_neutral__8wekyb3d8bbwe/Windows/System32/en-GB/msinfo32.exe.mui
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-kernelbase.resources_31bf3856ad364e35_10.0.19041.2788_en-us_ecae53836be0738a/KernelBase.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{10ace86e-5eb8-42e0-89e3-d36f018f43d3}/appssynonyms.txt
+/vol_vol6/Windows/SysWOW64/wpcap.dll
+/vol_vol6/Windows/WinSxS/wow64_microsoft-windows-performancetoolsgui_31bf3856ad364e35_10.0.19041.746_none_8457b34a3423f6d0/sysmon.ocx
+/vol_vol6/Windows/Microsoft.NET/Framework64/v4.0.30319/WPF/System.Printing.dll
+/vol_vol6/Windows/System32/drivers/vwififlt.sys
+/vol_vol6/Windows/System32/en-US/KernelBase.dll.mui
+/vol_vol6/ProgramData/Microsoft/Windows Defender/Platform/4.18.23070.1004-0/id-ID/MpAsDesc.dll.mui
+/vol_vol6/Windows/System32/drivers/tcpip.sys
+/vol_vol6/Windows/SysWOW64/Windows.Globalization.dll
+/vol_vol6/Program Files (x86)/Microsoft/Edge/Application/116.0.1938.62/msedge.dll

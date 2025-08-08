@@ -1,0 +1,125 @@
+{
+    "creation": "2023-09-07T23:17:29.554000", 
+    "keyword_hits": [
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/include/aircrack-ng/aircrack-ng.h", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/aircrack-ng-1.7-win/ChangeLog", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/aircrack-ng-1.7-win/include/aircrack-ng/third-party/hashcat.h", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/manpages/aircrack-ng.1.in", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/ChangeLog", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/$Unalloc/Unalloc_313552_378814464_14548226048", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/aircrack-ng-1.7-win/include/aircrack-ng/aircrack-ng.h", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/aircrack-ng-1.7-win/README", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/aircrack-ng-1.7-win/bin/aircrack-ng.exe", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/README", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/aircrack-ng-1.7-win/patches/wpe/hostapd-wpe/hostapd-2.10-wpe.patch", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/pagefile.sys", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/aircrack-ng-1.7-win/manpages/aircrack-ng.1.in", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/include/aircrack-ng/third-party/hashcat.h", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/patches/wpe/hostapd-wpe/hostapd-2.10-wpe.patch", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/aircrack-ng-1.7-win/src/aircrack-ng/aircrack-ng.c", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol6/Users/catherine/Downloads/aircrack-ng-1.7/src/aircrack-ng/aircrack-ng.c", 
+            "match_term": "hashcat", 
+            "search_term": "hashcat", 
+            "search_type": "keyword"
+        }
+    ], 
+    "source_program": "autopsy 4.20.0"
+}

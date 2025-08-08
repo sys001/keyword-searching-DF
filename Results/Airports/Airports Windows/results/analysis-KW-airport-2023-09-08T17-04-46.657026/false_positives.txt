@@ -1,0 +1,36 @@
+/vol_vol3/Windows/Speech_OneCore/Engines/TTS/en-GB/MSTTSLocEnGB.dat
+/vol_vol3/Windows/SystemApps/Microsoft.Windows.SecHealthUI_cw5n1h2txyewy/pris/resources.en-GB.pri
+/vol_vol3/Program Files (x86)/Microsoft/Edge/Application/115.0.1901.203/ResiliencyLinks/Locales/fil.pak.DATA
+/vol_vol3/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.15993.15955.12/wallet.bundle.js
+/vol_vol3/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Edge Wallet/115.15993.15955.12/json/wallet/wallet-checkout-eligible-sites.json
+/vol_vol3/Program Files/WindowsApps/Microsoft.MicrosoftSolitaireCollection_4.4.8204.0_x64__8wekyb3d8bbwe/Solitaire.exe
+/vol_vol3/Windows/Speech_OneCore/Engines/TTS/en-US/MSTTSLocEnUS.dat
+/vol_vol3/Windows/WinSxS/amd64_microsoft-windows-speechrecognizer-en-gb_31bf3856ad364e35_10.0.19041.1_none_6cf356948bd51cc5/tn2057.bin
+/vol_vol3/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/msedge.dll
+/vol_vol3/Windows/WinSxS/amd64_microsoft-onecore-directx-database-fod_31bf3856ad364e35_10.0.19041.1_none_b7ea10a2240a7af8/DirectXApps_FOD.sdb
+/vol_vol3/Windows/WinSxS/amd64_microsoft-windows-s...appxmain.resources_31bf3856ad364e35_10.0.19041.1503_en-gb_da60d0ee1166cfe6/resources.en-GB.pri
+/vol_vol3/Windows/SystemResources/Microsoft.Windows.SecHealthUI/pris/Microsoft.Windows.SecHealthUI.en-GB.pri
+/vol_vol3/Windows/WinSxS/amd64_microsoft-windows-directwrite_31bf3856ad364e35_10.0.19041.1566_none_4742d2e3b4b8b9b0/DWrite.dll
+/vol_vol3/Windows/System32/DWrite.dll
+/vol_vol3/Windows/WinSxS/amd64_microsoft-windows-s...appxmain.resources_31bf3856ad364e35_10.0.19041.1503_en-gb_da60d0ee1166cfe6/Microsoft.Windows.SecHealthUI.en-GB.pri
+/vol_vol3/Windows/SysWOW64/Windows.UI.Xaml.Maps.dll
+/vol_vol3/Program Files/WindowsApps/Microsoft.WindowsMaps_5.1906.1972.0_x64__8wekyb3d8bbwe/Maps.dll
+/vol_vol3/Windows/SysWOW64/wininet.dll
+/vol_vol3/Windows/WinSxS/amd64_microsoft-windows-t..peech-en-gb-onecore_31bf3856ad364e35_10.0.19041.1_none_8f9da608c4cf5717/MSTTSLocEnGB.dat
+/vol_vol3/Windows/Speech/Engines/SR/en-GB/tn2057.bin
+/vol_vol3/Program Files (x86)/Microsoft/Edge/Application/115.0.1901.203/msedge.dll
+/vol_vol3/Program Files (x86)/Microsoft/Edge/Application/115.0.1901.203/Locales/fil.pak
+/vol_vol3/Users/catherine/AppData/Local/Microsoft/OneDrive/21.220.1024.0005/tzdata/northamerica
+/vol_vol3/Program Files (x86)/Microsoft/EdgeCore/115.0.1901.203/Locales/fil.pak
+/vol_vol3/Users/catherine/AppData/Local/Microsoft/Edge/User Data/SafetyTips/2983/safety_tips.pb
+/vol_vol3/Windows/WinSxS/amd64_microsoft-windows-s..voicecommon-onecore_31bf3856ad364e35_10.0.19041.746_none_133ac2bb3e537369/MSTTSLocEnUS.dat
+/vol_vol3/Windows/WinSxS/amd64_microsoft-windows-i..tocolimplementation_31bf3856ad364e35_11.0.19041.2193_none_ba74f1fe806de050/wininet.dll
+/vol_vol3/Windows/WinSxS/wow64_microsoft-windows-directwrite_31bf3856ad364e35_10.0.19041.1566_none_51977d35e9197bab/DWrite.dll
+/vol_vol3/Users/catherine/AppData/Local/Microsoft/Edge/User Data/Subresource Filter/Unindexed Rules/10.34.0.48/Part-IT
+/vol_vol3/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{82bd480b-e5da-478a-93c3-a6bff4fcdd98}/appsglobals.txt
+/vol_vol3/Users/catherine/AppData/Local/Microsoft/OneDrive/21.220.1024.0005/tzdata/southamerica
+/vol_vol3/Windows/WinSxS/wow64_microsoft-windows-ui-xaml-maps_31bf3856ad364e35_10.0.19041.1023_none_167a0dedb3a3167c/Windows.UI.Xaml.Maps.dll
+/vol_vol3/Windows/SysWOW64/DWrite.dll
+/vol_vol3/Windows/System32/wininet.dll
+/vol_vol3/Windows/apppatch/DirectXApps_FOD.sdb
+/vol_vol3/Windows/WinSxS/wow64_microsoft-windows-i..tocolimplementation_31bf3856ad364e35_11.0.19041.2193_none_c4c99c50b4cea24b/wininet.dll

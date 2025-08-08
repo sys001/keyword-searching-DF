@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-09-06 23:58:25" modified="2023-09-06 23:58:30" name="enron exp1">
+  <keyword literal="true" whole="true">arbitration</keyword>
+  <keyword literal="true" whole="true">counsel</keyword>
+  <keyword literal="true" whole="true">litigation</keyword>
+  <keyword literal="true" whole="true">pursuant</keyword>
+  <keyword literal="true" whole="true">subpoena</keyword>
+  <keyword literal="true" whole="true">witness</keyword>
+  <keyword literal="true" whole="true">affidavit</keyword>
+  <keyword literal="true" whole="true">counterclaim</keyword>
+  <keyword literal="true" whole="true">exhibit</keyword>
+  <keyword literal="true" whole="true">court</keyword>
+  <keyword literal="true" whole="true">Attorney-Client</keyword>
+  <keyword literal="true" whole="true">damages</keyword>
+  <keyword literal="true" whole="true">discovery</keyword>
+  <keyword literal="true" whole="true">Lawyer</keyword>
+  <keyword literal="true" whole="true">Liability</keyword>
+  <keyword literal="true" whole="true">motion</keyword>
+ </keyword_list>
+</keyword_lists>

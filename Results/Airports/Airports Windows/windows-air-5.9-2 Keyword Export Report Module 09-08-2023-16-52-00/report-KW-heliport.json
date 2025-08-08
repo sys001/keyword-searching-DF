@@ -1,0 +1,41 @@
+{
+    "creation": "2023-09-08T17:01:14.232000", 
+    "keyword_hits": [
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol3/Users/catherine/Documents/data/r4818.txt", 
+            "match_term": "heliport", 
+            "search_term": "heliport", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol3/Users/catherine/Documents/data/r790.txt", 
+            "match_term": "heliport", 
+            "search_term": "heliport", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol3/Users/catherine/Documents/data/r100.txt", 
+            "match_term": "heliport", 
+            "search_term": "heliport", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol3/Users/catherine/Documents/data/r2893.txt", 
+            "match_term": "heliport", 
+            "search_term": "heliport", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol3/Users/catherine/Documents/data/r3111.txt", 
+            "match_term": "heliport", 
+            "search_term": "heliport", 
+            "search_type": "keyword"
+        }
+    ], 
+    "source_program": "autopsy 4.20.0"
+}

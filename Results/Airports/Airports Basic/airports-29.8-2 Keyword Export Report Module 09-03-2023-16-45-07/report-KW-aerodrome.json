@@ -1,0 +1,55 @@
+{
+    "creation": "2023-09-03T16:45:46.396000", 
+    "keyword_hits": [
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol2/data/relevant/r757.txt", 
+            "match_term": "aerodrome", 
+            "search_term": "aerodrome", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol2/data/relevant/r3731.txt", 
+            "match_term": "aerodrome", 
+            "search_term": "aerodrome", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol2/data/relevant/r4825.txt", 
+            "match_term": "aerodrome", 
+            "search_term": "aerodrome", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol2/data/relevant/r2520.txt", 
+            "match_term": "aerodrome", 
+            "search_term": "aerodrome", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol2/data/relevant/r1382.txt", 
+            "match_term": "aerodrome", 
+            "search_term": "aerodrome", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol2/data/relevant/r1381.txt", 
+            "match_term": "aerodrome", 
+            "search_term": "aerodrome", 
+            "search_type": "keyword"
+        }, 
+        {
+            "keyword_list_name": "", 
+            "match_path": "/vol_vol2/data/relevant/r903.txt", 
+            "match_term": "aerodrome", 
+            "search_term": "aerodrome", 
+            "search_type": "keyword"
+        }
+    ], 
+    "source_program": "autopsy 4.20.0"
+}

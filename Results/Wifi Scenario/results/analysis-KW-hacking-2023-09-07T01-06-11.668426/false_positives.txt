@@ -1,0 +1,36 @@
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{fe53ebb3-1df1-4e22-beb6-bc623b0a17ba}/0.0.filtertrie.intermediate.txt
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-a..ence-mitigations-c1_31bf3856ad364e35_10.0.19041.2846_none_80a52d79a7b03415/sysmain.sdb
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Roaming/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/sessionstore.jsonlz4
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/doomed/19422
+/vol_vol6/Windows/System32/smartscreen.exe
+/vol_vol6/ProgramData/Microsoft/Windows/AppRepository/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6.xml
+/vol_vol6/Windows/System32/config/SYSTEM.LOG2
+/vol_vol6/Users/catherine/AppData/Local/Packages/Mozilla.Firefox_n80bbvh6b1yt2/LocalCache/Local/Mozilla/Firefox/Profiles/lu6ejwc6.default-release/cache2/doomed/2722
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy/TempState/ShareUnifiedTileModelCache.dat
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/00771ac4-e8fd-4b21-9656-bbc20ed78f07
+/vol_vol6/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/af00603e-9d59-45b5-afa3-3d5ba991c469
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache133377841585412021.txt
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/TempState/CortanaUnifiedTileModelCache.dat
+/vol_vol6/ProgramData/Microsoft/Windows/AppRepository/StateRepository-Machine.srd
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/35a871d4-4338-4352-a33c-a1b7f1fd8fcd
+/vol_vol6/Windows/apppatch/sysmain.sdb
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/bd916297-dd66-44ce-ba9b-8fd5806279fa
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{d408481b-6d85-4a11-9caa-1c62edc10260}/0.0.filtertrie.intermediate.txt
+/vol_vol6/Windows/System32/winevt/Logs/Microsoft-Windows-Store%4Operational.evtx
+/vol_vol6/Program Files/WindowsApps/Mozilla.Firefox_116.0.3.0_x64__n80bbvh6b1yt2/VFS/ProgramFiles/Firefox Package Root/omni.ja
+/vol_vol6/Windows/System32/config/systemprofile/AppData/Local/Microsoft/InstallService/{14BE79C6-6474-4A97-8DC2-B0F61A7C9C8F}.catalogItem
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/0c2bb7da-9afc-4ff7-bbb5-fa12d7684faa
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy/TempState/StartUnifiedTileModelCache.dat
+/vol_vol6/Windows/SoftwareDistribution/DataStore/DataStore.edb
+/vol_vol6/Windows/WinSxS/amd64_microsoft-windows-smartscreen_31bf3856ad364e35_10.0.19041.2913_none_31d73544d5909088/smartscreen.exe
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{80ac28a2-dc8b-47f9-b97d-95be8c61635a}/0.0.filtertrie.intermediate.txt
+/vol_vol6/$OrphanFiles/kok-IN/mpuxagent.dll.mui
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/38c98131-9137-4d7e-ab0c-aca4931fd343
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe/LocalCache/perUserCache_0/29be49d5-a5f1-47e8-a675-d26d0379d74c
+/vol_vol6/Windows/System32/config/systemprofile/AppData/Local/Microsoft/InstallService/{71628675-B8D3-4E8F-9DC9-D473041A14D6}.catalogItem
+/vol_vol6/ProgramData/Microsoft/Windows/AppRepository/Packages/14382rajuacharya.EthicalHackingResources_1.0.0.0_neutral__pc7qkqst7ppf6/S-1-5-21-2753016263-4198145883-3155644156-1000.pckgdep
+/vol_vol6/Users/catherine/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache133377841695358253.txt
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Windows/Safety/edge/remote/script_300161259571223429446516194326035503227.rel.v2
+/vol_vol6/Users/catherine/AppData/Local/Microsoft/Windows/INetCache/IE/2JZ3V2MW/2[1]
+/vol_vol6/Windows/System32/config/SYSTEM

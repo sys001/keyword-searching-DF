@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-08-18 13:33:14" modified="2023-08-18 13:33:20" name="list of world capitals - unicode">
+  <keyword literal="true" whole="true">Sukhumi</keyword>
+  <keyword literal="true" whole="true">Kabul</keyword>
+  <keyword literal="true" whole="true">Episkopi Cantonment</keyword>
+  <keyword literal="true" whole="true">Tirana</keyword>
+  <keyword literal="true" whole="true">Algiers</keyword>
+  <keyword literal="true" whole="true">Pago Pago</keyword>
+  <keyword literal="true" whole="true">Andorra la Vella</keyword>
+  <keyword literal="true" whole="true">Luanda</keyword>
+  <keyword literal="true" whole="true">The Valley</keyword>
+  <keyword literal="true" whole="true">St. John's</keyword>
+  <keyword literal="true" whole="true">Buenos Aires</keyword>
+  <keyword literal="true" whole="true">Yerevan</keyword>
+  <keyword literal="true" whole="true">Oranjestad</keyword>
+  <keyword literal="true" whole="true">Georgetown</keyword>
+  <keyword literal="true" whole="true">Canberra</keyword>
+  <keyword literal="true" whole="true">Vienna</keyword>
+  <keyword literal="true" whole="true">Baku</keyword>
+  <keyword literal="true" whole="true">Nassau</keyword>
+  <keyword literal="true" whole="true">Manama</keyword>
+  <keyword literal="true" whole="true">Dhaka</keyword>
+  <keyword literal="true" whole="true">Bridgetown</keyword>
+  <keyword literal="true" whole="true">Minsk</keyword>
+  <keyword literal="true" whole="true">Brussels</keyword>
+  <keyword literal="true" whole="true">Belmopan</keyword>
+  <keyword literal="true" whole="true">Porto-Novo</keyword>
+  <keyword literal="true" whole="true">Hamilton</keyword>
+  <keyword literal="true" whole="true">Thimphu</keyword>
+  <keyword literal="true" whole="true">Sucre</keyword>
+  <keyword literal="true" whole="true">La Paz</keyword>
+  <keyword literal="true" whole="true">Sarajevo</keyword>
+  <keyword literal="true" whole="true">Gaborone</keyword>
+  <keyword literal="true" whole="true">Brasília</keyword>
+  <keyword literal="true" whole="true">Road Town</keyword>
+  <keyword literal="true" whole="true">Bandar Seri Begawan</keyword>
+  <keyword literal="true" whole="true">Sofia</keyword>
+  <keyword literal="true" whole="true">Ouagadougou</keyword>
+  <keyword literal="true" whole="true">Bujumbura</keyword>
+  <keyword literal="true" whole="true">Phnom Penh</keyword>
+  <keyword literal="true" whole="true">Yaoundé</keyword>
+  <keyword literal="true" whole="true">Ottawa</keyword>
+  <keyword literal="true" whole="true">Praia</keyword>
+  <keyword literal="true" whole="true">George Town</keyword>
+  <keyword literal="true" whole="true">Bangui</keyword>
+  <keyword literal="true" whole="true">N'Djamena</keyword>
+  <keyword literal="true" whole="true">Santiago</keyword>
+  <keyword literal="true" whole="true">Beijing</keyword>
+  <keyword literal="true" whole="true">Flying Fish Cove</keyword>
+  <keyword literal="true" whole="true">West Island</keyword>
+  <keyword literal="true" whole="true">Bogotá</keyword>
+  <keyword literal="true" whole="true">Moroni</keyword>
+  <keyword literal="true" whole="true">Avarua</keyword>
+  <keyword literal="true" whole="true">San José</keyword>
+  <keyword literal="true" whole="true">Zagreb</keyword>
+  <keyword literal="true" whole="true">Havana</keyword>
+  <keyword literal="true" whole="true">Willemstad</keyword>
+  <keyword literal="true" whole="true">Nicosia</keyword>
+  <keyword literal="true" whole="true">Prague</keyword>
+  <keyword literal="true" whole="true">Yamoussoukro</keyword>
+  <keyword literal="true" whole="true">Kinshasa</keyword>
+  <keyword literal="true" whole="true">Copenhagen</keyword>
+  <keyword literal="true" whole="true">Djibouti</keyword>
+  <keyword literal="true" whole="true">Roseau</keyword>
+  <keyword literal="true" whole="true">Santo Domingo</keyword>
+  <keyword literal="true" whole="true">Dili</keyword>
+  <keyword literal="true" whole="true">Hanga Roa</keyword>
+  <keyword literal="true" whole="true">Quito</keyword>
+  <keyword literal="true" whole="true">Cairo</keyword>
+  <keyword literal="true" whole="true">San Salvador</keyword>
+  <keyword literal="true" whole="true">Malabo</keyword>
+  <keyword literal="true" whole="true">Asmara</keyword>
+  <keyword literal="true" whole="true">Tallinn</keyword>
+  <keyword literal="true" whole="true">Addis Ababa</keyword>
+  <keyword literal="true" whole="true">Stanley</keyword>
+  <keyword literal="true" whole="true">Tórshavn</keyword>
+  <keyword literal="true" whole="true">Palikir</keyword>
+  <keyword literal="true" whole="true">Suva</keyword>
+  <keyword literal="true" whole="true">Helsinki</keyword>
+  <keyword literal="true" whole="true">Paris</keyword>
+  <keyword literal="true" whole="true">Cayenne</keyword>
+  <keyword literal="true" whole="true">Papeete</keyword>
+  <keyword literal="true" whole="true">Libreville</keyword>
+  <keyword literal="true" whole="true">Banjul</keyword>
+  <keyword literal="true" whole="true">Tbilisi</keyword>
+  <keyword literal="true" whole="true">Berlin</keyword>
+  <keyword literal="true" whole="true">Accra</keyword>
+  <keyword literal="true" whole="true">Gibraltar</keyword>
+  <keyword literal="true" whole="true">Athens</keyword>
+  <keyword literal="true" whole="true">Nuuk</keyword>
+  <keyword literal="true" whole="true">St. George's</keyword>
+  <keyword literal="true" whole="true">Hagåtña</keyword>
+  <keyword literal="true" whole="true">Guatemala City</keyword>
+  <keyword literal="true" whole="true">St. Peter Port</keyword>
+  <keyword literal="true" whole="true">Conakry</keyword>
+  <keyword literal="true" whole="true">Bissau</keyword>
+  <keyword literal="true" whole="true">Port-au-Prince</keyword>
+  <keyword literal="true" whole="true">Tegucigalpa</keyword>
+  <keyword literal="true" whole="true">Budapest</keyword>
+  <keyword literal="true" whole="true">Reykjavík</keyword>
+  <keyword literal="true" whole="true">New Delhi</keyword>
+  <keyword literal="true" whole="true">Jakarta</keyword>
+  <keyword literal="true" whole="true">Tehran</keyword>
+  <keyword literal="true" whole="true">Baghdad</keyword>
+  <keyword literal="true" whole="true">Dublin</keyword>
+  <keyword literal="true" whole="true">Douglas</keyword>
+  <keyword literal="true" whole="true">Jerusalem</keyword>
+  <keyword literal="true" whole="true">Rome</keyword>
+  <keyword literal="true" whole="true">Kingston</keyword>
+  <keyword literal="true" whole="true">Tokyo</keyword>
+  <keyword literal="true" whole="true">St. Helier</keyword>
+  <keyword literal="true" whole="true">Amman</keyword>
+  <keyword literal="true" whole="true">Astana</keyword>
+  <keyword literal="true" whole="true">Nairobi</keyword>
+  <keyword literal="true" whole="true">Tarawa</keyword>
+  <keyword literal="true" whole="true">Pristina</keyword>
+  <keyword literal="true" whole="true">Kuwait City</keyword>
+  <keyword literal="true" whole="true">Bishkek</keyword>
+  <keyword literal="true" whole="true">Vientiane</keyword>
+  <keyword literal="true" whole="true">Riga</keyword>
+  <keyword literal="true" whole="true">Beirut</keyword>
+  <keyword literal="true" whole="true">Maseru</keyword>
+  <keyword literal="true" whole="true">Monrovia</keyword>
+  <keyword literal="true" whole="true">Tripoli</keyword>
+  <keyword literal="true" whole="true">Vaduz</keyword>
+  <keyword literal="true" whole="true">Vilnius</keyword>
+  <keyword literal="true" whole="true">Luxembourg</keyword>
+  <keyword literal="true" whole="true">Skopje</keyword>
+  <keyword literal="true" whole="true">Antananarivo</keyword>
+  <keyword literal="true" whole="true">Lilongwe</keyword>
+  <keyword literal="true" whole="true">Kuala Lumpur</keyword>
+  <keyword literal="true" whole="true">Malé</keyword>
+  <keyword literal="true" whole="true">Bamako</keyword>
+  <keyword literal="true" whole="true">Valletta</keyword>
+  <keyword literal="true" whole="true">Majuro</keyword>
+  <keyword literal="true" whole="true">Nouakchott</keyword>
+  <keyword literal="true" whole="true">Port Louis</keyword>
+  <keyword literal="true" whole="true">Mexico City</keyword>
+  <keyword literal="true" whole="true">Chisinau</keyword>
+  <keyword literal="true" whole="true">Monaco</keyword>
+  <keyword literal="true" whole="true">Ulaanbaatar</keyword>
+  <keyword literal="true" whole="true">Podgorica</keyword>
+  <keyword literal="true" whole="true">Plymouth</keyword>
+  <keyword literal="true" whole="true">Rabat</keyword>
+  <keyword literal="true" whole="true">Maputo</keyword>
+  <keyword literal="true" whole="true">Naypyidaw</keyword>
+  <keyword literal="true" whole="true">Stepanakert</keyword>
+  <keyword literal="true" whole="true">Windhoek</keyword>
+  <keyword literal="true" whole="true">Yaren</keyword>
+  <keyword literal="true" whole="true">Kathmandu</keyword>
+  <keyword literal="true" whole="true">Amsterdam</keyword>
+  <keyword literal="true" whole="true">Nouméa</keyword>
+  <keyword literal="true" whole="true">Wellington</keyword>
+  <keyword literal="true" whole="true">Managua</keyword>
+  <keyword literal="true" whole="true">Niamey</keyword>
+  <keyword literal="true" whole="true">Abuja</keyword>
+  <keyword literal="true" whole="true">Alofi</keyword>
+  <keyword literal="true" whole="true">Pyongyang</keyword>
+  <keyword literal="true" whole="true">Belfast</keyword>
+  <keyword literal="true" whole="true">Saipan</keyword>
+  <keyword literal="true" whole="true">Oslo</keyword>
+  <keyword literal="true" whole="true">Muscat</keyword>
+  <keyword literal="true" whole="true">Islamabad</keyword>
+  <keyword literal="true" whole="true">Ngerulmud</keyword>
+  <keyword literal="true" whole="true">Panama City</keyword>
+  <keyword literal="true" whole="true">Port Moresby</keyword>
+  <keyword literal="true" whole="true">Asunción</keyword>
+  <keyword literal="true" whole="true">Lima</keyword>
+  <keyword literal="true" whole="true">Manila</keyword>
+  <keyword literal="true" whole="true">Adamstown</keyword>
+  <keyword literal="true" whole="true">Warsaw</keyword>
+  <keyword literal="true" whole="true">Lisbon</keyword>
+  <keyword literal="true" whole="true">San Juan</keyword>
+  <keyword literal="true" whole="true">Doha</keyword>
+  <keyword literal="true" whole="true">Taipei</keyword>
+  <keyword literal="true" whole="true">Brazzaville</keyword>
+  <keyword literal="true" whole="true">Bucharest</keyword>
+  <keyword literal="true" whole="true">Moscow</keyword>
+  <keyword literal="true" whole="true">Kigali</keyword>
+  <keyword literal="true" whole="true">Gustavia</keyword>
+  <keyword literal="true" whole="true">Jamestown</keyword>
+  <keyword literal="true" whole="true">Basseterre</keyword>
+  <keyword literal="true" whole="true">Castries</keyword>
+  <keyword literal="true" whole="true">Marigot</keyword>
+  <keyword literal="true" whole="true">St. Pierre</keyword>
+  <keyword literal="true" whole="true">Kingstown</keyword>
+  <keyword literal="true" whole="true">Apia</keyword>
+  <keyword literal="true" whole="true">San Marino</keyword>
+  <keyword literal="true" whole="true">Riyadh</keyword>
+  <keyword literal="true" whole="true">Edinburgh</keyword>
+  <keyword literal="true" whole="true">Dakar</keyword>
+  <keyword literal="true" whole="true">Belgrade</keyword>
+  <keyword literal="true" whole="true">Victoria</keyword>
+  <keyword literal="true" whole="true">Freetown</keyword>
+  <keyword literal="true" whole="true">Singapore</keyword>
+  <keyword literal="true" whole="true">Philipsburg</keyword>
+  <keyword literal="true" whole="true">Bratislava</keyword>
+  <keyword literal="true" whole="true">Ljubljana</keyword>
+  <keyword literal="true" whole="true">Honiara</keyword>
+  <keyword literal="true" whole="true">Mogadishu</keyword>
+  <keyword literal="true" whole="true">Hargeisa</keyword>
+  <keyword literal="true" whole="true">Pretoria</keyword>
+  <keyword literal="true" whole="true">Grytviken</keyword>
+  <keyword literal="true" whole="true">Seoul</keyword>
+  <keyword literal="true" whole="true">Tskhinvali</keyword>
+  <keyword literal="true" whole="true">Juba</keyword>
+  <keyword literal="true" whole="true">Madrid</keyword>
+  <keyword literal="true" whole="true">Sri Jayawardenapura Kotte</keyword>
+  <keyword literal="true" whole="true">Khartoum</keyword>
+  <keyword literal="true" whole="true">Paramaribo</keyword>
+  <keyword literal="true" whole="true">Mbabane</keyword>
+  <keyword literal="true" whole="true">Stockholm</keyword>
+  <keyword literal="true" whole="true">Bern</keyword>
+  <keyword literal="true" whole="true">Damascus</keyword>
+  <keyword literal="true" whole="true">São Tomé</keyword>
+  <keyword literal="true" whole="true">Dushanbe</keyword>
+  <keyword literal="true" whole="true">Dodoma</keyword>
+  <keyword literal="true" whole="true">Bangkok</keyword>
+  <keyword literal="true" whole="true">Lomé</keyword>
+  <keyword literal="true" whole="true">Nukuʻalofa</keyword>
+  <keyword literal="true" whole="true">Tiraspol</keyword>
+  <keyword literal="true" whole="true">Port of Spain</keyword>
+  <keyword literal="true" whole="true">Edinburgh of the Seven Seas</keyword>
+  <keyword literal="true" whole="true">Tunis</keyword>
+  <keyword literal="true" whole="true">Ankara</keyword>
+  <keyword literal="true" whole="true">Ashgabat</keyword>
+  <keyword literal="true" whole="true">Cockburn Town</keyword>
+  <keyword literal="true" whole="true">Funafuti</keyword>
+  <keyword literal="true" whole="true">Kampala</keyword>
+  <keyword literal="true" whole="true">Kyiv</keyword>
+  <keyword literal="true" whole="true">Abu Dhabi</keyword>
+  <keyword literal="true" whole="true">London</keyword>
+  <keyword literal="true" whole="true">Washington, D.C.</keyword>
+  <keyword literal="true" whole="true">Charlotte Amalie</keyword>
+  <keyword literal="true" whole="true">Montevideo</keyword>
+  <keyword literal="true" whole="true">Tashkent</keyword>
+  <keyword literal="true" whole="true">Port Vila</keyword>
+  <keyword literal="true" whole="true">Vatican City</keyword>
+  <keyword literal="true" whole="true">Caracas</keyword>
+  <keyword literal="true" whole="true">Hanoi</keyword>
+  <keyword literal="true" whole="true">Cardiff</keyword>
+  <keyword literal="true" whole="true">Mata-Utu</keyword>
+  <keyword literal="true" whole="true">El Aaiún</keyword>
+  <keyword literal="true" whole="true">Sanaá</keyword>
+  <keyword literal="true" whole="true">Lusaka</keyword>
+  <keyword literal="true" whole="true">Harare</keyword>
+ </keyword_list>
+</keyword_lists>
